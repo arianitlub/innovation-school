@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'tools/create_innovation_deck.js'
-      - 'tools/create_design_thinking_roadmap.js'
+      - 'tools/create_design_thinking_status.js'
       - '.github/workflows/build-team-alignment.yml'
   workflow_dispatch:
 
@@ -26,22 +26,21 @@ jobs:
           npm install pptxgenjs
           sudo apt-get update
           sudo apt-get install -y libreoffice-impress fonts-liberation
-      - name: Build presentations
+      - name: Build PDFs
         run: |
           node tools/create_innovation_deck.js
-          node tools/create_design_thinking_roadmap.js
+          node tools/create_design_thinking_status.js
           libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/innovation-challenge-team-alignment.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/design-thinking-roadmap-draft.pptx
-          test -s docs/presentation/innovation-challenge-team-alignment.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/design-thinking-journey-status.pptx
           test -s docs/presentation/innovation-challenge-team-alignment.pdf
-          test -s docs/presentation/design-thinking-roadmap-draft.pptx
-          test -s docs/presentation/design-thinking-roadmap-draft.pdf
-      - name: Commit generated files
+          test -s docs/presentation/design-thinking-journey-status.pdf
+          rm -f docs/presentation/*.pptx
+      - name: Commit generated PDFs
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/presentation/innovation-challenge-team-alignment.pptx docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-roadmap-draft.pptx docs/presentation/design-thinking-roadmap-draft.pdf
+          git add docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-journey-status.pdf
           git diff --cached --quiet && exit 0
-          git commit -m 'Build Innovation School presentation files'
+          git commit -m 'Build Innovation School PDF presentations'
           git pull --rebase origin main
           git push origin HEAD:main
