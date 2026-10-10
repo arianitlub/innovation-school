@@ -43,4 +43,5 @@ jobs:
           git add docs/presentation/innovation-challenge-team-alignment.pptx docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-roadmap-draft.pptx docs/presentation/design-thinking-roadmap-draft.pdf
           git diff --cached --quiet && exit 0
           git commit -m 'Build Innovation School presentation files'
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
