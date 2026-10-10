@@ -1,0 +1,41 @@
+name: Build team alignment deck
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/create_innovation_deck.js'
+      - '.github/workflows/build-team-alignment.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install presentation tools
+        run: |
+          npm install pptxgenjs
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-impress fonts-liberation
+      - name: Build presentation
+        run: |
+          node tools/create_innovation_deck.js
+          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/innovation-challenge-team-alignment.pptx
+          test -s docs/presentation/innovation-challenge-team-alignment.pptx
+          test -s docs/presentation/innovation-challenge-team-alignment.pdf
+      - name: Commit generated files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/presentation/innovation-challenge-team-alignment.pptx docs/presentation/innovation-challenge-team-alignment.pdf
+          git diff --cached --quiet && exit 0
+          git commit -m 'Add Innovation Challenge team alignment presentation'
+          git push
