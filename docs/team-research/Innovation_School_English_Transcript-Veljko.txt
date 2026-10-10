@@ -1,0 +1,673 @@
+Innovation School: Full Available Transcript in English
+
+SOURCE AND TRANSLATION NOTE
+The meeting is marked as transcribed. This document contains the English transcript provided in the preceding response, without the summary. The original automatic transcription contains substantial recognition errors, incomplete sentences, duplicated passages, and inconsistent speaker labels. Unclear wording is marked rather than reconstructed as fact. The labels “Veljko,” “Speaker 1,” “Speaker 3,” and “Unknown” are retained from the source and do not reliably identify the actual speakers.
+Consecutive fragments from the same speaker are grouped for readability. Original timestamp identifiers are retained to help trace passages back to the source. This is a translation of the full available text, not a verified transcription of the recording.
+Source: Innovation School meeting transcript, reference turn1search1.
+
+A. Recording, language settings, and meeting notes
+
+[1791296009] Speaker 1:
+“This is the key point. For this recording, you need to set the language to [unclear].”
+
+[1791296016–1791296021] Unknown / Speaker 1:
+“It can be Serbian or Croatian.”
+“Even if you [unclear].”
+Speaker 1: “And you will get [unclear].”
+Unknown: “That is clear.”
+
+[1791296023] Veljko:
+“I set it to Serbian Cyrillic. It is best at [unclear]. Afterwards, you can work with Cyrillic. I think there is only Serbian Cyrillic and the facilitator [unclear].”
+
+[1791296027–1791296040] Unknown:
+“In Cyrillic [unclear].”
+“Ah.”
+“Do you have it?”
+“I have it. I have it.”
+“So, essentially, the action [unclear].”
+“The [unclear] produces the notes at the end.”
+
+[1791296045] Speaker 1:
+“You actually get it immediately. This is for in-person meetings, you know, but it is really excellent. For every in-person meeting…”
+
+[1791296054–1791296064] Veljko:
+“If we follow this new approach, we will get notes and everything at the end, including [unclear, possibly tasks]. If they ask me to share the notes with them, it will forward them [unclear].”
+
+[1791296054] Unknown:
+“This.”
+
+[1791296065] Veljko:
+“I did that once. However, I realized that I had selected the wrong language, because I got something useless, with words [unclear]. If you select the wrong language, you can go here [unclear], and then go to ‘Start recording,’ ‘Start transcription.’”
+
+[1791296080] Unknown:
+“Transcript.”
+
+[1791296085–1791296102] Veljko:
+“Then you set the language. There are not two settings [unclear]. If you want to check, you can go to the transcript and see which [language; remainder unclear].
+[Unclear fragment.]
+“You see, it recognizes that there are two of us, [unclear], Speaker 2, although it is still only me [unclear].”
+
+[1791296106–1791296111] Unknown:
+“Only then.”
+“Here.”
+“Okay.”
+“More.”
+
+B. Introducing the investment-advice topic
+
+[1791296113–1791296176] Veljko:
+“Okay, so the topic is essentially mass-affluent customers.
+“[Unclear passage referring to investment advice.]
+“Let me first explain the context and the topic a little. Across different countries, the practical and regulatory aspects overlap.
+“First, why is this topic interesting? At the moment, in our network banks, [unclear country or entity], and in similar situations, the setup is more or less as follows.”
+
+[1791296140–1791296161] Unknown / Veljko:
+Unknown: “Ah.”
+“Please [unclear].”
+Veljko: “[Unclear fragment.]”
+Unknown: “And.”
+
+[1791296189] Unknown:
+“So you [unclear].”
+
+[1791296193–1791296208] Veljko:
+“One option is that you simply present products to the customer. You say: ‘Look, I have these 15 funds,’ and [explain each fund; wording unclear].
+“You decide for yourself which fund is right for you.”
+
+[1791296203] Unknown:
+“And.”
+
+[1791296213] Unknown:
+“That model?”
+
+[1791296213] Veljko:
+“That way of working is called non-advisory. I am not advising you; I am only presenting our products, and you decide what is right for you. The second way of working is advisory.”
+
+[1791296226–1791296277] Veljko:
+“In that approach, you first have to learn something about the customer through standardized questionnaires. Essentially, you establish their knowledge and experience and their risk profile.
+“After that assessment and those questionnaires, you can recommend a product based on the answers. You might say: ‘Based on everything you have told me, which products you understand, how willing you are to take risks, and the other factors, I would say that this [riskier fund; wording unclear] is best for you. You are young, you have time, you have a ten-year investment horizon,’ or perhaps a balanced fund, an equity fund, and so on.
+“Essentially, that is [unclear].”
+
+C. Branch capacity and the economics of advice
+
+[1791296280–1791296315] Veljko:
+“In branches, the volume of work is too high. This is not generally done for mass customers, because there is no time in the branch. The person is working almost like on a production line, and going through all the questionnaires and entering everything [unclear] takes time.
+“So, it is mostly non-advisory: I simply offer you a product. Advisory service is provided in [unclear segment] and in premium banking.
+“It is provided for some parts of premium banking and not for others. That is the general context, both practical and regulatory.”
+
+[1791296319–1791296335] Veljko:
+“Now, the question is how technology can help you offer a mass customer what is written here: wealth management advice.
+“And where are the gaps? The gaps are, of course…”
+
+[1791296337] Unknown:
+“[Unclear question.]”
+
+[1791296339–1791296368] Veljko:
+“There are not enough people, and there is everything we have already mentioned: in the branch, there is no time to deal with it.
+“Especially when, for example, a mass customer comes to invest €200 or €500, and that €500 is their current savings. The bank might earn three [unit unclear] from that €500, while someone would need to spend an hour and a half with them [unclear].
+“We need to automate the process. Technology may help us.”
+
+D. Self-service and assisted digital journeys
+
+[1791296372–1791296400] Veljko:
+“How can technology help? It can help by giving the customer something they can use themselves in an application.
+“For example, you could open an application and it asks you [unclear question]. You fill in all the questionnaires yourself, and based on the completed questionnaire, I give you a predefined investment model.
+“There are different variations of how this could work.”
+
+[1791296389] Unknown:
+“How does it say that?”
+
+[1791296410–1791296454] Veljko:
+“Would it be completely [self-service; wording unclear], or, in a more realistic scenario, would it be an assisted digital process?
+“For example, the two of us could be on a video call while you do everything. You could ask: ‘What does this mean? It will not let me continue. This question is unclear. What investment has it suggested? What kind of fund is this?’
+“That is perhaps a more realistic scenario. People generally are not [remainder unclear].
+“Even in markets ahead of us, such as Slovakia and the Czech Republic, assisted approaches dominate for some more complex products.”
+
+[1791296420] Unknown:
+“And.”
+
+[1791296446–1791296448] Unknown:
+“Do you think that assisted [approach] is more realistic [unclear]?”
+“Nothing.”
+
+[1791296463] Speaker 3:
+“So, something hybrid, or something like that. There are a thousand [names; wording unclear].”
+
+[1791296467–1791296481] Veljko:
+“There are a thousand names for it: human-assisted sales [unclear].
+“The names change. There are various names, but generally it is called some form of hybrid or assisted sales.”
+
+[1791296472–1791296474] Unknown:
+“That is now [unclear].”
+“Some.”
+
+E. Investment application and robo-advice
+
+[1791296488–1791296527] Veljko:
+“We have an application called [name transcribed as ‘e di’; unclear].
+“At [unclear level or market], like [unclear product name]. Serbia has the same thing, except that it is located [unclear].
+“In addition to securities, there are also funds. Robo-advice has now been piloted on [application name unclear].
+“That happened relatively recently, a few months ago.
+“When you go to that particular application, you can go through the process I explained and receive a personalized recommendation. Over time, it would rebalance. Robo-advice has its own dynamics and functions.”
+
+[1791296502] Unknown:
+“This.”
+
+[1791296546–1791296589] Veljko:
+“For example, you could pay in €200 every month, and it distributes the money itself: [allocation amounts and wording unclear].
+“If, over time, for various reasons, you move away from your original allocation, imagine that one investment has grown significantly.
+“Your profile calls for a medium [risk level; wording unclear], but the riskier fund has grown and now makes up a much larger part of the portfolio [percentage unclear].
+“Then it rebalances and says: ‘Let us reduce this now. We need something less risky,’ [remainder unclear].
+“That is robo-advice [unclear fragment].
+“All of this already exists [location or wording unclear], but we are now looking at how we could apply it [unclear].”
+
+[1791296586] Unknown:
+“[Unclear interjection.]”
+
+[1791296603] Unknown:
+“Solutions.”
+
+[1791296605] Veljko:
+“Solutions that already exist, of course, through our applications and so on.”
+
+F. Mass, premium, and private banking segments
+
+[1791296611–1791296615] Speaker 3:
+“When you say mass-affluent customers, that is obviously a particular category [unclear].”
+
+[1791296620–1791296662] Veljko:
+“Look, the best example is our own bank, so that it is clear. We have mass customers [unclear description], without a personal banker [wording unclear].
+“[Unclear fragment referring to an individual customer.]
+“Our second category is premium customers.
+“To be premium, you have your own personal banker. You need a minimum salary of 150,000 dinars, or [alternative criterion unclear].
+“These are examples. In another country, the threshold may be higher, for example in the Czech Republic, but the principle is the same.
+“Above that, you have private banking.
+“That is not mentioned here because private banking has its own advisers. [Unclear sentence.] Those customers have enough assets to make it worthwhile to have someone looking after them.”
+
+[1791296650] Unknown:
+“And.”
+
+[1791296678] Speaker 3:
+“So, essentially, this is premium [banking]?”
+
+[1791296681–1791296711] Veljko:
+“That is right, [unclear]. Premium itself is divided into two categories. A premium customer can be someone earning 150,000 dinars with no deposits.
+“A premium customer can also be someone earning €6,000 and having [savings amount unclear], but who is not in the private banking segment.
+“That premium customer is quite different from the other premium customer.
+“So, within premium, there is a smaller subsegmentation. One category is [premium investment / category name unclear], the stronger premium customers, and the other is [unclear category].”
+
+[1791296705–1791296710] Unknown:
+“And still…”
+“That is right.”
+
+[1791296721] Unknown:
+“Yes.”
+
+G. More granular segmentation and personalized service
+
+[1791296723–1791296764] Speaker 3:
+“Since we are talking about technology, do you think it makes sense to create some segmentation?
+“I have researched this a little using AI. For example, mass-affluent customers could be divided into several groups. You mentioned two, but perhaps there could be five. Based on that, we could personalize the approach.
+“For example, some customers could be approached through an application, while someone a little wealthier might receive a personal call. I am just brainstorming, but do you think it makes sense to divide the segment into smaller groups and have a different approach for each?”
+
+[1791296764] Unknown:
+“Thank you.”
+
+[1791296774–1791296834] Veljko:
+“Yes, in principle. However, the lower-level service would always also be available to the customers above it, but not the other way around.
+“For example, if you have a digital platform where you do everything yourself, that would also be available to a private banking customer who wants to do things independently and does not want our [assistance; wording unclear].
+“So, it certainly makes sense. You have a basic service that everyone can access and complete in the application.
+“In addition, for the customers we mentioned, [segment name unclear], it is worthwhile to have a banker who assists them and goes through the process with them, targets them with campaigns, and invites them to meetings. You would approach them differently.
+“So, yes, it makes sense. In the mass segment, we also have customers with potential for premium [remainder unclear].
+“Mass [fragment].
+“There are some [unclear], but let us not go into that. It is an anomaly that will be resolved over time, because premium currently does not have the capacity for all those people [unclear].”
+
+[1791296848–1791296882] Veljko:
+“In a clean model, mass customers are mass, premium customers are premium, and so on.
+“We absolutely have those subsegments, and there should be a difference in the approach.
+“For a premium investment customer who is almost a private banking customer, it is worthwhile to have an adviser, have the banker invite them to a meeting, and spend a couple of hours with them.
+“For someone with fewer resources, the solution is essentially a platform, or an assisted platform.
+“Those are some of the current [approaches / names; unclear].”
+
+[1791296884] Unknown:
+“And.”
+
+H. Current gaps and the end-to-end journey
+
+[1791296886–1791296903] Speaker 3:
+“Do you notice anything in the way you work today? I would not necessarily call them problems, but things people suggest, such as: ‘You do not have this,’ or ‘This could be better.’ What is missing?
+“Something from first-hand experience [unclear].”
+
+[1791296900–1791296908] Unknown:
+“Everything that is…”
+“[Unclear fragment.]”
+“Which is in…”
+
+[1791296910–1791296960] Veljko:
+“[Something] is being finalized. That is currently our biggest bottleneck. You need an end-to-end process.
+“Imagine opening the application. It says: ‘Hello, you can open [an investment application or subscription; wording unclear] directly online, without going to the bank, for one of our nine [funds; sentence incomplete].’
+“That is key.
+“And now [unclear].
+“Why? Because you do not have the process; you do not have wealth management advice.
+“It can be a light version or a heavy version.
+“But the process should give you a specific personalized recommendation based on your profile: ‘Veljko, I suggest 40% in alternative [investments], 30% in bonds, and 30% in [unclear].’”
+
+[1791296919–1791296940] Unknown:
+“And [unclear].”
+“[Unclear fragment.]”
+
+[1791296976–1791296980] Speaker 3:
+“What they need most is actually an application.
+“To say: ‘I want to invest,’ and then ask how, where, and what.”
+
+[1791296980] Unknown:
+“[Unclear fragment.]”
+
+I. Customer education
+
+[1791296984–1791297039] Veljko:
+“Essentially, they need education.
+“That is something already being worked on [unclear]. Education comes first.
+“We could build something in the application, perhaps a quiz, which tells you: ‘Look, you are this type of investor.’ You begin to learn and get information [unclear].
+“Once customers are educated and interested, you need to profile them and, finally, [support the investment; final verb unclear].
+“That is the process from beginning to end. [Unclear fragment.]
+“For example, the education component is almost defined; it needs to be implemented.
+“What we are discussing here is the idea of advice.
+“That is [unclear].”
+
+[1791297020] Unknown:
+“That is…”
+
+[1791297041] Unknown:
+“[Unclear fragment.]”
+
+J. Virtual assistants and human handover
+
+[1791297041–1791297069] Speaker 3:
+“How do you think people would react? Many people do not like chatbots or AI agents, particularly in this segment. What is your view?
+“For example, could it be a combination? I am just brainstorming. How would customers feel about speaking to a virtual assistant that collects information, and then a person takes over? Would that be [appropriate; wording unclear]?”
+
+[1791297075–1791297108] Veljko:
+“I think, you know, as with everything, it will be an individual matter: different people will prefer different things.
+“But what I am sure of is that this is the right direction.
+“In practice, you have a chatbot that guides you.
+“That is my vision of how the process should look. The problem is that if the process is not guided, the customer will always get stuck somewhere.
+“Something will be unclear [unclear fragment]. If you have an AI chatbot, it helps you.”
+
+[1791297082] Unknown:
+“There will be…”
+
+[1791297114] Unknown:
+“Hey.”
+
+[1791297117–1791297143] Veljko:
+“One option is [unclear].
+“‘Call a banker,’ or ‘I want someone to help me with this.’
+“So, alongside the process and the chat, you have human assistance.
+“Someone who is young expects [unclear]. ‘I already have [unclear] contact in two days.’
+“Think about the range of people who are your [customers; wording unclear].”
+
+[1791297148] Unknown:
+“[Unclear fragment.]”
+
+K. Chatbot quality and contextual assistance
+
+[1791297150–1791297163] Speaker 3:
+“For example, I use AI a lot, really. I use it to give me advice and explain things.
+“But honestly, the way I see it, when I ask [AI product names unclear], I feel more confident and prefer that to an AI solution offered by a bank, because those are usually much lower quality.
+“And it gives me an answer [remainder unclear].”
+
+[1791297161] Unknown:
+“This…”
+
+[1791297179] Veljko:
+“Because I would first check directly, or work in parallel: complete the process here and ask my [AI assistant; name unclear] there.”
+
+[1791297189] Unknown:
+“On…”
+
+[1791297191] Speaker 3:
+“And then…”
+
+[1791297192] Veljko:
+“I agree. If you have a chatbot, it needs to be excellent.”
+
+[1791297198] Unknown:
+“To…”
+
+[1791297198] Speaker 3:
+“I am thinking that it could actually see your application. You could ask it something about the specific thing you are looking at, and it would be completely personalized [final fragment unclear].”
+
+[1791297211–1791297257] Veljko:
+“Yes, you would be looking at it together. That is the vision: you work together and look at the same thing.
+“It would be trained [unclear]. Once ten people go through the process, they might leave 30 questions that cover 95% of all questions that will ever be asked.
+“It can be trained to follow the process easily [unclear]. Whether it has been designed that way, I do not know.
+“But I think it can be trained to support the process in that way.
+“That would be something [unclear].
+“That is how I imagined my ideal [application or experience; unclear]. I know we are working on a chatbot in the application, that it already exists, and that work is being done on it.”
+
+[1791297233–1791297250] Unknown:
+“For…”
+“In that way.”
+
+[1791297270] Speaker 3:
+“Is that the virtual [assistant name unclear], in that format, or an actual chat?”
+
+[1791297274–1791297286] Veljko:
+“[Assistant name unclear] will obviously be in the application.
+“An actual chatbot.
+“This would be a small extension: train that chatbot on…”
+
+[1791297278] Unknown:
+“[Unclear fragment.]”
+
+[1791297291–1791297294] Unknown:
+“Investment products.”
+“Yes.”
+
+L. Data needed for investment recommendations
+
+[1791297295–1791297305] Speaker 3:
+“What would those be, for example? We have already gone over time, so perhaps another five minutes [unclear].
+“What data do you think would be useful?
+“Let us imagine that we have a tool that analyzes data and gives me a recommendation based on it. Could you roughly say which specific data that would be?
+“For example, age, education, employment, and so on. What would be useful to you? Perhaps even something less conventional that you would find interesting in that analysis.”
+
+[1791297304] Unknown:
+“When [unclear].”
+
+[1791297338–1791297371] Veljko:
+“I would say that these are two separate things.
+“One is the conventional, traditional approach, and the other is what you are asking about.
+“There is a standard set of questions here, a practical professional matter [unclear].
+“What you said [unclear].
+“An objective investment horizon.
+“That is essentially the most important thing. If you get that right, you have solved [proportion unclear] of the problem.”
+
+[1791297357–1791297362] Unknown:
+“Thing.”
+“Who…”
+
+M. Why the investment horizon matters
+
+[1791297377–1791297410] Veljko:
+“For example, I ask: ‘For how long would you invest the money?’
+“You say: ‘I will need it in a year. I am saving for an apartment.’
+“I could tell you [unclear]. I might say: ‘This alternative fund has the highest expected return, [percentage unclear]. The cash fund has the lowest return, [fund name unclear].’
+“You might say: ‘Great, give me [that one; unclear].’”
+
+[1791297414–1791297433] Veljko:
+“Or there could be a second situation. You say: ‘I want to invest the money for five years.’
+“I say: ‘Look, you have a cash fund. It is [unclear] and does not fluctuate [remainder unclear].’
+“In both cases, you have made a mistake.
+“In the first case, you chose a very risky fund with an expected return of [unclear; the transcript appears to say 8%].”
+
+[1791297432] Unknown:
+“[Unclear fragment.]”
+
+[1791297444–1791297476] Veljko:
+“But the return trajectory might be [unclear sequence]: minus two, plus eight, then one year plus 30, the next year [unclear].
+“And then eventually it recovers [unclear].
+“Over five years, the expected return is [unclear].
+“But you might still be cumulatively down by 2% over a three-year period.
+“You are saving for an apartment, and you need the money in a year [unclear]. You have made a mistake.”
+
+[1791297485–1791297503] Veljko:
+“The second type of mistake: you have a five-year horizon.
+“We know with some probability [percentage unclear] that the fund will achieve its average [return unclear]. Instead of making [percentage unclear], you make two because you do not want to take risks, even though you have the investment horizon.
+“So, the most important piece of information…”
+
+[1791297509] Unknown:
+“From [unclear].”
+
+N. Risk tolerance, knowledge, and experience
+
+[1791297509–1791297536] Veljko:
+“Everything starts with the horizon. If you get that right, you have solved [unclear] of the problem.
+“Besides that, there is subjective risk tolerance. Some people simply cannot tolerate certain things [unclear example].
+“Okay, perhaps [unclear]. We will find a balanced solution.
+“So, we have the objective horizon and subjective risk tolerance.”
+
+[1791297542–1791297568] Veljko:
+“Then there are other conventional things, such as previous experience.
+“Imagine someone who knows nothing and is encountering this for the first time.
+“I would not tell them: ‘Take an individual share.’ I would say: ‘Start with a diversified fund that someone manages.’
+“After some time, once you understand how it works, you can start doing a little yourself.
+“[The automatic transcript repeats this passage with slightly different, corrupted wording.]
+“So, knowledge and experience, the horizon, and risk tolerance are part of the practical process of understanding your risk profile.”
+
+[1791297552–1791297559] Unknown:
+“I do not even know…”
+“First, perhaps some…”
+
+[1791297583] Unknown:
+“[Unclear fragment.]”
+
+O. Additional data and behavioral indicators
+
+[1791297584] Veljko:
+“We can build on your questions and enter the area of big data and models.
+“[This opening sentence appears twice in the automatic transcript.]”
+
+[1791297596–1791297635] Veljko:
+“For example, the fact that you work in a bank rather than being a freelancer suggests a more stable type of income and a stable job.
+“The fact that you are 25 rather than 50 suggests that you probably have a longer horizon than someone who is, for example, 65 and approaching retirement.
+“Or perhaps you have other sources of income.
+“So, there are [unclear].
+“I have given you a few examples. Age can matter because there is a rough rule [unclear]. If you are 25, you should have 75% in equities, [formula or explanation unclear].
+“Because of the time you have in your life, and because markets over the long term [remainder unclear].”
+
+[1791297668] Veljko:
+“Or your behavior patterns: if you are constantly overdrawn or constantly drawing on your savings, your spending habits suggest a risk that you will keep running short of money.
+“It is not good to have money invested in shares if the market could fall tomorrow and you need the money at exactly that point.
+“So, there is certainly scope for profiling [wording unclear].”
+
+[1791297701–1791297734] Veljko:
+“Which indicators would those be? That is a broader and interesting question: which attributes to use.
+“For example, when we previously looked at potential fund customers, we looked at people who had more than 200 [unit unclear] left in their account for three consecutive months.
+“You could identify those people [unclear], or look at people who do this or that.
+“These are different behavioral models that could be used [sentence incomplete].”
+
+[1791297707–1791297733] Unknown:
+“And.”
+“We.”
+“So.”
+
+P. A short profiling questionnaire
+
+[1791297746–1791297787] Veljko:
+“What I have told you covers almost 90% [of the issue; wording unclear]. You can ask questions.
+“For example, in something we have created here [tool or format unclear], we ask several questions.
+“One question is: ‘If the market falls by [percentage unclear] and your investment falls [unclear], as happened during coronavirus, what do you do?’
+“‘I sell everything. I simply want to move into a deposit.’
+“‘I do nothing.’ Or…”
+
+[1791297790] Unknown:
+“Add more.”
+
+[1791297790–1791297829] Veljko:
+“‘I invest more, because I know this is a good opportunity.’
+“Based on that question, I have understood your subjective risk tolerance.
+“With four questions [unclear].
+“One question was: ‘What are you saving for?’
+“Then: ‘For what period?’ [Further wording unclear.] ‘What knowledge do you have?’
+“And this question about risk tolerance.
+“With almost just four questions, we understood how long you are saving for, how willing you are to take risks, and how much prior knowledge and experience you have.
+“For me, that is enough to give you a good proposal with a probability of 99% [wording partly unclear].”
+
+[1791297801] Unknown:
+“To be clear.”
+
+[1791297836] Speaker 3:
+“So, essentially, it does not have to be something overly complicated or a very long questionnaire. But when we, for example, based on [sentence incomplete]…”
+
+[1791297846] Unknown:
+“How [unclear]?”
+
+Q. Regulatory framework and delivery of questionnaires
+
+[1791297847–1791297877] Veljko:
+“That depends somewhat on the regulatory framework.
+“In the EU, questionnaires are standardized.
+“In Serbia, at the moment, we can [unclear]. We do not yet have that kind of regulation. I can ask you four questions, and I do not have to [unclear].
+“In the EU, they have defined what must be asked.
+“Which questions must be shown [unclear].
+“That more or less has to be respected. It specifies everything that must be asked through whatever process, including remote [remainder unclear].
+“[The final statement is duplicated in the automatic transcript.]”
+
+[1791297852–1791297858] Unknown:
+“The questionnaires are standardized.”
+“To [unclear].”
+
+[1791297882] Veljko:
+“What must be asked through that process [remainder unclear].”
+
+[1791297888] Speaker 3:
+“So, the question is how to deliver it. It is not so much about the content, because the content is already more or less defined.
+“[This sentence appears twice in the automatic transcript.]”
+
+[1791297894–1791297914] Veljko:
+“The content is defined. The question is whether I come to you and give you papers to fill in [wording unclear].
+“But we said that this will not happen [unclear], or whether I present it to you on your mobile phone [unclear].
+“Or you collect the papers, and I say: ‘Thank you, Veljko. Come back in a week while I process your questionnaire, and then I will give you an investment proposal. Then you will come back again.’
+“Instead of that…”
+
+[1791297912] Unknown:
+“For…”
+“[Unclear fragment.]”
+
+[1791297926] Unknown:
+“Tap, tap, tap, tap, tap, tap.”
+
+R. Accepting a recommendation and completing the process
+
+[1791297930–1791297935] Veljko:
+“You receive an investment proposal: ‘Do you agree?’
+“‘I agree,’ or ‘I do not agree. I want to modify it a little.’
+“Okay, modify it. Tap, tap. Click here, and I automatically open all the necessary investment subscriptions or applications in the background, or set up standing orders [final wording unclear].”
+
+[1791297949] Speaker 3:
+“That is essentially what you have just explained: an end-to-end process with recommendations, where an agent can join at any moment to help and provide further advice.”
+
+[1791297955] Unknown:
+“Yes, yes.”
+
+[1791297963–1791297973] Veljko:
+“If we built that in the bank tomorrow, [unclear] would say: ‘Where do I sign?’ [speaker attribution and wording unclear].
+“An agent, and the option to transfer: ‘I need help.’”
+
+[1791297969] Unknown:
+“Sign. I agree.”
+
+[1791297980] Unknown:
+“And.”
+
+S. Employee-facing AI and access to data
+
+[1791297981–1791298037] Speaker 3:
+“Just one more question, and then I will stop. From the employee’s perspective, what would help the people you manage make decisions more easily and quickly?
+“Could you give me a rough idea? For example, if they had [unclear].
+“There is a platform, [name transcribed as ‘Databricks Apex’; uncertain], that I have seen. They have created something for corporations where you have all the data for a company and can interact with an AI over that data.
+“Beforehand, you explain what each data item means: this is revenue, this is the income statement, and so on.
+“Could employees ask questions over that data?
+“For example, I am talking to you, and you are explaining something. At the same time, I could ask: ‘What is this customer’s X or Y?’ and quickly get the information.
+“Something like that, perhaps an idea that sparks something.”
+
+[1791298055–1791298059] Veljko:
+“Absolutely.
+“For example, we will soon have licenses [number and product unclear], and we may be able to run queries against the database [wording unclear].”
+
+[1791298071] Speaker 3:
+“Is this actually [unclear]?”
+
+[1791298074] Unknown:
+“Now.”
+
+[1791298076–1791298112] Veljko:
+“What could the potential be? We will have customer data [unclear].
+“We may also have data about customers’ portfolios and various other things.
+“You could ask different questions, such as: ‘Which of these customers are the strongest candidates to become users of our funds?’
+“‘Take these parameters into account and show me the customers with the highest probability of using our funds.’
+“Or, based on their transactions: ‘Show me those with the highest probability of becoming private banking customers,’ or something similar.
+“So, essentially, that is [the idea].”
+
+T. Different employee needs across segments
+
+[1791298142–1791298188] Veljko:
+“When you talk about employees’ needs, the segments differ considerably.
+“The needs of someone in a branch, a premium [role unclear], and a private banker are very different.
+“The more complex the customer’s portfolio, the different the needs will be.
+“In private banking, the customer expects a completely different level of support from their private banker than in the mass segment.
+“In the mass segment, we expect the employee to help the customer fill in some information, click through, explain what something means, and be available when the customer gets stuck.
+“Perhaps call them when things become difficult, when the market falls, and explain why it is falling so that they do not sell at that moment.
+“Inform them about market movements and what is happening. Those are more or less the needs [unclear].”
+
+[1791298207] Unknown:
+“Database.”
+
+[1791298210–1791298234] Veljko:
+“I cannot really imagine an ordinary employee doing that type of sophisticated search over such a large database, knowing those people and their agendas [wording unclear].
+“I cannot imagine it in that way.
+“I can more easily imagine us, in positions where we have a somewhat broader picture, being able to analyze some things.
+“So…”
+
+[1791298232] Unknown:
+“[Unclear fragment.]”
+
+U. Simpler tools and less administration
+
+[1791298237–1791298257] Veljko:
+“The greatest help for employees would be speeding up the entire process.
+“Exactly as I explained. We used to do it with [paper forms or notebooks; wording unclear], which they filled in.
+“That was [time reference unclear].
+“Then we introduced [system or process unclear], entered the questionnaire, and the system processed it and produced values from your profile.
+“Now we are moving toward [the next step; sentence incomplete].”
+
+[1791298252–1791298256] Unknown:
+“And yes.”
+“To [unclear].”
+
+[1791298271–1791298303] Veljko:
+“Colleagues told me that they have an extremely complicated advisory tool, whose main problem is its excessive complexity.
+“Colleagues in Romania have now stopped using it because it is too complicated. They want to use [tool name unclear], the simpler [robo-advisory tool; wording unclear] on [application name unclear], which is equally available to mass and affluent customers.
+“Give me something simple.
+“I need a process where you, as a banker or employee…”
+
+[1791298301] Unknown:
+“And [unclear].”
+
+[1791298313–1791298317] Veljko:
+“Spend as little time as possible on paperwork and [forms; wording unclear].
+“You receive your investment proposal [unclear opening fragment].”
+
+[1791298316] Unknown:
+“Perhaps [unclear].”
+
+V. Where the banker adds value and closing remarks
+
+[1791298324–1791298357] Veljko:
+“At that point, you may still be undecided. You will need someone to say:
+“‘Look, what you have received is tailored to you. It was prepared based on these factors. This fund is good for these reasons, and its performance is [unclear].’
+“That is added value.
+“Instead of spending time copying contracts, signing them, and filing them in different places, we do not need that. It should not take an hour…”
+
+[1791298354] Unknown:
+“But it takes…”
+
+[1791298356] Veljko:
+“[Unclear fragment.]”
+
+[1791298357] Unknown:
+“Minutes.”
+
+[1791298357] Veljko:
+“Digitalization itself and a good process already take you to a different level [final expression unclear].”
+
+[1791298364] Speaker 3:
+“[Unclear opening.] Okay, this is great. This gives me a starting point. I would not keep you any longer [final wording unclear].”
+
+[1791298374] Veljko:
+“[Unclear closing remark referring to time.]”
+
+TRANSLATION NOTE
+The English version preserves the discussion’s sequence and available content while making fragmented speech readable. Unrecoverable wording, uncertain names and numbers, and source duplicates are explicitly identified. No missing speech, formal decisions, or action items have been invented.
