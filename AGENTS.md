@@ -21,6 +21,12 @@ Our team's Innovation Challenge:
 
 > "How are mass affluent clients served with wealth management advice and where are the gaps? How can we find more ways to offer more value to customers during the process?"
 
+Our working goal, selected by Arianit on 10.10.2026:
+
+> How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
+
+Keep the official challenge and this preparation formulation together. Team scope and solution are still to agree.
+
 We work on it with Design Thinking (Understand → Empathize & Synthesize → Ideate → Prototype & Test → Business Case & Pitch), and we build it **step by step**. Each step has its own file in `docs/challenges/`, and `00-overview.md` is always the short, current common understanding.
 
 ---
@@ -99,4 +105,4 @@ The active workspace is `/Users/arianit/Desktop/innovation-school`. All Markdown
 - `docs/my-research/`: our desk research, Tuesday preparation, Design Thinking preparation, candidate suggestions and source register.
 - `docs/working-context.md`: continuity, current status and user preferences.
 
-The existing Git remote is configured, but the user wants to inspect the local structure before any later public push. The README's educational purpose does not establish that all local personal/internal material is intended for public release. Do not commit or push unless requested.
+The existing Git remote is configured. Arianit explicitly requested an initial commit/push and the discussion update on 10.10.2026. Perform those requested operations; do not treat historical notes about waiting for review as a new approval requirement. Later commits/pushes still require a request. Record actual publication status, and never store conversation credentials in project files.

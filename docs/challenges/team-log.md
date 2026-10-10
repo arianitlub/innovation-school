@@ -4,6 +4,13 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 10.10.2026 — goal wording agreed with Arianit
+- Arianit selected the working goal: “How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?”
+- Preserved the official challenge question. The formulation is our preparation framing, not a recorded team/coach decision.
+- Clarified that mass-affluent customers may already be Premium; education, advice and ongoing support have different roles. Bank benefits are potential outcomes of suitable service.
+- Added public educational lessons to the candidate experiments. Digital guidance plus shared human help and goal review remains a model to test.
+- Continue on 11.10.2026 with the reading pack, then choose a customer group, market and research questions for Budapest.
+
 ## 10.10.2026 — preparation research
 - At Arianit's request, prepared [Tuesday briefing](../my-research/01-start-here-challenge-basics-and-school-preparation.md), [external research](../my-research/02-mass-affluent-customers-bank-services-and-retention.md), [Design Thinking working guide](../my-research/03-solving-our-challenge-with-design-thinking.md) and [source register](../my-research/05-sources-and-further-reading.md).
 - Public evidence shows existing network advice services and overlap between mass-affluent customers and Premium service. Updated the overview and provisional Understand framing.

@@ -70,3 +70,17 @@ Relative links were adjusted. The original transcript and PDF were moved unchang
 ## Research filenames — updated 10.10.2026
 
 At Arianit's request, renamed the five research documents with descriptive topic names and numbered them 01–05 in reading order. Dates remain inside the documents. See `docs/my-research/README.md` for navigation. Updated links and filename references throughout the workspace.
+
+## Discussion to resume — 11.10.2026
+
+Arianit selected the working goal on 10.10.2026:
+
+> How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
+
+Keep the official challenge question as well. This is Arianit's chosen preparation framing; team agreement and customer validation remain ahead. Mass affluent and Premium overlap. More investing can benefit the bank when appropriate, but customer goals and suitable action define success; cash or debt repayment can also be useful outcomes.
+
+Candidate model: accessible education → guided digital steps and appropriate advice → shared human help → ongoing goal review. Education and public content delivery are distinct from personalised recommendations. No platform or AI solution has been selected. Test customer understanding, unresolved questions and staff effort before claiming benefits.
+
+Next session: start with the numbered reading pack, discuss which customer group/market to investigate, and prepare questions and a small test. The official course begins 13.10.2026.
+
+Arianit explicitly requested committing and pushing this discussion update. Prior push attempts failed because shell networking could not resolve GitHub; do not assume remote publication succeeded. Never include credentials from conversation in project files.

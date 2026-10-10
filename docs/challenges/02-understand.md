@@ -12,6 +12,10 @@ At the end of this step we should have three things: a clear problem statement, 
 
 ## 2. Draft problem statement
 
+**Working goal selected by Arianit on 10.10.2026:** How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
+
+The goal does not select an app or assume every customer should invest.
+
 > Some mass-affluent customers may struggle to make an informed financial decision and carry it through, even where investment products or advice are available. We need to identify the specific customers, market and journey stage affected, and learn whether the main difficulty is understanding, getting help, execution or continuing support. This is a research framing, not a validated finding.
 
 **Review on 10.10.2026:** public research documents existing advice and human-support propositions. See [preparation research](../my-research/02-mass-affluent-customers-bank-services-and-retention.md). Avoid treating absence of an end-to-end journey as a group-wide fact.
@@ -26,13 +30,13 @@ This is a first sketch based on reported interview experience, not an audited cu
 
 **2. Looking for information.** The customer searches online, asks friends, or asks ChatGPT. *Pain:* they don't understand funds, risk or fees, and the bank's own information is not very helpful.
 
-**3. Going to the branch or the app.** In the branch, the employee has little time and shows a list of funds. In the app, the customer can buy funds but gets no guidance. *Pain:* no advice, and the customer "chooses alone".
+**3. Going to the branch or the app.** The interview reports product presentation with limited staff time for some customers. Some network apps already offer recommendations. *Possible pain:* the customer cannot understand a proposal or get the help needed; validate this in the chosen market.
 
 **4. Questionnaire.** A suitability assessment where investment advice is provided. EU requirements define information to collect; a long paper form is not the only way to deliver it. *Pain:* it feels like paperwork, the customer doesn't see why the questions matter, and it sometimes means coming back another day.
 
 **5. Decision and signing.** Contracts, signatures, separate steps to fund the investment. *Pain:* drop-off between "yes, I want this" and money actually invested.
 
-**6. After investing.** Statements show performance against the market. *Pain:* no answer to "am I on track for my goal?" and no contact when markets fall, which leads to panic selling.
+**6. After the action.** The customer may receive investment statements or other follow-up depending on the service. *Possible pain:* no clear answer to "am I on track for my goal?" or insufficient help when circumstances change. Check the actual review promise and customer experience.
 
 ## 4. Who is involved (stakeholders)
 

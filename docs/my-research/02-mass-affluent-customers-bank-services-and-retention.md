@@ -8,6 +8,10 @@ This is a research reference, not a chosen team solution. Read [the preparation 
 
 > “How are mass affluent clients served with wealth management advice and where are the gaps? How can we find more ways to offer more value to customers during the process?”
 
+**Our working goal, selected by Arianit on 10.10.2026:**
+
+> How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
+
 We are investigating how people with meaningful savings or income get help making financial decisions. The challenge includes the experience before, during and after investing. It can include cash reserves, debt, family goals, retirement and protection; investment sales alone do not cover all those needs.
 
 A useful starting question is: **Can the customer understand their choices, make a suitable decision, complete it, and know what to do afterwards?** Whether an app, banker or other service should provide that help is something to investigate.

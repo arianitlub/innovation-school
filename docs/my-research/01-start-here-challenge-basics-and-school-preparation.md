@@ -6,7 +6,9 @@ Prepared 10.10.2026 for Arianit Lubishtani. Start here. The [deep research](02-m
 
 > “How are mass affluent clients served with wealth management advice and where are the gaps? How can we find more ways to offer more value to customers during the process?”
 
-In everyday language: **How can we help customers with meaningful savings or income make better financial decisions, complete the actions and receive useful support afterwards, at a cost the bank can sustain?**
+**Our working goal, selected by Arianit on 10.10.2026:**
+
+> How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
 
 The challenge covers the customer experience. We will use Design Thinking to understand people, choose a problem, explore ideas, test something small and explain a business case. A final solution is not expected before Budapest.
 
@@ -53,6 +55,10 @@ Our research identifies potential loss of investment balances, deposits, future 
 | Business Case & Pitch | Explain useful outcomes, delivery cost and next pilot | A credible proposal with clear evidence limits |
 
 The process is iterative. If interviews or testing reveal a different need, change the focus. The detailed [working guide](03-solving-our-challenge-with-design-thinking.md) supplies worksheets, questions and tests.
+
+## A model to explore
+
+Short educational lessons → guided questions and the appropriate advice process → human help when needed → goal review. This could make support affordable without assigning a dedicated adviser to every customer. It remains a hypothesis to test, not an agreed team solution.
 
 ## Three ideas to carry as possibilities
 

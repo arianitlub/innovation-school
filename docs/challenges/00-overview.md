@@ -4,13 +4,21 @@ Updated 10.10.2026 after desk research. This is a proposed synthesis for team di
 
 > **Challenge:** “How are mass affluent clients served with wealth management advice and where are the gaps? How can we find more ways to offer more value to customers during the process?”
 
+## Our working goal
+
+> How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
+
+Arianit selected this plain-language formulation on 10.10.2026. It complements the official question above; the team still needs to agree on market, customer group and solution.
+
+Customer value comes first: understanding choices, taking suitable action and receiving continuing support. Investment-service revenue and a stronger relationship are potential bank benefits, not reasons to recommend an unsuitable investment. Keeping cash or reducing debt can also be the right outcome.
+
 ## Start here
 
 For Budapest preparation, read [the Tuesday briefing](../my-research/01-start-here-challenge-basics-and-school-preparation.md). Detailed inputs: [earlier paper/interview reference](01-research.md), [new external research](../my-research/02-mass-affluent-customers-bank-services-and-retention.md), [Design Thinking preparation](../my-research/03-solving-our-challenge-with-design-thinking.md), and [source register](../my-research/05-sources-and-further-reading.md).
 
 ## Who are we investigating?
 
-Mass affluent describes customers with meaningful wealth/income potential below the most intensive private-banking relationships. Exact definitions vary. **Premium is a service tier, not a separate population:** some mass-affluent customers already receive Premium service. Our team must still choose a market and specific customer group. Small-amount mass-retail investing is not automatically the same target.
+Mass affluent describes customers with meaningful wealth/income potential below the most intensive private-banking relationships. They generally have more savings, investable assets or income than typical retail customers. Exact definitions vary. **Premium is a service tier, not a separate population:** some mass-affluent customers already receive Premium service. Our team must still choose a market and specific customer group. Small-amount mass-retail investing is not automatically the same target.
 
 ## What evidence do we have?
 
@@ -29,6 +37,8 @@ The bank may lose investment business while retaining the customer's salary acco
 ## Hypothesis and ideas
 
 The earlier hypothesis of a guided digital journey with human help remains a candidate. Existing capabilities mean the improvement may be a specific part of that journey.
+
+A candidate model combines short public educational content, guided digital steps, access to a shared adviser team and goal reviews. Education explains concepts; personal recommendations belong in the appropriate advisory process. It might reduce repeated explanations and staff administration, but customer usefulness and actual costs still need testing.
 
 Candidate experiments include a clearer proposal explanation, a handover carrying customer context, a wealth health check, goal review, simpler funding steps or banker preparation. No idea has been selected by the team. The new research gives possible tests and operating questions.
 
