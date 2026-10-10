@@ -10,6 +10,8 @@ Updated 10.10.2026 after desk research. This is a proposed synthesis for team di
 
 Arianit selected this plain-language formulation on 10.10.2026. It complements the official question above; the team still needs to agree on market, customer group and solution.
 
+**A useful way to frame the design challenge:** how can we give customers with higher income or savings a level of guidance that is more valuable than generic retail guidance, but still cheaper and more scalable than full private banking? This is a positioning statement for discussion, not yet the team's final problem statement.
+
 Customer value comes first: understanding choices, taking suitable action and receiving continuing support. Investment-service revenue and a stronger relationship are potential bank benefits, not reasons to recommend an unsuitable investment. Keeping cash or reducing debt can also be the right outcome.
 
 ## Start here
