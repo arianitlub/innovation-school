@@ -26,4 +26,14 @@ Working positioning statement:
 
 Source: `tools/create_design_thinking_status.js`.
 
-Both PDFs are preparation material for discussion, not records of final team decisions.
+## 3. Future scenario - from challenge to tested concept
+
+- `future-scenario-design-thinking.pdf`
+
+Purpose: show an illustrative end-of-workshop story in which the team moves through Understand -> Empathize -> Define -> Ideate -> Prototype & Test and arrives at a hybrid financial-guidance concept plus a proposed validation plan.
+
+Important: this deck is explicitly a **future scenario**. Research findings, persona details, test feedback and outcomes shown in it are hypothetical and must not be treated as validated project evidence.
+
+Source: `tools/create_future_scenario.js`.
+
+The first two PDFs are preparation material for discussion, not records of final team decisions. The third PDF is an illustrative future scenario, not a claim about completed research or proven business results.
