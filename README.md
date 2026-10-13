@@ -18,6 +18,7 @@ Research notes distinguish documented services, reported experience, assumptions
 ```text
 innovation-school/
 ├── AGENTS.md                 # Instructions for continuing work here
+├── .claude/skills/           # RBI AI Prompt Library as skills, one per stage
 ├── README.md                 # Educational introduction
 └── docs/
     ├── working-context.md    # Current context and continuity

@@ -1,0 +1,22 @@
+---
+name: innovation-business-case-pitch
+description: RBI Innovation School AI Prompt Library, Stage 5 Business Case & Pitch. Use when building the business case and cost-benefit, structuring the pitch deck and storyline, or reviewing and refining a pitch (prompts 5.1.1–5.3.1).
+---
+
+# Stage 5: Business Case & Pitch
+
+Official RBI Innovation School prompts, stored word for word in `prompts/`. Booklet principles and frameworks: `docs/training/ai-prompt-library.md`.
+
+| Prompt | File | Use when |
+|---|---|---|
+| 5.1.1 Business Case | `prompts/5.1.1-business-case.md` | Costs, benefits, ROI, risks |
+| 5.2.1 Pitch Deck | `prompts/5.2.1-pitch-deck.md` | Slide-by-slide pitch, speaker notes, Q&A |
+| 5.3.1 Pitch Review | `prompts/5.3.1-pitch-review.md` | Pressure-testing a finished pitch |
+
+## How to use
+
+1. Pick the prompt and read its file.
+2. Fill placeholders from `docs/challenges/00-overview.md` and the stage files 03–05 (validated needs, chosen solution, test results). Ask for anything missing, especially the audience and the time limit.
+3. Every euro figure, percentage and ROI must show its assumption and source. If we have no internal data, label numbers as illustrative scenarios (conservative / expected / optimistic), not forecasts. Never present the strategy paper as RBI data.
+4. The pitch must not claim validation we did not do: use the real number of interviews and tests.
+5. Existing deck generators are in `tools/` (see `docs/presentation/README.md`); reuse them if the user wants a PDF. Save text only when asked, to `docs/challenges/06-pitch.md`.

@@ -44,6 +44,7 @@ We work on it with Design Thinking (Understand → Empathize & Synthesize → Id
 | [challenges/team-log.md](docs/challenges/team-log.md) | Dated team decisions and who does what |
 | [guide.md](docs/training/guide.md) | eLearning course notes (Design Thinking, culture, failure culture) + program notes: timeline, deadlines, people, participation rules, kickoff deck summary |
 | [learning-transfer.md](docs/training/learning-transfer.md) | My personal Learning Transfer: the Expectation sent to Christine, the ideas pool for the Goal, and the checklist up to 15.12 |
+| [ai-prompt-library.md](docs/training/ai-prompt-library.md) | RBI's "AI Prompt Library" booklet: principles, hallucination warning, CO-STAR/RODES, and an index of the 31 prompts stored as skills |
 
 ### Source material (`docs/`)
 
@@ -71,6 +72,7 @@ The source inventory below includes absent originals, identified under “Contin
 | Learning Transfer Expectation / Goal / Line Manager meeting | `docs/training/learning-transfer.md` |
 | Design Thinking method reminder | `docs/training/guide.md` → "Design Thinking — RBI Innovation Box" |
 | Checking a claim against the original material | `docs/` |
+| Using AI for a Design Thinking step (research, interviews, ideas, prototype, pitch) | `.claude/skills/innovation-*` → see `docs/training/ai-prompt-library.md` |
 
 ---
 
@@ -104,5 +106,6 @@ The active workspace is `/Users/arianit/Desktop/innovation-school`. All Markdown
 - `docs/team-research/`: original material supplied by the team.
 - `docs/my-research/`: our desk research, Tuesday preparation, Design Thinking preparation, candidate suggestions and source register.
 - `docs/working-context.md`: continuity, current status and user preferences.
+- `.claude/skills/`: the RBI AI Prompt Library as six project skills, one per stage (`innovation-understand`, `innovation-empathize`, `innovation-ideate`, `innovation-prototype-test`, `innovation-business-case-pitch`, `innovation-meeting-prep`). Prompt texts in `prompts/` are RBI source material: keep them word for word.
 
 The existing Git remote is configured. Arianit explicitly requested an initial commit/push and the discussion update on 10.10.2026. Perform those requested operations; do not treat historical notes about waiting for review as a new approval requirement. Later commits/pushes still require a request. Record actual publication status, and never store conversation credentials in project files.

@@ -84,3 +84,9 @@ Candidate model: accessible education → guided digital steps and appropriate a
 Next session: start with the numbered reading pack, discuss which customer group/market to investigate, and prepare questions and a small test. The official course begins 13.10.2026.
 
 Arianit explicitly requested committing and pushing this discussion update. Prior push attempts failed because shell networking could not resolve GitHub; do not assume remote publication succeeded. Never include credentials from conversation in project files.
+
+## AI Prompt Library as skills — 13.10.2026
+
+Arianit pasted RBI's booklet "Innovation School: AI Prompt Library" (31 prompts across the five stages plus meeting preparation). The booklet presents them as copy-paste prompt templates, not skills. At Arianit's request they are now stored as six project skills in `.claude/skills/innovation-*/`, one per stage. Each prompt is kept word for word in that skill's `prompts/` folder, and each `SKILL.md` says when to use it and how to fill it from this repo. The booklet's principles and an index are in `docs/training/ai-prompt-library.md`. The "Quick Tool Comparison" table was collapsed in the pasted copy and is not recorded.
+
+The booklet's rules apply: no AI-simulated interviews, verify facts, AI ideas are input for the team, not decisions.
