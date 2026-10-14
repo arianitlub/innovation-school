@@ -4,6 +4,16 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 14.10.2026 — Concept proposed: My Wealth
+- Arianit proposed **My Wealth**: a new section in the mobile app, unlocked at the mass-affluent threshold, with Snapshot, Life Profile, Learn, Playground, optional AI Wealth Assistant, Talk to an Expert (profile passed to the banker) and opt-in nudges. Details: [04-ideate.md](04-ideate.md).
+- Seven fixes added from the evidence: costs and comparer, exit moment, branch way in, opt-in below the threshold, simple Playground, "not advice" + GDPR consent, opt-in nudges.
+- **To do:** team confirms the concept. Stage 4 prototype is ready to run, not started.
+
+## 14.10.2026 — Stage 3 Ideate RBI prompts run
+- Ran 3.1.1 workshop design, 3.2.1 (70 ideas), 3.2.2 SCAMPER and 3.3.1 scoring of 12 shortlisted ideas: [04-ideate-rbi/README.md](04-ideate-rbi/README.md).
+- Top 5 within 0.5 points: life profile (I-02), Money Guide team idea (I-01), fair exit (I-04), cost comparer (I-03), handover (I-05).
+- AI recommendation: prototype Money Guide in stages, AI explainer later after a Compliance check. **Not yet a team decision.**
+
 ## 14.10.2026 — Stage 2 synthesis updated with street interviews
 - Added two street interviews (C1 English investor, C2 Hungarian saver) and the internal UX education study summary to `team-research/`, preserved as supplied.
 - Re-ran RBI prompts 2.3.1–2.3.4 and filled the Problem One-Pager (2.4): [03-empathize-rbi/README.md](03-empathize-rbi/README.md).
