@@ -4,6 +4,21 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 13.10.2026 — all Stage 1 RBI prompts run in full
+- Ran all 9 Understand prompts (1.1.1–1.3.3) in RBI's full format. Outputs and key findings: [02-understand-rbi/README.md](02-understand-rbi/README.md).
+- Web search was unavailable; research used pages opened directly. Unchecked items are marked "This requires verification".
+- Ran Stage 2 preparation prompts 2.1.1–2.2.2 in full: [03-empathize-rbi/README.md](03-empathize-rbi/README.md). To decide: street question order, H1 counting rule, translation, coach check on interview rules.
+
+## 13.10.2026 — Understand with RBI prompts
+- Ran RBI prompts 1.2.1 Terminology, 1.2.3 Scope, 1.2.2 Stakeholders and 1.3.1 Data Sources (skill `innovation-understand`). Draft in [02-understand-skill-outputs.md](02-understand-skill-outputs.md).
+- Market options to decide: Serbia, Czech Republic or Hungary (street interviews this week happen in Budapest).
+- No scope decided yet.
+
+## 13.10.2026 — Empathize research preparation
+- Saved the team's 4 assumptions and hypotheses (personalisation, knowledge, hybrid channels, advisor tools) with pass marks in [03-empathize.md](03-empathize.md). Validate first: #1, #3, #4.
+- Added a 30-minute expert interview guide, a 5–7 minute street interview script and a results tracker.
+- **Next:** agree market and customer group (Understand), then run the interviews. No interviews done yet.
+
 ## 10.10.2026 — goal wording agreed with Arianit
 - Arianit selected the working goal: “How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?”
 - Preserved the official challenge question. The formulation is our preparation framing, not a recorded team/coach decision.

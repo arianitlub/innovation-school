@@ -49,8 +49,8 @@ Candidate experiments include a clearer proposal explanation, a handover carryin
 | Stage | Current status |
 |---|---|
 | Research preparation | Earlier inputs collected; external preparation added 10.10.2026; customer validation still needed |
-| Understand | [Draft](02-understand.md); market, user and final problem still to agree |
-| Empathize & Synthesize | Not started as a completed team stage |
+| Understand | [Draft](02-understand.md) + [all 9 RBI-prompt outputs](02-understand-rbi/README.md) (13.10.2026); market, user and final problem still to agree |
+| Empathize & Synthesize | [Research preparation](03-empathize.md) + [RBI-prompt outputs 2.1.1–2.2.2](03-empathize-rbi/README.md) (13.10.2026). No interviews yet |
 | Ideate | Possibilities collected; no agreed selection |
 | Prototype & Test | No customer-tested prototype yet |
 | Business Case & Pitch | Not prepared as a final team case |

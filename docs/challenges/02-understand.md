@@ -59,6 +59,9 @@ The course says "data brings facts, facts help to orientate". Useful numbers to 
 
 ## 6. Output of this step (fill in together)
 
+Full RBI prompt outputs for all 9 Stage 1 prompts (13.10.2026): [02-understand-rbi/](02-understand-rbi/README.md). An earlier short draft is in [02-understand-skill-outputs.md](02-understand-skill-outputs.md).
+
+
 - **Final problem statement:** _…_
 - **Most painful journey stages (top 2–3):** _…_
 - **Main user we focus on:** _…_
