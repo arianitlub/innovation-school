@@ -4,6 +4,14 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 14.10.2026 — Stage 2 synthesis from two expert interviews
+- Added two real internal expert interviews as anonymised evidence: Hungary (**E-HU-1**) and Serbia (**E-RS-1**). The supplied meeting notes were AI-generated summaries, so details remain subject to verification and are not treated as verbatim quotes.
+- Ran RBI Stage 2 synthesis prompts **2.3.1 Pattern Analysis → 2.3.2 Personas → 2.3.3 Journey Map → 2.3.4 How Might We** using skill `innovation-empathize`.
+- Main learning: existing digital investment and Premium/advisory capabilities are stronger than our original assumptions. The likely gap is **between self-service/non-advisory investing and full Premium/Private advisory support**, not simply “missing advisory tools”.
+- Hypothesis check: H1 = insufficient/too broad; H2 = partially validated at expert level; H3 = partially validated with strong expert support; H4 = contradicted as written and reframed toward access/service coverage/handover.
+- Final Stage 2 HMW: **“How might we enable mass-affluent customers outside full Premium/Private advisory service to get the right level of guidance at the right moment so that they can make confident, informed investment decisions?”**
+- Stage 2 synthesis is complete for the **current expert evidence** and can feed Ideate. Direct customer validation is still missing, so the original H1–H3 numeric customer pass marks are not claimed as achieved.
+
 ## 13.10.2026 — all Stage 1 RBI prompts run in full
 - Ran all 9 Understand prompts (1.1.1–1.3.3) in RBI's full format. Outputs and key findings: [02-understand-rbi/README.md](02-understand-rbi/README.md).
 - Web search was unavailable; research used pages opened directly. Unchecked items are marked "This requires verification".

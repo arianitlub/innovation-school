@@ -1,150 +1,160 @@
 # 03 — Empathize & Synthesize
 
-*Design Thinking step 2: learn from real people what matters to them and where today's experience fails them. Started 13.10.2026. This is a **draft for the team**: research preparation only, no interviews done yet.*
+*Design Thinking step 2. Started 13.10.2026; expert synthesis updated 14.10.2026.*
+
+## Status
+
+We now have **two real internal expert interviews**, one from Hungary and one from Serbia, and have run the RBI synthesis prompts **2.3.1 → 2.3.4**.
+
+This is enough to produce a **provisional problem synthesis and HMW question**, but not enough to claim full customer validation. The original H1–H3 pass marks were written for direct customer interviews, and no direct customer set has yet been added to this repo.
+
+The interview notes were supplied as **AI-generated meeting summaries**, so details may contain transcription/summarisation errors. They are treated as expert evidence, not verbatim quotes or verified internal policy.
+
+Full synthesis outputs: [03-empathize-rbi/README.md](03-empathize-rbi/README.md).
 
 ---
 
-## 1. What this step is about
+## 1. What changed after the interviews
 
-We test our beliefs against real stories from customers and an expert. We do not try to prove we are right. A hypothesis that turns out wrong is a useful result.
+Our earlier framing was too focused on whether customers need a new advisory tool or more education.
 
-At the end of this step we should have: interview notes, which hypotheses held and which did not, 2–3 insights, and one "How might we" question for Ideate.
+The interviews show that:
 
-**Open point from Understand:** market and customer group are not agreed yet (see [02-understand.md](02-understand.md)). Street interviews start with a screening question, so we can mark who is in the segment.
+- **advisory capability already exists** in higher service tiers;
+- **digital investing already exists** and can be fast and end-to-end;
+- banks already **identify and segment** financially attractive customers;
+- education already exists or is being expanded;
+- the stronger unresolved space is **between self-service and full Premium/Private advisory support**.
 
-## 2. Assumptions and hypotheses
+So the emerging problem is not “RBI has no advice” or “we need another advisory tool.”
 
-- **Assumption** = something we currently believe.
-- **Hypothesis** = the same belief rewritten so we can test it and validate or invalidate it.
+> **Potential problem space:** mass-affluent customers outside full Premium/Private advisory support may have product access and digital execution, but not the same level of personalised guidance when they become uncertain or need help making a decision.
 
-| # | Assumption | Hypothesis (pass mark) | Ask whom |
+---
+
+## 2. Expert evidence in one view
+
+| Area | Hungary expert | Serbia expert | Learning |
 |---|---|---|---|
-| 1 ⭐ | Mass-affluent customers do not receive sufficiently personalised wealth-management advice. | At least 7/10 mass-affluent customers will say their current advice is not sufficiently personalised. | Customers |
-| 2 | Mass-affluent customers lack the financial knowledge or confidence to make investment decisions. | At least 6/10 customers will say lack of knowledge or understanding makes investment decisions difficult. | Customers |
-| 3 ⭐ | Customers prefer digital or hybrid investment advice. | At least 7/10 customers will prefer digital self-service for simple steps and human advice for important decisions. | Customers |
-| 4 ⭐ | Advisors lack enough data or tools to personalise advice efficiently. | Most interviewed advisors will say that missing data, missing tools or preparation time limit personalisation. | Advisors / expert |
+| Segmentation | Mass → Premium/Private eligibility structure | Salary/deposit signals used for Premium prospects | The bank already knows how to identify many higher-value customers |
+| Mass-affluent advice | Non-advisory service; products can still be bought | Some eligible customers do not use Premium/Private | There can be customers outside the full advisory model |
+| Premium/advised service | Dedicated RM at higher tier, RaiConnect video advice | Adviser + video + advisory tool | Strong advisory capability already exists |
+| Digital journey | My Life investment journey, MiFID, digital execution, reportedly ~4–6 min | Digital/adviser-supported process | Transaction technology is not obviously the core problem |
+| Education | Fear of loss/knowledge gap; Learn to Invest + podcast | Brochures and adviser explanation | Understanding/confidence matters, but education is not absent |
+| Human preference | Customer research reportedly favours self-service + human help when needed; less unsolicited outreach | Human/video advice already used | Hybrid/on-demand support is the strongest common direction |
 
-⭐ = the three to validate first: #1 personalisation, #3 hybrid channels, #4 advisor capacity and tools.
+Detailed anonymised evidence: [2.3.0 expert input](03-empathize-rbi/2.3.0-expert-interview-evidence.md).
 
-**Questions per hypothesis**
+---
 
-1. Personalisation
-   - Tell me about the last financial advice you received.
-   - How well did it fit your personal goals?
-   - What would have made it more relevant to you?
-2. Knowledge and confidence
-   - What do you find difficult when deciding how to invest?
-   - Which information is unclear?
-   - What helps you feel confident enough to make a decision?
-3. Digital or hybrid
-   - How do you currently get financial advice?
-   - Which steps would you prefer to do digitally?
-   - When would you want to speak with a human advisor?
-4. Advisor data and tools (advisors only)
-   - What information do you need before advising a client?
-   - What information or tools are currently missing?
-   - What takes most of your preparation time?
-   - What would help you personalise advice faster?
+## 3. Hypothesis check
 
-## 3. Expert interview — 30 minutes
+The original team hypotheses are kept below so we can see what changed.
 
-The tag after each block shows which hypothesis it tests.
-
-**1. Segments: who counts as mass affluent (5 min)**
-- How does the bank define mass affluent? What thresholds (income, savings, assets), and in which market?
-- How do mass affluent, Premium and private banking differ? Where does one end and the next begin?
-- Roughly how many customers are in this segment, and how many of them invest?
-- Is there a group in between that no service model really covers?
-
-**2. What advice they get today (7 min)** — H1
-- What advice does a mass-affluent customer get today, compared with Premium and private banking?
-- Is it personal advice, or product information and selling? Where is the line?
-- Does advice cover the customer's whole situation (goals, debts, family, other banks), or one product at a time?
-- How often is a customer contacted after investing? Is there a regular review?
-- Where do you think advice for this group is not personal enough?
-
-**3. Channels and how they connect (7 min)** — H3
-- Which steps can a customer do in the app, and which need a person?
-- If a customer starts in the app and then calls or visits a branch, does the advisor see what they already did?
-- How does a customer ask for human help, and how quickly do they get it?
-- Do customers want a mix of digital and human? At which moments do they want a person?
-- Does a robo or digital advice tool exist in this market? What does it cover, and how many people use it?
-
-**4. Advisor data, tools and time (7 min)** — H4
-- What information do you need before advising a client, and how do you get it today?
-- What is missing or hard to find: data, tools, history from other channels?
-- How long does preparing and running one advice session take? How much of it is paperwork?
-- How many clients does one advisor handle? Is that enough for real personal advice?
-- What one tool or change would let you personalise advice faster?
-
-**5. Close (4 min)**
-- Where do customers drop off, and is there data on that?
-- Why do customers invest with competitors or fintechs?
-- Who should we talk to next? Can we see the real journey or any data?
-
-## 4. Street interviews — 5–7 minutes
-
-**Opening:** "Hi, we're doing a short study on how people get advice about their savings. It takes 5 minutes, it's anonymous, and we won't ask about amounts."
-
-**Screening first**
-- "Do you have savings beyond your everyday needs, or have you ever thought about investing?" If not, thank them, or note them as "outside segment".
-- Optional: "Do you have a Premium or similar account with your bank?"
-
-**H1 Personalisation**
-- Tell me about the last time you got advice about your money. Who gave it?
-- How well did it fit your own goals and situation?
-- What would have made it more useful for you personally?
-
-**H2 Knowledge and confidence**
-- What is difficult for you when you decide what to do with your savings?
-- Is anything unclear, like risk, fees, or when you can get your money back?
-- What would help you feel confident enough to decide?
-
-**H3 Digital vs human**
-- How do you deal with your bank today: app, branch, phone?
-- Which money tasks are you happy to do yourself in an app?
-- At which moment would you want to talk to a real person?
-
-**Trust and value**
-- Where do you look first for money advice: bank, friends, the internet, ChatGPT?
-- What would make you trust your bank's advice more?
-
-**Close**
-- "If your bank could do one thing better for your savings, what would it be?"
-- Note age range, in segment yes/no, and current bank (only if they offer it).
-
-## 5. Interview rules
-
-- Real people only. If colleagues answer as customers, label it "proxy evidence".
-- Ask for stories ("Tell me about the last time…"), not opinions ("Would you…?").
-- Work in pairs: one asks, one writes. Use the person's exact words for quotes.
-- Never ask for amounts or account details. Keep notes anonymous.
-- Do not show or explain solution ideas during the interview.
-- About 10 street interviews give a first signal, not proof.
-
-## 6. Results tracker (fill in after interviews)
-
-For each person, mark each hypothesis **Y** (supports), **N** (contradicts) or **?** (unclear).
-
-| ID | Type | In segment? | H1 | H2 | H3 | H4 | Best quote |
-|---|---|---|---|---|---|---|---|
-| E1 | Expert | – | | | | | |
-| C1 | Customer | | | | | – | |
-| C2 | Customer | | | | | – | |
-
-| Hypothesis | Pass mark | Result | Validated? |
+| # | Original hypothesis | Result after 2 expert interviews | What we learned |
 |---|---|---|---|
-| H1 Personalisation | 7/10 | _…_ | _…_ |
-| H2 Knowledge | 6/10 | _…_ | _…_ |
-| H3 Hybrid | 7/10 | _…_ | _…_ |
-| H4 Advisor tools | most advisors | _…_ | _…_ |
+| **H1** | At least 7/10 mass-affluent customers will say current advice is not sufficiently personalised | **INSUFFICIENT DATA / TOO BROAD** | Hungary suggests some mass-affluent customers receive no personal advice at all, while Serbia shows advised/Premium clients can receive personalised advice. We must segment by service model |
+| **H2** | At least 6/10 customers will say lack of knowledge makes investment decisions difficult | **PARTIALLY VALIDATED** | Both experts describe explanation/education as important; Hungary explicitly reports fear of loss and insufficient knowledge. Direct customer threshold still untested |
+| **H3** | At least 7/10 customers prefer digital self-service for simple steps + human advice for important decisions | **PARTIALLY VALIDATED — STRONG EXPERT SUPPORT** | Both interviews support hybrid delivery; Hungary additionally reports customer research favouring self-service with human help on demand. Direct 7/10 test still missing |
+| **H4** | Most advisers say missing data/tools/preparation time limit personalisation | **CONTRADICTED AS WRITTEN** | Advisory tools and remote capabilities already exist. The more useful question is whether **access, service coverage, capacity or handover** limit personalised guidance |
 
-## 7. Output of this step (fill in together)
+### Refined hypotheses to carry forward
 
-- **Validated / invalidated hypotheses:** _…_
-- **Top 2–3 insights** (need + reason + evidence): _…_
-- **How might we…?** _…_
+- **RH1 — Advice access:** mass-affluent customers outside full Premium/Private advisory support may lack an appropriate level of personalised guidance when self-service information is not enough.
+- **RH2 — Confidence:** knowledge and fear of loss can stop or delay investment decisions even when execution is technically easy.
+- **RH3 — Hybrid:** many customers may prefer to remain self-directed while having expert help available at important moments.
+- **RH4 — Service model:** the bottleneck may be access/orchestration of existing capabilities rather than missing advisory tools.
 
-Full RBI prompt outputs for interview preparation (2.1.1–2.2.2, 13.10.2026): [03-empathize-rbi/](03-empathize-rbi/README.md).
+These are **research conclusions/hypotheses**, not final solution requirements.
 
-Next, after interviews: paste the notes into the chat and run the synthesis prompts (2.3.1 → 2.3.4, skill `innovation-empathize`).
+---
+
+## 4. Top three insights
+
+### Insight 1 — The gap is access to guidance, not lack of technology
+
+The bank already has digital investing, profiling, video support and advisory tooling. The interesting gap is who gets access to deeper guidance and when.
+
+### Insight 2 — Self-service and human advice are not opposites
+
+The strongest signal is a **hybrid, on-demand model**: customers can act independently but want a trusted person available when uncertainty becomes high.
+
+### Insight 3 — Education helps, but information alone may not be enough
+
+Customers can receive articles, podcasts, brochures or product information and still need help translating that information into a decision that fits their goal, horizon and risk.
+
+---
+
+## 5. Current-state journey — simplified
+
+**Recognised/eligible → chooses service path → learns/explores → completes profile/suitability → decides/invests → asks for help if needed → follow-up/review**
+
+Two paths are visible:
+
+1. **Self-service/non-advisory path:** strong digital execution, but personalised help for a non-Premium customer is unclear.
+2. **Premium/advised path:** banker/video/advisory tool can provide richer personal guidance.
+
+The main “moment of truth” is:
+
+> **Self-service information → uncertainty/question → appropriate guidance → confident next step**
+
+Full current-state map: [2.3.3 journey map](03-empathize-rbi/2.3.3-journey-map.md).
+
+---
+
+## 6. Provisional user archetypes
+
+Because we do not yet have direct customer interviews, we deliberately did **not** invent full personas with fake demographics or quotes.
+
+The expert evidence suggests four useful provisional archetypes:
+
+1. **Independent mass-affluent explorer** — wants control/self-service, human help only when needed.
+2. **Guidance-seeking saver/new investor** — needs confidence and understandable explanation.
+3. **Advised Premium client** — already receives higher-touch personal guidance.
+4. **Eligible but unengaged customer** — meets criteria but does not use Premium/Private service.
+
+Full provisional persona output: [2.3.2 personas](03-empathize-rbi/2.3.2-personas.md).
+
+---
+
+## 7. Final focus — How Might We
+
+> **How might we enable mass-affluent customers outside full Premium/Private advisory service to get the right level of guidance at the right moment so that they can make confident, informed investment decisions?**
+
+This is intentionally **solution-neutral**. It does not decide whether the answer is education, an app feature, a shared adviser pool, a handover flow, AI, a new service model or something else. Those belong in **Ideate**.
+
+---
+
+## 8. What we should not do yet
+
+- Do not say all mass-affluent customers lack personalised advice.
+- Do not say RBI lacks advisory tools or digital investment capability.
+- Do not assume education alone is the solution.
+- Do not define success as “make customers invest more.” The customer outcome is a suitable, confident decision; bank engagement/AUM can be a downstream benefit.
+- Do not treat interview-reported thresholds, tax details or volumes as verified facts without checking them.
+
+---
+
+## 9. Evidence still missing
+
+Before treating this as a fully customer-validated problem, we still want answers to:
+
+1. Why do eligible customers choose not to use Premium/advisory service?
+2. At what exact moments do customers want a human?
+3. What do non-Premium mass-affluent customers do when digital information is not enough?
+4. Does app-to-human handover preserve the customer's context?
+5. What happens after investment for customers without a dedicated relationship manager?
+
+If customer interviews are added later, rerun 2.3.1–2.3.4 and replace the provisional archetypes/HMW if the evidence changes.
+
+---
+
+## 10. Output of this step
+
+- **Hypothesis check:** complete for the two expert interviews; customer pass marks not completed.
+- **Pattern synthesis:** complete.
+- **Provisional archetypes:** complete with evidence limitation.
+- **Current-state journey:** complete as a cross-market expert synthesis.
+- **HMW:** complete and ready to take into Ideate.
+
+**Next Design Thinking step:** Stage 3 — **Ideate**, using the HMW above while keeping customer-validation gaps visible.

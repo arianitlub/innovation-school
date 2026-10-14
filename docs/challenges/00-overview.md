@@ -1,6 +1,6 @@
 # 00 — Overview: Our Common Understanding
 
-Updated 10.10.2026 after desk research. This is a proposed synthesis for team discussion, not a team-approved scope or solution.
+Updated **14.10.2026** after two real internal expert interviews and Stage 2 synthesis.
 
 > **Challenge:** “How are mass affluent clients served with wealth management advice and where are the gaps? How can we find more ways to offer more value to customers during the process?”
 
@@ -8,59 +8,90 @@ Updated 10.10.2026 after desk research. This is a proposed synthesis for team di
 
 > How can we give mass-affluent customers useful, affordable financial guidance that helps them achieve their goals and strengthens their relationship with the bank?
 
-Arianit selected this plain-language formulation on 10.10.2026. It complements the official question above; the team still needs to agree on market, customer group and solution.
-
-**A useful way to frame the design challenge:** how can we give customers with higher income or savings a level of guidance that is more valuable than generic retail guidance, but still cheaper and more scalable than full private banking? This is a positioning statement for discussion, not yet the team's final problem statement.
-
-Customer value comes first: understanding choices, taking suitable action and receiving continuing support. Investment-service revenue and a stronger relationship are potential bank benefits, not reasons to recommend an unsuitable investment. Keeping cash or reducing debt can also be the right outcome.
-
-## Start here
-
-For Budapest preparation, read [the Tuesday briefing](../my-research/01-start-here-challenge-basics-and-school-preparation.md). Detailed inputs: [earlier paper/interview reference](01-research.md), [new external research](../my-research/02-mass-affluent-customers-bank-services-and-retention.md), [Design Thinking preparation](../my-research/03-solving-our-challenge-with-design-thinking.md), and [source register](../my-research/05-sources-and-further-reading.md).
+Customer value comes first: understanding choices, taking a suitable action and receiving support when needed. More investment/AUM can benefit the bank, but it is a downstream outcome, not the customer problem.
 
 ## Who are we investigating?
 
-Mass affluent describes customers with meaningful wealth/income potential below the most intensive private-banking relationships. They generally have more savings, investable assets or income than typical retail customers. Exact definitions vary. **Premium is a service tier, not a separate population:** some mass-affluent customers already receive Premium service. Our team must still choose a market and specific customer group. Small-amount mass-retail investing is not automatically the same target.
+**Mass affluent** describes customers with meaningful income/savings/investable assets below the most intensive private-banking relationships. **Premium is a service tier**, not the same thing as “mass affluent”. Some mass-affluent customers use Premium; others do not.
 
-## What evidence do we have?
+The latest expert evidence makes the most interesting group clearer:
 
-- **Internal interview, mainly Serbian context:** reported branch capacity constraints, paperwork, confusing tools, education needs and a preference for assisted digital service. Figures are approximate and speaker labels unreliable.
-- **Public bank services:** Serbia advertises Premium planning and banker access; Slovakia offers several care models. Czech Raiffeisen publicly documents automated advice and requested employee involvement, with a one-off scope. See the linked research for direct sources.
-- **Earlier strategy-paper summary:** suggests connected channels, broader financial goals and continuing support. The original paper is absent and the assessment is generic.
+> **Mass-affluent customers who are outside full Premium/Private advisory support but may need more than basic self-service information.**
 
-We should no longer state that RBI has no digital advice or that Premium only means perks. Available services, actual use and customer outcomes are separate questions.
+This is a working focus for ideation, not a claim that every such customer is underserved.
 
-## What is the possible problem?
+## What we learned from the two expert interviews
 
-Customers may have products or advice available but still struggle to understand a proposal, get timely help, complete an action or review progress towards goals. Adviser capacity and advice economics are plausible contributors. We have not established a single root cause, its frequency or group-wide impact.
+### Hungary
 
-The bank may lose investment business while retaining the customer's salary account. This retention risk needs internal evidence; external switching-intention surveys cannot be used as an RBI churn rate.
+- Mass-affluent customers were described as receiving **non-advisory** service, while personalised advice sits mainly in Premium/Private.
+- Digital investing already exists through a fast end-to-end mobile journey with profiling and digital execution.
+- Premium customers can use relationship managers and RaiConnect video advice.
+- Education is already being expanded; fear of loss and low investment knowledge were reported as engagement barriers.
+- Expert-reported customer research favours **self-service with a person available when needed**, rather than repeated unsolicited outreach.
 
-## Hypothesis and ideas
+### Serbia
 
-The earlier hypothesis of a guided digital journey with human help remains a candidate. Existing capabilities mean the improvement may be a specific part of that journey.
+- Higher-value/advised customers can receive personalised advice through a manager, video meeting and advisory tool.
+- The process can cover goals, plans, risk tolerance, horizon and protect-vs-grow preferences.
+- Salary/deposit signals are already used to identify prospective Premium clients.
+- Some eligible customers still choose not to use Premium/Private service.
+- Education/explanation is already part of the advisory process.
 
-A candidate model combines short public educational content, guided digital steps, access to a shared adviser team and goal reviews. Education explains concepts; personal recommendations belong in the appropriate advisory process. It might reduce repeated explanations and staff administration, but customer usefulness and actual costs still need testing.
+The meeting notes are AI-generated summaries and may contain errors. Country-specific thresholds, tax rules and volumes remain interview-reported until independently verified.
 
-Candidate experiments include a clearer proposal explanation, a handover carrying customer context, a wealth health check, goal review, simpler funding steps or banker preparation. No idea has been selected by the team. The new research gives possible tests and operating questions.
+## What is the possible problem now?
+
+The problem is **not** simply that RBI lacks an advisory tool, digital investing or education. Those capabilities already exist in different forms.
+
+The stronger gap is:
+
+> **A customer can have self-service investment access but still lack the right depth of guidance at the moment they become uncertain, unless they are in the full Premium/Private advisory model.**
+
+This creates a possible middle space between:
+
+**basic self-service / non-advisory investing** ↔ **full relationship-manager/advisory service**.
+
+## Hypothesis check
+
+| Hypothesis | Current result |
+|---|---|
+| H1 Personalisation | **Insufficient / too broad.** Premium/advised customers may already receive personalised advice; non-Premium customers may have an access-to-advice problem instead |
+| H2 Knowledge/confidence | **Partially validated** by expert evidence; customer threshold not tested |
+| H3 Hybrid digital + human | **Partially validated with strong expert support** |
+| H4 Missing adviser tools/data | **Contradicted as written.** Tools exist; access, service coverage, capacity and handover are better questions |
+
+## Top three insights
+
+1. **The gap is access/orchestration, not lack of technology.**
+2. **Self-service and human advice belong together:** autonomy for simple steps, expertise when uncertainty is high.
+3. **Education matters, but generic information is not the same as personalised guidance.**
+
+## Final Stage 2 HMW
+
+> **How might we enable mass-affluent customers outside full Premium/Private advisory service to get the right level of guidance at the right moment so that they can make confident, informed investment decisions?**
+
+This question is deliberately solution-neutral. Stage 3 Ideate should explore multiple ways to answer it rather than jumping directly to a chatbot, robo-adviser or new Premium tier.
 
 ## Current stage
 
 | Stage | Current status |
 |---|---|
-| Research preparation | Earlier inputs collected; external preparation added 10.10.2026; customer validation still needed |
-| Understand | [Draft](02-understand.md) + [all 9 RBI-prompt outputs](02-understand-rbi/README.md) (13.10.2026); market, user and final problem still to agree |
-| Empathize & Synthesize | [Research preparation](03-empathize.md) + [RBI-prompt outputs 2.1.1–2.2.2](03-empathize-rbi/README.md) (13.10.2026). No interviews yet |
-| Ideate | Possibilities collected; no agreed selection |
-| Prototype & Test | No customer-tested prototype yet |
+| Research preparation | Earlier research + two new real expert interviews available |
+| Understand | [Draft](02-understand.md) + [all 9 RBI-prompt outputs](02-understand-rbi/README.md) |
+| Empathize & Synthesize | **2.3 synthesis complete for current expert evidence**: [stage summary](03-empathize.md) + [all RBI prompt outputs](03-empathize-rbi/README.md). Direct customer validation remains open |
+| Ideate | **Next:** use the final HMW to generate/compare solution directions |
+| Prototype & Test | No prototype tested yet |
 | Business Case & Pitch | Not prepared as a final team case |
 
-## Next questions
+## Evidence still missing
 
-1. Which market and customers will we focus on, and what advice do they receive today?
-2. What does the existing investment app already cover? Can we observe the real journey?
-3. Where do customers become uncertain, stop or seek help elsewhere?
-4. Can we hear recent experiences from customers as well as bankers?
-5. Which pain point and smallest experiment should we select after that evidence?
+1. Why do eligible customers choose not to use Premium/advisory service?
+2. At which exact moments do customers want human help?
+3. What do non-Premium mass-affluent customers do when self-service information is not enough?
+4. Does app-to-human handover preserve context?
+5. What follow-up do self-directed customers want after investing?
 
-Team activity and decisions: [team log](team-log.md). Work one course stage at a time; the preparation guide does not mark later stages complete.
+Customer interviews would strengthen or change the HMW; they should be added if available rather than treating the two experts as customer proof.
+
+Team activity and decisions: [team log](team-log.md).

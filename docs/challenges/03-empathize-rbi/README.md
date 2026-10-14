@@ -1,37 +1,52 @@
-# Stage 2 Empathize — RBI prompt outputs (research preparation)
+# Stage 2 Empathize & Synthesize — RBI prompt outputs
 
-The five preparation prompts from the RBI AI Prompt Library, run in full on 13.10.2026 with the skill `innovation-empathize`. They build on the team's own plan in [../03-empathize.md](../03-empathize.md) (4 hypotheses, pass marks, questions, results tracker), which stays the team's reference.
+RBI AI Prompt Library outputs for Stage 2, generated with skill `innovation-empathize`.
 
-**AI-assisted drafts for the team. Interviews must be with real people.** No new web research was done for this stage; facts come from the Stage 1 files and are marked "This requires verification" where unchecked.
+- **Preparation prompts 2.1.1–2.2.2:** run 13.10.2026.
+- **Synthesis prompts 2.3.1–2.3.4:** run 14.10.2026 after two real internal expert interviews (Hungary + Serbia).
+
+The team's concise Stage 2 reference is [../03-empathize.md](../03-empathize.md).
+
+> **Evidence warning:** the two interview inputs were supplied as AI-generated meeting summaries. They may contain transcription/summarisation errors and are not verbatim transcripts. They are expert evidence, not direct customer evidence. The original H1–H3 customer pass marks are therefore **not** claimed as completed.
 
 ## Files
 
-| Prompt | File | What it gives us |
+| Prompt / input | File | What it gives us |
 |---|---|---|
-| 2.1.1 Hypotheses | [2.1.1-hypothesis-formulation.md](2.1.1-hypothesis-formulation.md) | Team's 4 hypotheses unchanged + 20 more, top 5, how to test each, top 10 |
-| 2.1.2 Interview guide | [2.1.2-interview-guide.md](2.1.2-interview-guide.md) | Full guide (reference), **30-min expert script**, **one-page street script** |
-| 2.1.3 Recruitment | [2.1.3-participant-recruitment.md](2.1.3-participant-recruitment.md) | Who and how many, street approach, screening, banker invite text, consent |
-| 2.2.1 Note templates | [2.2.1-note-taking-template.md](2.2.1-note-taking-template.md) | **Street sheet (T1)**, detailed sheet (T2), expert sheet (T3), tracker export (T4) |
-| 2.2.2 Facilitation tips | [2.2.2-facilitation-tips.md](2.2.2-facilitation-tips.md) | Do's and don'ts, money as a sensitive topic, quality checklist |
+| 2.1.1 Hypotheses | [2.1.1-hypothesis-formulation.md](2.1.1-hypothesis-formulation.md) | Team's 4 original hypotheses + detailed testable assumptions |
+| 2.1.2 Interview guide | [2.1.2-interview-guide.md](2.1.2-interview-guide.md) | Expert and customer interview scripts |
+| 2.1.3 Recruitment | [2.1.3-participant-recruitment.md](2.1.3-participant-recruitment.md) | Recruitment and screening plan |
+| 2.2.1 Note templates | [2.2.1-note-taking-template.md](2.2.1-note-taking-template.md) | Live/post-interview note structures |
+| 2.2.2 Facilitation tips | [2.2.2-facilitation-tips.md](2.2.2-facilitation-tips.md) | Interview do's/don'ts and quality checks |
+| **Synthesis input** | [2.3.0-expert-interview-evidence.md](2.3.0-expert-interview-evidence.md) | Anonymised Hungary + Serbia expert evidence and limitations |
+| **2.3.1 Pattern analysis** | [2.3.1-interview-pattern-analysis.md](2.3.1-interview-pattern-analysis.md) | Themes, frequency, hypothesis check, surprises, root causes, design implications |
+| **2.3.2 Personas** | [2.3.2-personas.md](2.3.2-personas.md) | Provisional behavioural archetypes; deliberately no invented demographics/quotes |
+| **2.3.3 Journey map** | [2.3.3-journey-map.md](2.3.3-journey-map.md) | Cross-market current-state journey, pain points and moments of truth |
+| **2.3.4 How Might We** | [2.3.4-how-might-we.md](2.3.4-how-might-we.md) | Final solution-neutral HMW question for Ideate |
 
-**What to print or take on a phone:** the street script (2.1.2 version c), the street sheet (2.2.1 T1) and the consent line (2.1.3).
+## Synthesis in 60 seconds
 
-## Key points
+1. **Advisory capability already exists** in Premium/higher service tiers; a new advisory tool is not the obvious problem.
+2. **Digital investing already exists** and can be fast; transaction speed is not automatically the core friction.
+3. **Education/confidence matters**, but education content already exists or is being expanded.
+4. The strongest gap is between **self-service/non-advisory investing** and **full Premium/Private advisory support**.
+5. The strongest service signal is **self-service with expert help available when needed**, rather than forcing all customers into a high-touch relationship.
 
-1. **Ask "Did you get advice at all?" first.** Many people may have had no advice, only a product test. H1 (personalisation) is only fair among people who got advice.
-2. **Plan for about 12 street interviews to reach about 10 in segment.** Use the screening question; check after 6 whether new themes still appear.
-3. **Never ask amounts or account details.** Say "savings beyond everyday needs", not "wealth". Verbal consent, anonymous IDs (C1, C2…, E1), no street recordings.
-4. **One expert = a signal for H4, not proof.** Ask the expert for 1–2 Hungarian Premium or RaiConnect bankers.
-5. **We are bank employees testing our own beliefs.** Don't defend the bank, don't give advice, don't mention solution ideas.
+## Hypothesis check
 
-## Team decisions before going out
+| Hypothesis | Status after 2 expert interviews |
+|---|---|
+| H1 Personalisation | **Insufficient / too broad** — split by advised vs non-advised service model |
+| H2 Knowledge/confidence | **Partially validated** at expert level |
+| H3 Hybrid digital + human | **Partially validated; strong expert support** |
+| H4 Missing adviser data/tools | **Contradicted as written** — tools exist; access/coverage/handover is a better question |
 
-- **Question order on the street:** H1 → H3 → H2 (suggested, priorities first) or H1 → H2 → H3 (as in 03-empathize.md).
-- **H1 counting rule:** count only people who received advice? (suggested)
-- **Translation:** a native Hungarian speaker translates the street script and, ideally, leads street interviews.
-- **Ask the coaches (13.10.2026):** are public interviews allowed, which time slots, any RBI/RBHU rules on gifts, consent, recording and storing notes. All marked "This requires verification".
-- **Tracker formula fix:** 1.3.2's H4 formula counts only expert rows; use the version in 2.2.1 that also counts bankers.
+## Final HMW
 
-## Not run yet (needs real notes)
+> **How might we enable mass-affluent customers outside full Premium/Private advisory service to get the right level of guidance at the right moment so that they can make confident, informed investment decisions?**
 
-2.3.1 Pattern analysis → 2.3.2 Personas → 2.3.3 Journey map → 2.3.4 How Might We. After interviews, paste the notes and run these in that order.
+## Stage status
+
+The RBI **2.3 synthesis sequence is complete for the evidence currently available** and is ready to feed Stage 3 Ideate.
+
+Customer validation remains an explicit evidence gap. If direct customer interviews are added, rerun 2.3.1 → 2.3.4 and update the synthesis rather than forcing new evidence into today's conclusion.
