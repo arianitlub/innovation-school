@@ -1,0 +1,41 @@
+name: Temporary Ideate PDF publish
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/_tmp_create_ideate_readout.js'
+      - '.github/workflows/_tmp_push_ideate_pdf.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install presentation tools
+        run: |
+          npm install pptxgenjs
+          sudo apt-get update
+          sudo apt-get install -y libreoffice-impress fonts-liberation
+      - name: Build Ideate PDF
+        run: |
+          node tools/_tmp_create_ideate_readout.js
+          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/04-ideate-rbi-readout.pptx
+          test -s docs/presentation/04-ideate-rbi-readout.pdf
+          rm -f docs/presentation/04-ideate-rbi-readout.pptx
+          rm -f tools/_tmp_create_ideate_readout.js
+          rm -f .github/workflows/_tmp_push_ideate_pdf.yml
+      - name: Commit PDF only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Add Ideate phase readout PDF'
+          git pull --rebase origin main
+          git push origin HEAD:main
