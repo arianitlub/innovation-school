@@ -85,6 +85,8 @@ Always validate AI outputs with real people and real data.
 
 ## Index: where each prompt lives
 
+All skills fill the prompts from the shared evidence map `.claude/skills/EVIDENCE.md` (not an RBI file).
+
 | Stage | Skill | Prompts |
 |---|---|---|
 | 1 Understand | `.claude/skills/innovation-understand/` | 1.1.1 Market & industry context · 1.1.2 Competitive landscape · 1.1.3 Technology trends · 1.2.1 Terminology · 1.2.2 Stakeholder mapping · 1.2.3 Scope definition · 1.3.1 Data sources · 1.3.2 Data analysis methods · 1.3.3 Data visualisation & storytelling |

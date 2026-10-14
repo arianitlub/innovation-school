@@ -1,5 +1,7 @@
 # 02 — Understand
 
+> **Status 14.10.2026:** closed with the scope below (section 6). The journey and stakeholder sections are the 13.10.2026 draft; the current journey is in [03-empathize-rbi/2.3.3](03-empathize-rbi/2.3.3-journey-map.md).
+
 *Design Thinking step 1: define the problem, map the process, find the pain points and stakeholders. Planned for Day 1 in Budapest (13.10). Everything below is a **draft to discuss as a team**. Change it freely.*
 
 ---
@@ -62,6 +64,10 @@ The course says "data brings facts, facts help to orientate". Useful numbers to 
 Full RBI prompt outputs for all 9 Stage 1 prompts (13.10.2026): [02-understand-rbi/](02-understand-rbi/README.md).
 
 
-- **Final problem statement:** _…_
-- **Most painful journey stages (top 2–3):** _…_
-- **Main user we focus on:** _…_
+Filled 14.10.2026 from what the team used in Empathize and Ideate. **Team confirmation still needed.**
+
+- **Market:** Hungary (Serbia and the Czech Republic as labelled comparisons).
+- **Main user:** mass-affluent customers outside full Premium advice, including people who qualify for Premium but don't use it. Personas: Self-Directed Comparer (C1), Cautious Branch Saver (C2).
+- **Final problem statement:** Outside full Premium, the bank's investment guidance feels product-led, unclear, costly and on the bank's terms, so customers decide elsewhere (family, ChatGPT, cheaper providers, government bonds) and the bank loses the investment relationship.
+- **Most painful journey stages:** (1) first bank contact (product push, phone offers), (2) the decision (unclear, not personal), (3) the exit (cost; nothing offered).
+- **Scope:** from "I have savings, should I do something?" to the goal review or the decision to stay or leave. Out of scope: private banking, new products, core systems, regulation. Full statement: [1.2.3](02-understand-rbi/1.2.3-scope-definition.md).

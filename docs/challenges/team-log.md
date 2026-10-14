@@ -4,6 +4,11 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 14.10.2026 — Understand closed, skills updated
+- Recorded the scope used in Empathize and Ideate: **Hungary, mass-affluent customers outside full Premium**, from first thought about savings to goal review or exit. In [02-understand.md](02-understand.md) section 6 and [1.2.3](02-understand-rbi/1.2.3-scope-definition.md). Team confirmation needed.
+- Added the filled RBI prompt to 2.3.2, 2.3.3 and 2.3.4.
+- Added `.claude/skills/EVIDENCE.md` and pointed all six skills to the current interviews, synthesis and decisions.
+
 ## 14.10.2026 — Concept proposed: My Wealth
 - Arianit proposed **My Wealth**: a new section in the mobile app, unlocked at the mass-affluent threshold, with Snapshot, Life Profile, Learn, Playground, optional AI Wealth Assistant, Talk to an Expert (profile passed to the banker) and opt-in nudges. Details: [04-ideate.md](04-ideate.md).
 - Seven fixes added from the evidence: costs and comparer, exit moment, branch way in, opt-in below the threshold, simple Playground, "not advice" + GDPR consent, opt-in nudges.

@@ -107,5 +107,6 @@ The active workspace is `/Users/arianit/Desktop/innovation-school`. All Markdown
 - `docs/my-research/`: our desk research, Tuesday preparation, Design Thinking preparation, candidate suggestions and source register.
 - `docs/working-context.md`: continuity, current status and user preferences.
 - `.claude/skills/`: the RBI AI Prompt Library as six project skills, one per stage (`innovation-understand`, `innovation-empathize`, `innovation-ideate`, `innovation-prototype-test`, `innovation-business-case-pitch`, `innovation-meeting-prep`). Prompt texts in `prompts/` are RBI source material: keep them word for word.
+- `.claude/skills/EVIDENCE.md`: shared evidence map for all skills (interviews C1, C2, UX, experts; synthesis; decisions; research). Update it whenever new interviews, data or decisions arrive.
 
 The existing Git remote is configured. Arianit explicitly requested an initial commit/push and the discussion update on 10.10.2026. Perform those requested operations; do not treat historical notes about waiting for review as a new approval requirement. Later commits/pushes still require a request. Record actual publication status, and never store conversation credentials in project files.
