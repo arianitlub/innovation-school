@@ -14,8 +14,8 @@ header{position:sticky;top:0;z-index:10;display:flex;justify-content:space-betwe
 .hero{max-width:1160px;margin:auto;padding:72px clamp(18px,5vw,68px);display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
 .kicker,.tag{display:inline-block;background:var(--y2);padding:6px 9px;border-radius:999px;font-size:11px;font-weight:800}
 .hero h1{font-size:clamp(42px,6vw,68px);line-height:1.02;letter-spacing:-.04em;margin:15px 0}.hero p,.lead{color:var(--muted);line-height:1.55}
-.actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:22px}.mock{background:#151515;color:#fff;border-radius:27px;padding:24px;box-shadow:0 22px 55px #0002}
-.balance{font-size:38px;font-weight:850;margin:5px 0}.mini{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:18px}.mini div{padding:12px;border:1px solid #ffffff22;border-radius:14px;background:#ffffff0d}
+.actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:22px}.mock{background:var(--y);color:var(--ink);border-radius:27px;padding:24px;box-shadow:0 22px 55px #0002}.mock .tag{background:#fff}
+.balance{font-size:38px;font-weight:850;margin:5px 0}.mini{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:18px}.mini div{padding:12px;border:1px solid #17171722;border-radius:14px;background:#ffffff80}
 .section{max-width:1160px;margin:auto;padding:65px clamp(18px,5vw,68px)}.alt{max-width:none;background:#fff7cc}.inner{max-width:1160px;margin:auto}
 h2{font-size:34px;margin:0 0 10px}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:13px}.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:17px}.card h3{margin:7px 0}.card p{font-size:14px;color:var(--muted);line-height:1.45}.icon{width:40px;height:40px;border-radius:11px;background:var(--y2);display:grid;place-items:center;font-size:20px}
 .callout{background:#151515;color:#fff;border-radius:24px;padding:30px;display:flex;align-items:center;justify-content:space-between;gap:24px}
@@ -31,6 +31,18 @@ details{background:#fff;border:1px solid var(--line);border-radius:14px;padding:
 .chat{display:flex;flex-direction:column;gap:8px;margin:12px 0}.bubble{padding:9px 11px;border-radius:13px;max-width:84%;font-size:13px;line-height:1.4}.bot{align-self:flex-start;background:#fff;border:1px solid var(--line)}.user{align-self:flex-end;background:#111;color:#fff}.input{display:flex;gap:7px}.input input{flex:1;border:1px solid var(--line);border-radius:11px;padding:10px}
 .slider input{width:100%}.bottom{position:absolute;bottom:0;left:0;right:0;height:70px;background:#fff;border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(4,1fr)}.bottom button{border:0;background:#fff;font-size:11px}
 .modal{display:none;position:absolute;inset:0;background:#0008;z-index:20;align-items:center;justify-content:center;padding:18px}.modal.show{display:flex}.modalbox{background:#fff;border-radius:18px;padding:18px;width:100%}
+.pg-head{display:flex;justify-content:space-between;align-items:center;margin:24px 0 4px}
+.pg-stats{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}.pg-stat{background:#171717;color:#fff;border-radius:14px;padding:11px}.pg-stat small{opacity:.7;font-size:11px}.pg-stat b{display:block;font-size:17px;margin-top:3px}
+.pg-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:14px;margin:10px 0}.pg-card h3{font-size:15px;margin:0 0 3px}.pg-card .tiny{margin:0 0 6px}
+.pg-donut{display:flex;align-items:center;gap:12px}.pg-donut svg{width:140px;flex:none}.pg-legend{flex:1;font-size:12px}.pg-legend div{display:flex;align-items:center;gap:6px;margin:6px 0}.pg-dot{width:10px;height:10px;border-radius:3px;flex:none}.pg-legend b{margin-left:auto}
+.pg-hold{display:flex;align-items:center;gap:9px;padding:10px 0;border-top:1px solid var(--line)}.pg-hold:first-child{border-top:0}.pg-logo{width:36px;height:36px;border-radius:10px;display:grid;place-items:center;font-size:9px;font-weight:900;flex:none}.pg-info{flex:1;min-width:0}.pg-info strong{display:block;font-size:13px}.pg-step{display:flex;align-items:center;gap:4px}.pg-step button{width:26px;height:26px;border-radius:8px;border:1px solid var(--line);background:#fff;font-weight:800}.pg-step button:focus-visible{outline:2px solid #111}.pg-amt{font-size:13px;font-weight:800;min-width:54px;text-align:right}
+.up{color:#1f7a3a;font-weight:700}.down{color:#b3261e;font-weight:700}
+.pg-warn{border-radius:12px;padding:10px 12px;font-size:12px;line-height:1.45;margin-top:8px}.pg-warn.alert{background:#fdecea;border:1px solid #f3b8b2}.pg-warn.ok{background:#eaf6ee;border:1px solid #b9dfc5}.pg-warn.info{background:#fff6c9;border:1px solid #ead66f}
+.pg-tabs{display:flex;gap:6px;margin:6px 0 4px}
+.pg-key{display:flex;gap:12px;flex-wrap:wrap;font-size:11px;color:var(--muted);margin-top:4px}.pg-key i{display:inline-block;width:14px;height:4px;border-radius:2px;vertical-align:middle;margin-right:5px}.pg-key i.dash{background:repeating-linear-gradient(90deg,#b38f00 0 4px,transparent 4px 7px)}
+.pg-out{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;text-align:center;margin-top:8px}.pg-out div{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:7px 4px;font-size:10px;color:var(--muted)}.pg-out b{display:block;color:var(--ink);font-size:14px;margin-top:2px}
+.pg-bar{display:grid;grid-template-columns:96px 1fr 62px;align-items:center;gap:8px;font-size:12px;margin:7px 0}.pg-bar .track{height:12px;background:var(--bg);border-radius:6px;overflow:hidden}.pg-bar .fill{height:100%;background:#d9534f;border-radius:6px}.pg-bar b{text-align:right}
+.pg-total{display:flex;justify-content:space-between;border-top:1px solid var(--line);padding-top:9px;margin-top:9px;font-size:13px}
 @media(max-width:820px){.nav a{display:none}.hero{grid-template-columns:1fr}.cards{grid-template-columns:1fr 1fr}}@media(max-width:500px){.cards{grid-template-columns:1fr}.callout{display:block}.callout button{margin-top:16px}}
 </style>
 </head>
@@ -64,9 +76,9 @@ details{background:#fff;border:1px solid var(--line);border-radius:14px;padding:
 </div>
 
 <div id="app">
-<div class="appwrap"><div class="phone"><div class="yellow"></div><div class="top"><div class="brand"><div class="logo">R</div>MyBank</div><div>☰</div></div>
+<div class="appwrap"><div class="phone"><div class="top"><div class="brand"><div class="logo">15</div>MyBank</div><div>☰</div></div>
 
-<section id="home" class="screen on"><h1>Hello, Arianit</h1><p class="sub">Your finances, guidance and next steps in one place.</p><div class="darkbox"><small>Available balance</small><div class="big">€18,420</div><small>Demo data</small></div><div class="grid"><div class="tile" onclick="show('wealth')"><div class="icon">💼</div><strong>My Wealth</strong><span class="tiny">Guidance, learning & investing</span></div><div class="tile"><div class="icon">💳</div><strong>Cards</strong><span class="tiny">Daily spending</span></div><div class="tile"><div class="icon">↗️</div><strong>Payments</strong><span class="tiny">Send & schedule</span></div><div class="tile"><div class="icon">🏠</div><strong>Loans</strong><span class="tiny">Borrowing overview</span></div></div></section>
+<section id="home" class="screen on"><h1>Hello, Arianit</h1><p class="sub">Your finances, guidance and next steps in one place.</p><div class="darkbox"><small>Available balance</small><div class="big">€427,000</div><small>Demo data</small></div><div class="grid"><div class="tile" onclick="show('wealth')"><div class="icon">💼</div><strong>My Wealth</strong><span class="tiny">Guidance, learning & investing</span></div><div class="tile"><div class="icon">💳</div><strong>Cards</strong><span class="tiny">Daily spending</span></div><div class="tile"><div class="icon">↗️</div><strong>Payments</strong><span class="tiny">Send & schedule</span></div><div class="tile"><div class="icon">🏠</div><strong>Loans</strong><span class="tiny">Borrowing overview</span></div></div></section>
 
 <section id="wealth" class="screen"><button class="back" onclick="show('home')">← Back</button><h1>My Wealth</h1><p class="sub">Learn, practice, explore possible directions and get human help when needed.</p><div class="darkbox"><small>Your journey</small><div class="big">Learn → Practice → Decide</div><small>No full Premium relationship required in this concept.</small></div><div class="grid">
 <div class="tile" onclick="show('learn')"><div class="icon">📚</div><strong>Learn</strong><span class="tiny">Short lessons</span></div>
@@ -84,7 +96,26 @@ details{background:#fff;border:1px solid var(--line);border-radius:14px;padding:
 <details><summary>Fees & liquidity</summary><p>Check entry, ongoing and exit costs, tax treatment and how quickly you can access your money.</p></details>
 <details><summary>Cash, bonds and funds</summary><p>Cash is liquid; bonds can offer more stability than shares; funds can combine many assets and different risk levels.</p></details></section>
 
-<section id="play" class="screen"><button class="back" onclick="show('wealth')">← My Wealth</button><h1>Investment Playground</h1><p class="sub">Practice with €10,000 virtual money.</p><div class="slider"><b>Growth assets: <span id="pct">50%</span></b><input id="range" type="range" min="0" max="100" value="50" oninput="sim()"></div><div class="card"><div class="row"><span>Growth assets</span><b id="grow">€5,000</b></div><div class="row"><span>Defensive assets</span><b id="def">€5,000</b></div><div class="row"><span>Example risk</span><b id="risk">Balanced</b></div><div class="row"><span>Illustrative 1-year range</span><b id="rtn">-8% to +12%</b></div></div><div class="notice">Educational simulation only. It does not predict returns.</div></section>
+<section id="play" class="screen"><button class="back" onclick="show('wealth')">← My Wealth</button><h1>Investment Playground</h1><p class="sub">Practice with €10,000 virtual money.</p><div class="slider"><b>Growth assets: <span id="pct">50%</span></b><input id="range" type="range" min="0" max="100" value="50" oninput="sim()"></div><div class="card"><div class="row"><span>Growth assets</span><b id="grow">€5,000</b></div><div class="row"><span>Defensive assets</span><b id="def">€5,000</b></div><div class="row"><span>Example risk</span><b id="risk">Balanced</b></div><div class="row"><span>Illustrative 1-year range</span><b id="rtn">-8% to +12%</b></div></div><div class="notice">Educational simulation only. It does not predict returns.</div>
+
+<div class="pg-head"><b>Your practice portfolio</b><span class="tag">Virtual €10,000</span></div>
+<p class="tiny">Mix stocks, funds and cash as if you had held them for the past 12 months. Tap − and + to move €500 to or from cash.</p>
+<div id="pg-presets" class="actions" style="margin-top:8px"><button class="pill" onclick="pgPreset('careful',this)">🛡️ Careful</button><button class="pill sel" onclick="pgPreset('mine',this)">⭐ My mix</button><button class="pill" onclick="pgPreset('balanced',this)">⚖️ Balanced</button><button class="pill" onclick="pgPreset('adventurous',this)">🚀 Adventurous</button></div>
+<div id="pg-stats" class="pg-stats"></div>
+
+<div class="pg-card"><h3>Where your money is</h3><p class="tiny">Share of your practice portfolio by investment.</p><div id="pg-donut" class="pg-donut"></div></div>
+
+<div class="pg-card"><h3>Holdings</h3><div id="pg-holdings"></div><div id="pg-warn" class="pg-warn"></div></div>
+
+<div class="pg-card"><h3>Last 12 months</h3><p class="tiny">Your mix compared with keeping everything in cash.</p><div id="pg-line"></div><div class="pg-key"><span><i style="background:#171717"></i>Your mix</span><span><i class="dash"></i>All cash</span></div></div>
+
+<div class="pg-card"><h3>Simulate the future</h3><p class="tiny">A simple model with a range of outcomes. Wider band = more ups and downs.</p><div id="pg-tabs" class="pg-tabs"><button class="pill" onclick="pgYears(1,this)">1 year</button><button class="pill sel" onclick="pgYears(5,this)">5 years</button><button class="pill" onclick="pgYears(10,this)">10 years</button></div><div id="pg-fan"></div><div class="pg-key"><span><i style="background:#ffe766"></i>Likely range</span><span><i style="background:#171717"></i>Middle</span><span><i class="dash"></i>All cash</span></div><div id="pg-out" class="pg-out"></div></div>
+
+<div class="pg-card"><h3>What if markets fall?</h3><p class="tiny">Test: stock markets drop sharply, like in a bad year (single stocks −30% to −45%, global funds −20%, bonds −3%).</p><div id="pg-fall"></div></div>
+
+<div class="notice">Practice only. Prices, returns and scenarios are <b>fictional</b>. Tesla and Mercedes-Benz are used as familiar examples, not real market data or recommendations.</div>
+<button class="btn black full" onclick="show('ai')">Ask AI about my practice portfolio</button><button class="btn white full" style="margin-top:7px" onclick="show('adviser')">Discuss it with an adviser</button>
+</section>
 
 <section id="ai" class="screen"><button class="back" onclick="show('wealth')">← My Wealth</button><h1>AI Wealth Assistant</h1><p class="sub">Ask about risk, funds, fees, diversification or why an idea may fit your demo profile.</p><div id="chat" class="chat"><div class="bubble bot">Hi! I can explain investment concepts and the prototype ideas in plain language.</div></div><div class="actions"><button class="pill" onclick="ask('What funds could I explore?')">Fund ideas</button><button class="pill" onclick="ask('Why keep cash?')">Why cash?</button><button class="pill" onclick="ask('When do I need an adviser?')">Human help?</button></div><div class="input"><input id="q" placeholder="Ask a question"><button class="btn" onclick="send()">Send</button></div><div class="notice">AI explains and explores options in this concept. A real personal recommendation would require suitability checks and the approved advisory process.</div></section>
 
@@ -115,5 +146,51 @@ function sim(){let v=+range.value;pct.textContent=v+'%';grow.textContent='€'+(
 function ask(t){q.value=t;send()}function send(){let t=q.value.trim();if(!t)return;chat.innerHTML+='<div class="bubble user">'+t+'</div>';let l=t.toLowerCase(),a='I can help you compare the idea with your goal, time horizon, liquidity needs, risk comfort and fees.';if(l.includes('fund')||l.includes('invest'))a='For this demo profile, categories worth exploring include a lower-volatility bond fund, a balanced multi-asset fund and a smaller global-equity portion. These are prototype ideas only; a real recommendation needs suitability checks.';else if(l.includes('cash'))a='Keeping cash can be sensible for emergencies and near-term needs. The goal is not to invest everything.';else if(l.includes('adviser')||l.includes('human'))a='A human adviser becomes important when the question is personal, the decision is significant, or a regulated recommendation is needed.';chat.innerHTML+='<div class="bubble bot">'+a+'</div>';q.value=''}
 function goal(el,t){document.querySelectorAll('#goalBtns .pill').forEach(x=>x.classList.remove('sel'));el.classList.add('sel');goalText.textContent=t}
 function modal(v){document.getElementById('modal').classList.toggle('show',v)}
+
+/* Investment Playground: practice portfolio (fictional data only) */
+const PG={years:5,assets:[
+{id:'tsla',name:'Tesla',tick:'TSLA',type:'Single stock',risk:7,color:'#171717',fg:'#fff',amt:1500,m:[8,-12,15,-6,10,-9,18,-14,6,12,-8,9],mu:.09,vol:.45,fall:-.45},
+{id:'mbg',name:'Mercedes-Benz',tick:'MBG',type:'Single stock',risk:6,color:'#6f6f6f',fg:'#fff',amt:1000,m:[2,-3,4,-5,3,1,-2,4,-3,2,1,3],mu:.06,vol:.25,fall:-.30},
+{id:'etf',name:'Global Equity Fund',tick:'ETF',type:'Fund · 1,500 companies',risk:5,color:'#ffd500',fg:'#171717',amt:3000,m:[2,-1,3,1,-2,2,3,-1,2,1,-1,2],mu:.065,vol:.15,fall:-.20},
+{id:'bond',name:'Euro Bond Fund',tick:'BOND',type:'Fund · bonds',risk:2,color:'#b38f00',fg:'#fff',amt:2500,m:[.3,.2,-.4,.5,.3,.1,.4,-.2,.3,.2,.3,.1],mu:.03,vol:.05,fall:-.03},
+{id:'cash',name:'Cash',tick:'€',type:'Instant access',risk:1,color:'#d8cfae',fg:'#171717',amt:2000,m:Array(12).fill(.15),mu:.02,vol:0,fall:0}],
+presets:{mine:{tsla:1500,mbg:1000,etf:3000,bond:2500,cash:2000},careful:{tsla:0,mbg:0,etf:2000,bond:5000,cash:3000},balanced:{tsla:500,mbg:500,etf:4000,bond:3500,cash:1500},adventurous:{tsla:3000,mbg:2000,etf:4000,bond:500,cash:500}}};
+function pgFmt(n){return(n<0?'−€':'€')+Math.round(Math.abs(n)).toLocaleString('en-US')}
+function pgPct(x){return(x>=0?'▲ +':'▼ −')+Math.abs(x*100).toFixed(1)+'%'}
+function pgEl(id){return document.getElementById(id)}
+function pgSel(group,el){document.querySelectorAll('#'+group+' .pill').forEach(b=>b.classList.remove('sel'));if(el)el.classList.add('sel')}
+function pgPreset(name,el){const p=PG.presets[name];PG.assets.forEach(a=>a.amt=p[a.id]);pgSel('pg-presets',el);pgRender()}
+function pgStep(id,d){const a=PG.assets.find(x=>x.id===id),c=PG.assets.find(x=>x.id==='cash');if(d>0&&c.amt<d)return;if(d<0&&a.amt<-d)return;a.amt+=d;c.amt-=d;pgSel('pg-presets',null);pgRender()}
+function pgYears(y,el){PG.years=y;pgSel('pg-tabs',el);pgFan()}
+function pgChart(o){const W=340,H=165,L=40,R=10,T=10,B=22,all=[].concat(...o.series.map(s=>s.pts),o.band?o.band.hi.concat(o.band.lo):[]);let mn=Math.min(...all),mx=Math.max(...all);const p=(mx-mn)*.08||200;mn-=p;mx+=p;const n=o.series[0].pts.length,X=i=>L+i*(W-L-R)/(n-1),Y=v=>T+(mx-v)*(H-T-B)/(mx-mn);let g='';
+for(let k=0;k<=3;k++){const v=mn+(mx-mn)*k/3,y=Y(v);g+=`<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" stroke="#efe8cf"/><text x="${L-5}" y="${y+3}" text-anchor="end" font-size="9" fill="#68645b">€${(v/1000).toFixed(1)}k</text>`}
+if(o.band){const pts=o.band.hi.map((v,i)=>X(i)+','+Y(v)).concat(o.band.lo.map((v,i)=>[i,v]).reverse().map(([i,v])=>X(i)+','+Y(v)));g+=`<polygon points="${pts.join(' ')}" fill="#ffe766" opacity=".75"/>`}
+if(o.area){const s=o.series[0].pts;g+=`<polygon points="${X(0)},${H-B} ${s.map((v,i)=>X(i)+','+Y(v)).join(' ')} ${X(n-1)},${H-B}" fill="#ffd500" opacity=".18"/>`}
+o.series.forEach(s=>{g+=`<polyline points="${s.pts.map((v,i)=>X(i)+','+Y(v)).join(' ')}" fill="none" stroke="${s.stroke}" stroke-width="${s.w||2.5}" stroke-linejoin="round" stroke-linecap="round" ${s.dash?'stroke-dasharray="4 3"':''}/>`});
+const s0=o.series[0].pts;g+=`<circle cx="${X(n-1)}" cy="${Y(s0[n-1])}" r="4" fill="#171717" stroke="#ffd500" stroke-width="2"/>`;
+o.x.forEach(([i,t],k)=>{g+=`<text x="${X(i)}" y="${H-6}" font-size="9" fill="#68645b" text-anchor="${k===0?'start':k===o.x.length-1?'end':'middle'}">${t}</text>`});
+return`<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="${o.label}">${g}</svg>`}
+function pgRender(){const A=PG.assets,T=A.reduce((s,a)=>s+a.amt,0),hist=Array(13).fill(0);
+A.forEach(a=>{let v=a.amt;hist[0]+=v;a.m.forEach((r,k)=>{v*=1+r/100;hist[k+1]+=v});a.chg=a.m.reduce((p,r)=>p*(1+r/100),1)-1});
+const ret=hist[12]/T-1,score=A.reduce((s,a)=>s+a.amt/T*a.risk,0),lvl=score<2.5?'Low':score<4?'Medium':score<5.5?'Medium-high':'High',count=A.filter(a=>a.amt>0&&a.id!=='cash').length;
+pgEl('pg-stats').innerHTML=`<div class="pg-stat"><small>Value today</small><b>${pgFmt(hist[12])}</b></div><div class="pg-stat"><small>12-month result</small><b style="color:${ret>=0?'#7ee2a0':'#ff9a92'}">${pgPct(ret)}</b></div><div class="pg-stat"><small>Risk level</small><b>${lvl} · ${score.toFixed(1)}/7</b></div><div class="pg-stat"><small>Spread</small><b>${count} investment${count===1?'':'s'} + cash</b></div>`;
+const r=52,C=2*Math.PI*r;let off=0,seg='';A.forEach(a=>{const len=a.amt/T*C;if(len>0)seg+=`<circle r="${r}" cx="70" cy="70" fill="none" stroke="${a.color}" stroke-width="22" stroke-dasharray="${len} ${C-len}" stroke-dashoffset="${-off}" transform="rotate(-90 70 70)"/>`;off+=len});
+pgEl('pg-donut').innerHTML=`<svg viewBox="0 0 140 140" role="img" aria-label="Portfolio allocation chart">${seg}<text x="70" y="66" text-anchor="middle" font-size="10" fill="#68645b">Total</text><text x="70" y="82" text-anchor="middle" font-size="16" font-weight="800" fill="#171717">${pgFmt(T)}</text></svg><div class="pg-legend">${A.map(a=>`<div><span class="pg-dot" style="background:${a.color}"></span>${a.name}<b>${Math.round(a.amt/T*100)}%</b></div>`).join('')}</div>`;
+pgEl('pg-holdings').innerHTML=A.map(a=>`<div class="pg-hold"><div class="pg-logo" style="background:${a.color};color:${a.fg}">${a.tick}</div><div class="pg-info"><strong>${a.name}</strong><span class="tiny">${a.type} · risk ${a.risk}/7 · <span class="${a.chg>=0?'up':'down'}">${pgPct(a.chg)}</span></span></div>${a.id==='cash'?`<div class="pg-amt">${pgFmt(a.amt)}</div>`:`<div class="pg-step"><button aria-label="Move €500 from ${a.name} to cash" onclick="pgStep('${a.id}',-500)">−</button><div class="pg-amt">${pgFmt(a.amt)}</div><button aria-label="Move €500 from cash to ${a.name}" onclick="pgStep('${a.id}',500)">+</button></div>`}</div>`).join('');
+const single=(A[0].amt+A[1].amt)/T,cash=A[4].amt/T,w=pgEl('pg-warn');
+if(single>.3){w.className='pg-warn alert';w.innerHTML=`⚠️ <b>${Math.round(single*100)}% is in two single companies.</b> If one has a bad year, your whole portfolio feels it. Funds spread money across many companies.`}
+else if(cash>.5){w.className='pg-warn info';w.innerHTML=`💡 <b>More than half is in cash.</b> Very stable, but it may not keep up with rising prices over the years.`}
+else{w.className='pg-warn ok';w.innerHTML=`✅ <b>Your money is spread across different types.</b> That lowers the impact of any single investment.`}
+const cashLine=hist.map((_,k)=>T*Math.pow(1.0015,k)),mo=['12 mo ago','9 mo','6 mo','3 mo','Today'];
+pgEl('pg-line').innerHTML=pgChart({label:'Portfolio value over the last 12 months',area:true,series:[{pts:hist,stroke:'#171717'},{pts:cashLine,stroke:'#b38f00',dash:true,w:2}],x:[[0,mo[0]],[3,mo[1]],[6,mo[2]],[9,mo[3]],[12,mo[4]]]});
+pgFan();pgFall()}
+function pgFan(){const A=PG.assets,T=A.reduce((s,a)=>s+a.amt,0),w=A.map(a=>a.amt/T),mu=A.reduce((s,a,i)=>s+w[i]*a.mu,0);let v=0;A.forEach((a,i)=>A.forEach((b,j)=>{v+=w[i]*w[j]*a.vol*b.vol*(i===j?1:.5)}));const sig=Math.sqrt(v),Y=PG.years,n=Y===1?12:Y,mid=[],hi=[],lo=[],cs=[];
+for(let k=0;k<=n;k++){const t=k*Y/n,e=T*Math.pow(1+mu,t),z=1.28*sig*Math.sqrt(t);mid.push(e);hi.push(e*Math.exp(z));lo.push(e*Math.exp(-z));cs.push(T*Math.pow(1.02,t))}
+const h=Math.round(n/2),xl=Y===1?[[0,'Today'],[h,'6 months'],[n,'1 year']]:[[0,'Today'],[h,h+' years'],[n,Y+' years']];
+pgEl('pg-fan').innerHTML=pgChart({label:'Simulated range of future portfolio values',band:{hi,lo},series:[{pts:mid,stroke:'#171717'},{pts:cs,stroke:'#b38f00',dash:true,w:2}],x:xl});
+pgEl('pg-out').innerHTML=`<div>Tough markets<b>${pgFmt(lo[n])}</b></div><div>Middle<b>${pgFmt(mid[n])}</b></div><div>Strong markets<b>${pgFmt(hi[n])}</b></div>`+`<div style="grid-column:1/-1">All in cash after ${Y} year${Y===1?'':'s'}: <b style="display:inline;font-size:12px">${pgFmt(cs[n])}</b> · about 8 in 10 outcomes fall inside the band in this simple model</div>`}
+function pgFall(){const A=PG.assets.filter(a=>a.amt>0),T=PG.assets.reduce((s,a)=>s+a.amt,0),loss=A.map(a=>a.amt*a.fall),max=Math.max(1,...loss.map(Math.abs)),tot=loss.reduce((s,x)=>s+x,0),pct=tot/T;
+pgEl('pg-fall').innerHTML=A.map((a,i)=>`<div class="pg-bar"><span>${a.name}</span><div class="track"><div class="fill" style="width:${Math.abs(loss[i])/max*100}%"></div></div><b>${loss[i]===0?'€0':pgFmt(loss[i])}</b></div>`).join('')+`<div class="pg-total"><span>Your practice portfolio</span><b class="down">${pgFmt(tot)} (${pct<0?'−':''}${Math.abs(pct*100).toFixed(1)}%)</b></div><p class="tiny" style="margin-top:8px">${Math.abs(pct)>.2?'A big drop. Could you wait 2–5 years for markets to recover? If you may need this money sooner, keep more in cash or bonds.':Math.abs(pct)>.1?'A noticeable drop. Think about whether you would stay calm, or sell at the worst moment.':'A small drop. Stable, but expect lower long-term growth.'}</p>`}
+pgRender();
 </script>
 </body></html>
