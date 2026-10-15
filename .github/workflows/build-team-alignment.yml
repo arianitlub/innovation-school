@@ -8,6 +8,7 @@ on:
       - 'tools/create_design_thinking_status.js'
       - 'tools/create_future_scenario.js'
       - 'tools/create_my_wealth_solution.js'
+      - 'tools/create_my_wealth_pitch_v3.js'
       - '.github/workflows/build-team-alignment.yml'
   workflow_dispatch:
 
@@ -34,20 +35,23 @@ jobs:
           node tools/create_design_thinking_status.js
           node tools/create_future_scenario.js
           node tools/create_my_wealth_solution.js
+          node tools/create_my_wealth_pitch_v3.js
           libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/innovation-challenge-team-alignment.pptx
           libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/design-thinking-journey-status.pptx
           libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/future-scenario-design-thinking.pptx
           libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/my-wealth-proposed-solution.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/my-wealth-5min-pitch-v3.pptx
           test -s docs/presentation/innovation-challenge-team-alignment.pdf
           test -s docs/presentation/design-thinking-journey-status.pdf
           test -s docs/presentation/future-scenario-design-thinking.pdf
           test -s docs/presentation/my-wealth-proposed-solution.pdf
+          test -s docs/presentation/my-wealth-5min-pitch-v3.pdf
           rm -f docs/presentation/*.pptx
       - name: Commit generated PDFs
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-journey-status.pdf docs/presentation/future-scenario-design-thinking.pdf docs/presentation/my-wealth-proposed-solution.pdf
+          git add docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-journey-status.pdf docs/presentation/future-scenario-design-thinking.pdf docs/presentation/my-wealth-proposed-solution.pdf docs/presentation/my-wealth-5min-pitch-v3.pdf
           git diff --cached --quiet && exit 0
           git commit -m 'Build Innovation School PDF presentations'
           git pull --rebase origin main
