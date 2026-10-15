@@ -33,4 +33,4 @@ All 9 Stage 1 prompts from the RBI AI Prompt Library, run in full on 13.10.2026 
 2. Which 2–3 data requests to send (see [1.3.1](1.3.1-data-sources.md)).
 3. Copy the agreed problem statement, main user and painful stages into [../02-understand.md](../02-understand.md) section 6.
 
-Next stage: [../03-empathize-rbi/](../03-empathize-rbi/) (interview preparation).
+Next stage: [../02-empathize-rbi/](../02-empathize-rbi/) (interview preparation).

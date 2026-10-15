@@ -118,9 +118,9 @@ If customer interviews are added, rerun 2.3.1 → 2.3.4 and allow the HMW to cha
 
 - Common challenge view: `docs/challenges/00-overview.md`
 - Earlier detailed research: `docs/challenges/01-research.md`
-- Understand: `docs/challenges/02-understand.md` and `docs/challenges/02-understand-rbi/`
+- Understand: `docs/challenges/02-understand.md` and `docs/challenges/01-understand-rbi/`
 - Current Stage 2: `docs/challenges/03-empathize.md`
-- Full Stage 2 prompt outputs: `docs/challenges/03-empathize-rbi/`
+- Full Stage 2 prompt outputs: `docs/challenges/02-empathize-rbi/`
 - Team decisions: `docs/challenges/team-log.md`
 - Training/program notes: `docs/training/guide.md`
 - RBI AI Prompt Library: `docs/training/ai-prompt-library.md`

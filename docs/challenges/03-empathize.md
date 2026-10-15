@@ -12,7 +12,7 @@ Evidence so far:
 
 The RBI synthesis prompts **2.3.1 → 2.3.4** were re-run with all of it. This gives a **provisional problem synthesis and HMW question**. With only 2 customers, the 7/10 and 6/10 pass marks **cannot be claimed**.
 
-Full synthesis outputs: [03-empathize-rbi/README.md](03-empathize-rbi/README.md).
+Full synthesis outputs: [02-empathize-rbi/README.md](02-empathize-rbi/README.md).
 
 ---
 
@@ -50,7 +50,7 @@ The street interviews added:
 | Education | Fear of loss/knowledge gap; Learn to Invest + podcast | Brochures and adviser explanation | Understanding/confidence matters, but education is not absent |
 | Human preference | Customer research reportedly favours self-service + human help when needed; less unsolicited outreach | Human/video advice already used | Hybrid/on-demand support is the strongest common direction |
 
-Detailed anonymised evidence: [2.3.0 expert input](03-empathize-rbi/2.3.0-expert-interview-evidence.md).
+Detailed anonymised evidence: [2.3.0 expert input](02-empathize-rbi/2.3.0-expert-interview-evidence.md).
 
 ---
 
@@ -62,7 +62,7 @@ Detailed anonymised evidence: [2.3.0 expert input](03-empathize-rbi/2.3.0-expert
 | C2 | Long-time saver, Hungarian | No phone offers; trusts branch or self-initiated contact; doesn't research; relies on others |
 | UX | 8 Serbian savers + 4-country synthesis | Complexity, risk and withdrawal unclear; wants control and human access |
 
-Details: [2.3.0 part 2](03-empathize-rbi/2.3.0-expert-interview-evidence.md).
+Details: [2.3.0 part 2](02-empathize-rbi/2.3.0-expert-interview-evidence.md).
 
 ---
 
@@ -113,7 +113,7 @@ Moments of truth: **first bank contact** (trust won or lost), **the decision** (
 
 > **First contact on the bank's terms → product push, unclear and costly → customer decides elsewhere → relationship lost at exit**
 
-Full current-state map: [2.3.3 journey map](03-empathize-rbi/2.3.3-journey-map.md).
+Full current-state map: [2.3.3 journey map](02-empathize-rbi/2.3.3-journey-map.md).
 
 ---
 
@@ -126,7 +126,7 @@ Each persona rests on one real interview; no demographics were invented.
 3. **New-to-Investing Learner (UX study):** needs simple, relevant explanations to start safely.
 4. Benchmark: **Advised Premium client** (experts).
 
-Full provisional persona output: [2.3.2 personas](03-empathize-rbi/2.3.2-personas.md).
+Full provisional persona output: [2.3.2 personas](02-empathize-rbi/2.3.2-personas.md).
 
 ---
 
@@ -134,7 +134,7 @@ Full provisional persona output: [2.3.2 personas](03-empathize-rbi/2.3.2-persona
 
 > **How might we give mass-affluent customers outside full Premium advice clear, affordable guidance that starts from their own situation and is there when they choose to ask for it, so they can make confident investment decisions with their bank?**
 
-Updated after the street interviews: it adds *own situation*, *when they choose to ask*, *clear, affordable* and *with their bank*. See [2.3.4](03-empathize-rbi/2.3.4-how-might-we.md).
+Updated after the street interviews: it adds *own situation*, *when they choose to ask*, *clear, affordable* and *with their bank*. See [2.3.4](02-empathize-rbi/2.3.4-how-might-we.md).
 
 This is intentionally **solution-neutral**. It does not decide whether the answer is education, an app feature, a shared adviser pool, a handover flow, AI, a new service model or something else. Those belong in **Ideate**.
 
@@ -169,7 +169,7 @@ When more interviews are added, re-run 2.3.1–2.3.4 again.
 ## 10. Output of this step
 
 - **Hypothesis check:** complete for 2 experts + 2 customers + UX study; customer pass marks not reached (n=2).
-- **Problem One-Pager (2.4):** filled: [2.4](03-empathize-rbi/2.4-problem-one-pager.md).
+- **Problem One-Pager (2.4):** filled: [2.4](02-empathize-rbi/2.4-problem-one-pager.md).
 - **Pattern synthesis:** complete.
 - **Provisional personas:** complete, each based on one real interview.
 - **Current-state journey:** complete as a cross-market expert synthesis.

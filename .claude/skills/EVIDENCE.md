@@ -20,23 +20,23 @@ Not an RBI file. Shared by all six skills so every RBI prompt is filled from the
 
 | ID | What | File |
 |---|---|---|
-| E-HU-1, E-RS-1 | Hungary and Serbia expert interviews (AI meeting summaries, anonymised) | `docs/challenges/03-empathize-rbi/2.3.0-expert-interview-evidence.md` (part 1) |
+| E-HU-1, E-RS-1 | Hungary and Serbia expert interviews (AI meeting summaries, anonymised) | `docs/challenges/02-empathize-rbi/2.3.0-expert-interview-evidence.md` (part 1) |
 | E-RS-0 | Earlier expert interview by Veljko (Serbian context, unreliable speaker labels, many gaps) | `docs/team-research/Innovation_School_English_Transcript-Veljko.txt` |
 
 All interviews in one place, with cross-source signals: `2.3.0-expert-interview-evidence.md` (parts 1 and 2).
 
 ## Synthesis already done (build on it, don't redo it)
 
-- Patterns, hypothesis status, quotes: `docs/challenges/03-empathize-rbi/2.3.1-interview-pattern-analysis.md`
+- Patterns, hypothesis status, quotes: `docs/challenges/02-empathize-rbi/2.3.1-interview-pattern-analysis.md`
 - Personas (Self-Directed Comparer C1, Cautious Branch Saver C2, New Learner UX): `2.3.2-personas.md`
 - Journey map incl. exit stage: `2.3.3-journey-map.md`
 - HMW: `2.3.4-how-might-we.md`; Problem One-Pager: `2.4-problem-one-pager.md`
-- Ideas and scores: `docs/challenges/04-ideate-rbi/3.2.1-solution-ideation.md`, `3.3.1-idea-evaluation.md`
+- Ideas and scores: `docs/challenges/03-ideate-rbi/3.2.1-solution-ideation.md`, `3.3.1-idea-evaluation.md`
 - **Chosen concept "My Wealth"** (proposed by Arianit 14.10.2026, team confirmation pending): `docs/challenges/04-ideate.md`; deck `docs/presentation/my-wealth-proposed-solution.pdf`
 
 ## Market and desk research (public sources)
 
-- Mass affluent, Premium, Hungary thresholds, MNB data, competitors, technology, rules: `docs/challenges/02-understand-rbi/` (1.1.1, 1.1.2, 1.1.3, 1.2.1)
+- Mass affluent, Premium, Hungary thresholds, MNB data, competitors, technology, rules: `docs/challenges/01-understand-rbi/` (1.1.1, 1.1.2, 1.1.3, 1.2.1)
 - Earlier research: `docs/my-research/02-mass-affluent-customers-bank-services-and-retention.md`
 - Source links: `docs/my-research/05-sources-and-further-reading.md`
 - Old strategy-paper summary (generic, original absent): `docs/challenges/01-research.md`

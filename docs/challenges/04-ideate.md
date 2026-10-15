@@ -1,6 +1,6 @@
 # 04 — Ideate
 
-*Design Thinking step 3. 14.10.2026. Full RBI prompt outputs: [04-ideate-rbi/](04-ideate-rbi/README.md).*
+*Design Thinking step 3. 14.10.2026. Full RBI prompt outputs: [03-ideate-rbi/](03-ideate-rbi/README.md).*
 
 ## Status
 

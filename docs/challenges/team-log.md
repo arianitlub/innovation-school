@@ -5,7 +5,7 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 ---
 
 ## 14.10.2026 — Understand closed, skills updated
-- Recorded the scope used in Empathize and Ideate: **Hungary, mass-affluent customers outside full Premium**, from first thought about savings to goal review or exit. In [02-understand.md](02-understand.md) section 6 and [1.2.3](02-understand-rbi/1.2.3-scope-definition.md). Team confirmation needed.
+- Recorded the scope used in Empathize and Ideate: **Hungary, mass-affluent customers outside full Premium**, from first thought about savings to goal review or exit. In [02-understand.md](02-understand.md) section 6 and [1.2.3](01-understand-rbi/1.2.3-scope-definition.md). Team confirmation needed.
 - Added the filled RBI prompt to 2.3.2, 2.3.3 and 2.3.4.
 - Added `.claude/skills/EVIDENCE.md` and pointed all six skills to the current interviews, synthesis and decisions.
 
@@ -15,13 +15,13 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 - **To do:** team confirms the concept. Stage 4 prototype is ready to run, not started.
 
 ## 14.10.2026 — Stage 3 Ideate RBI prompts run
-- Ran 3.1.1 workshop design, 3.2.1 (70 ideas), 3.2.2 SCAMPER and 3.3.1 scoring of 12 shortlisted ideas: [04-ideate-rbi/README.md](04-ideate-rbi/README.md).
+- Ran 3.1.1 workshop design, 3.2.1 (70 ideas), 3.2.2 SCAMPER and 3.3.1 scoring of 12 shortlisted ideas: [03-ideate-rbi/README.md](03-ideate-rbi/README.md).
 - Top 5 within 0.5 points: life profile (I-02), Money Guide team idea (I-01), fair exit (I-04), cost comparer (I-03), handover (I-05).
 - AI recommendation: prototype Money Guide in stages, AI explainer later after a Compliance check. **Not yet a team decision.**
 
 ## 14.10.2026 — Stage 2 synthesis updated with street interviews
 - Added two street interviews (C1 English investor, C2 Hungarian saver) and the internal UX education study summary to `team-research/`, preserved as supplied.
-- Re-ran RBI prompts 2.3.1–2.3.4 and filled the Problem One-Pager (2.4): [03-empathize-rbi/README.md](03-empathize-rbi/README.md).
+- Re-ran RBI prompts 2.3.1–2.3.4 and filled the Problem One-Pager (2.4): [02-empathize-rbi/README.md](02-empathize-rbi/README.md).
 - New findings: product push instead of life-based guidance, cost as exit reason, no phone offers, customers decide with family and ChatGPT.
 - H1–H3 partially supported (n=2 customers, pass marks not reached); H4 contradicted as written. HMW updated.
 - **Next:** more counted street interviews, or move to Ideate with the evidence limits visible.
@@ -35,12 +35,12 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 - Stage 2 synthesis is complete for the **current expert evidence** and can feed Ideate. Direct customer validation is still missing, so the original H1–H3 numeric customer pass marks are not claimed as achieved.
 
 ## 13.10.2026 — all Stage 1 RBI prompts run in full
-- Ran all 9 Understand prompts (1.1.1–1.3.3) in RBI's full format. Outputs and key findings: [02-understand-rbi/README.md](02-understand-rbi/README.md).
+- Ran all 9 Understand prompts (1.1.1–1.3.3) in RBI's full format. Outputs and key findings: [01-understand-rbi/README.md](01-understand-rbi/README.md).
 - Web search was unavailable; research used pages opened directly. Unchecked items are marked "This requires verification".
-- Ran Stage 2 preparation prompts 2.1.1–2.2.2 in full: [03-empathize-rbi/README.md](03-empathize-rbi/README.md). To decide: street question order, H1 counting rule, translation, coach check on interview rules.
+- Ran Stage 2 preparation prompts 2.1.1–2.2.2 in full: [02-empathize-rbi/README.md](02-empathize-rbi/README.md). To decide: street question order, H1 counting rule, translation, coach check on interview rules.
 
 ## 13.10.2026 — Understand with RBI prompts
-- Ran RBI prompts 1.2.1 Terminology, 1.2.3 Scope, 1.2.2 Stakeholders and 1.3.1 Data Sources (skill `innovation-understand`). Short draft later replaced by the full outputs in `02-understand-rbi/` (draft deleted 14.10.2026).
+- Ran RBI prompts 1.2.1 Terminology, 1.2.3 Scope, 1.2.2 Stakeholders and 1.3.1 Data Sources (skill `innovation-understand`). Short draft later replaced by the full outputs in `01-understand-rbi/` (draft deleted 14.10.2026).
 - Market options to decide: Serbia, Czech Republic or Hungary (street interviews this week happen in Budapest).
 - No scope decided yet.
 
