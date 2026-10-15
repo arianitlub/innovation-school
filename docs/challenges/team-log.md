@@ -4,6 +4,11 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 15.10.2026 — Stage 4 Prototype & Test RBI prompts run
+- Prototype: `docs/prototype/my-wealth-prototype.html`. Round 1 feedback T1 saved in `team-research/prototype-feedback-T1.md`: added notification bell with 2 notifications; rewrote Wealth Insights (shorter, 4 clear picks).
+- Ran 4.1.1, 4.2.1, 4.3.1, 4.3.2, 4.3.3: [04-prototype-test-rbi/README.md](04-prototype-test-rbi/README.md). Decision after round 1: **ITERATE**.
+- **Next:** apply top fixes, then round 2 with 5–8 people (16.10.–26.10.2026). Compliance check on "Top idea" wording.
+
 ## 14.10.2026 — Understand closed, skills updated
 - Recorded the scope used in Empathize and Ideate: **Hungary, mass-affluent customers outside full Premium**, from first thought about savings to goal review or exit. In [02-understand.md](02-understand.md) section 6 and [1.2.3](01-understand-rbi/1.2.3-scope-definition.md). Team confirmation needed.
 - Added the filled RBI prompt to 2.3.2, 2.3.3 and 2.3.4.

@@ -79,7 +79,7 @@ This question is deliberately solution-neutral. Stage 3 Ideate should explore se
 | Understand | **Closed 14.10.2026:** [scope and problem](02-understand.md) (Hungary, customers outside full Premium) + [all 9 RBI-prompt outputs](01-understand-rbi/README.md). Team confirmation needed |
 | Empathize & Synthesize | **Synthesis updated 14.10.2026** with 2 experts, 2 street interviews and the UX study: [stage summary](03-empathize.md) + [all RBI prompt outputs](02-empathize-rbi/README.md). More customer interviews needed (n=2) |
 | Ideate | [Summary](04-ideate.md) + [RBI outputs](03-ideate-rbi/README.md) (14.10.2026). Concept proposed: **My Wealth** (app section unlocked at the mass-affluent threshold: Life Profile, Learn, optional AI, Talk to an Expert). Team confirmation needed |
-| Prototype & Test | **Ready to start:** 4.1.1 test plan + 4.3.1 clickable My Wealth prototype. Not run yet |
+| Prototype & Test | [Summary](05-prototype-test.md) + [RBI outputs](04-prototype-test-rbi/README.md) (15.10.2026). [Clickable prototype](../prototype/my-wealth-prototype.html); round 1 feedback (T1) → 2 fixes; decision ITERATE. Round 2 with 5–8 people next |
 | Business Case & Pitch | Not prepared as a final team case |
 
 ## Evidence still missing

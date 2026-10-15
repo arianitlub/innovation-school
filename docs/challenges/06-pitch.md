@@ -1,76 +1,71 @@
-# 06 — My Wealth leadership pitch
+# 06 — Pitch storyline (5 minutes, with live prototype demo)
 
-Updated **15.10.2026**. Built from the current evidence, My Wealth prototype, RBI Stage 5 prompts, and an illustrative business-case model.
+*Updated 15.10.2026. Format from the on-site session: prepare a storyline, PowerPoint not required, present to another team. Structure from the leadership 5-minute tip: Hook, Problem, Insight, Idea, Impact, Ask. Optional visual support: [my-wealth-5-minute-pitch.pdf](../presentation/my-wealth-5-minute-pitch.pdf) (source `tools/my-wealth-5-minute-pitch.html`). Longer 17-slide version for 04.11: [05-pitch-rbi/5.2.1-pitch-deck.md](05-pitch-rbi/5.2.1-pitch-deck.md). Evidence IDs: `.claude/skills/EVIDENCE.md`.*
 
-## Five-minute storyline
+**Honesty rules**
+- Our evidence is small: 2 street interviews, 2 experts, 1 UX study, 1 prototype test. Say "first signals", never "validated".
+- Prototype amounts (€280,000, €120,000, 3–4%, €1,880) are fictional demo data. Say "demo data".
+- €200k pilot and €180k yearly benefit are our illustrative assumptions from [5.1.1](05-pitch-rbi/5.1.1-business-case.md), not RBI data.
+- "Nearly half of term deposits earn under 1%, mostly balances under HUF 10 million" is MNB data for all Hungarian savers, not a count of mass-affluent customers. Say "savers with up to HUF 10 million". The size of our segment at RBHU needs internal data.
 
-### 1. Hook — “You have €50,000 saved. What would you do tomorrow?”
+## Timing
 
-Three obvious options appear: leave it in cash, search alone, or call a banker. For many mass-affluent customers, none feels quite right.
+| Time | Step |
+|---|---|
+| 0:00 | Hook (30 s) |
+| 0:30 | Problem (30 s) |
+| 1:00 | Insight (30 s) |
+| 1:30 | Idea + live demo (2 min) |
+| 3:30 | Impact (45 s) |
+| 4:15 | Ask (30 s) |
+| 4:45 | Close (15 s) |
 
-### 2. Problem — the missing middle
+## 1. Hook
 
-The bank already has digital investment capability and strong Premium/Private advisory capability. The gap is the space between **basic self-service** and **full high-touch advice**.
+> "Nearly half of Hungarian term deposits earn under 1%, mostly balances under HUF 10 million. Picture one customer with €280,000 in cash earning 1%. That's €2,800 a year. If he moved €150,000 into a bond fund at an example 3–4%, he'd earn roughly €3,000–4,500 more each year. Instead, he asks his nephew and ChatGPT. Not us."
 
-### 3. Insight — confidence and control matter more than another product list
+(C1 used his nephew and ChatGPT. The €280,000 is the prototype's demo customer.)
 
-Early interviews suggest customers want:
+## 2. Problem
 
-- guidance based on their life situation, not product push
-- a way to learn and try before committing real money
-- human help when they choose to ask for it
+> "Below Premium, our guidance feels like a sales push: unclear, costly, on our terms. One customer closed his investment account because it cost too much. The decision happens elsewhere, and we lose the relationship."
 
-Evidence remains small: two direct customer interviews plus expert interviews and an internal UX study. This is a strong signal, not statistical validation.
+## 3. Insight
 
-### 4. Idea — My Wealth
+> "Two experts, two customers and an internal study told us the same three things. Start from my life. Let me choose the contact. Show me the price. This is a first signal, not proof."
 
-A guided layer inside the existing mobile-banking app:
+## 4. Idea and live demo
 
-**Life Profile → Learn / Playground → Explore ideas → optional AI explainer → human adviser handover → suitable action → ongoing review**
+> "This is My Wealth, inside the app they already use."
 
-AI explains. The adviser recommends. The customer stays in control.
+Demo path in `docs/prototype/my-wealth-prototype.html`:
+1. Home → My Wealth: all money with us in one place.
+2. Wealth Insights: "€280,000 sits in cash earning about 1%", four clear picks, current fees €1,880 a year (demo data).
+3. AI assistant: tap "Why cash?". It explains, it does not recommend.
+4. Talk to an Adviser: the banker sees your goal and what you explored.
 
-### 5. Make it tangible
+> "After our first test, a customer asked for notifications and shorter insights. We built both the same day."
 
-Use an illustrative portfolio to explain trade-offs between liquidity, stability and growth. Let customers experiment with a simple risk Playground, then escalate to an adviser when the question becomes personal.
+## 5. Impact
 
-### 6. Impact
+> "Customers get confidence, not pressure. In our illustrative model a 6-month pilot costs about €200k. If engagement and assets match our expected case, the benefit is about €180k a year, and a full build needs about €20,500 kept or added per engaged customer to pay off. The pilot tells us if that's true."
 
-**Customer:** more confidence, clarity, control and continuity.
+## 6. Ask
 
-**Bank:** deeper engagement, potential retention/AUM upside and better use of adviser capacity.
+> "A sponsor at RBHU, an early Compliance check, and 10 customers to test with."
 
-Pilot metrics should measure comprehension, behaviour and suitable actions — not only investment conversion.
+Close: "Let's help customers put their savings to work, with us."
 
-### 7. Investment
+## Likely questions
 
-A banking-grade solution touches mobile, backend/data, adviser integrations, security, compliance, legal, privacy, model risk, QA/UAT, analytics and operations.
+- Is it advice? No. It explains and educates. Recommendations stay with the banker (MiFID II); the AI says it is AI.
+- How many customers did you test? 2 interviews, 1 prototype test. A first signal.
+- How big is the group? Not known yet. We need RBHU data on customers just below Premium.
+- What if customers distrust AI? It is optional; the expert and branch paths work without it.
 
-- Full-MVP ROM: **€0.9m–€1.3m**
-- Base planning case: **~€1.06m**
-- Annual run: **€220k–€300k**
-- Recommended controlled pilot: **€300k–€400k**
+## Open before we present
 
-All values are illustrative planning assumptions, not RBI estimates.
-
-### 8. Business upside
-
-Illustrative sensitivity scenarios use:
-
-**eligible customers × activation × incremental AUM × 0.6% annual revenue contribution**
-
-- Conservative: €37.5m incremental AUM → ~€0.23m annual contribution
-- Base: €187.5m incremental AUM → ~€1.13m annual contribution
-- Upside: €600m incremental AUM → ~€3.60m annual contribution
-
-The scenarios exclude retention, Premium conversion, card/FX/deposit value, cross-sell and adviser-capacity benefits.
-
-### 9. Ask
-
-> **Approve a €350k pilot envelope before we discuss a €1m+ production build.**
-
-Use one market and one controlled squad to replace assumptions with real RBI data. If the evidence is weak, stop. If it is strong, build the scale business case.
-
-## Closing line
-
-> **Right guidance. Right moment. Customer in control.**
+- Confirm with coach: audience, exact time, Q&A.
+- Decide who speaks which step.
+- Team has not yet confirmed My Wealth (team-log 14.10.2026).
+- Update Insight and Idea after round 2 tests (16.10.–26.10.2026).

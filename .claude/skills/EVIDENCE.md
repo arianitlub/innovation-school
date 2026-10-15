@@ -16,6 +16,14 @@ Not an RBI file. Shared by all six skills so every RBI prompt is filled from the
 | C2 | Street interview, Hungarian, long-time saver (no phone offers, trusts branch / self-initiated contact, doesn't research) | `docs/team-research/street-interview-C2-neue-aufnahme-2-hungarian.md` |
 | UX | Internal investment-education UX study: 8 Serbian interviews + 4-country synthesis; secondary, not confirmed mass affluent | `docs/team-research/ux-investment-education-platform-research-summary.md` |
 
+## Prototype test evidence
+
+| ID | What | File |
+|---|---|---|
+| T1 | First feedback on the My Wealth prototype (15.10.2026): wants a notification button with 2 clickable notifications (investments up/down); Wealth Insights should be clearer about what to invest in and why, with less information. "Others are okay." Participant profile not recorded | `docs/team-research/prototype-feedback-T1.md` |
+
+Prototype: `docs/prototype/my-wealth-prototype.html`. Stage 4 outputs: `docs/challenges/04-prototype-test-rbi/`.
+
 ## Expert evidence (internal view, not customer proof)
 
 | ID | What | File |
