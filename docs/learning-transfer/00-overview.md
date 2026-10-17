@@ -32,8 +32,7 @@ This is separate from the team Mass-Affluent Innovation Challenge. The challenge
 ## Files
 
 - `01-expectation.md` — what I initially sent and what I thought before Budapest.
-- `02-learning-transfer-goal.md` — Goal v2 (draft 16.10.2026): raise my team's AI maturity through buddy coaching by advanced users. Replaces the Innovation Hour as the main direction.
-- `03-meeting-preparation.md` — canvas, RBI 6.1.1 feedback and flow for the first AI Practice Session (homework).
+- Later: `02-learning-transfer-goal.md`
 - Later: `03-practical-workshop.md`
 - Later: `04-reflection-and-key-takeaways.md`
 - Later: `05-manager-alignment.md`
