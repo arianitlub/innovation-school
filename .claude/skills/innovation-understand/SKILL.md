@@ -5,7 +5,7 @@ description: RBI Innovation School AI Prompt Library, Stage 1 Understand. Use wh
 
 # Stage 1: Understand
 
-Official RBI Innovation School prompts, stored word for word in `prompts/`. Booklet principles and frameworks: `docs/training/ai-prompt-library.md`.
+Official RBI Innovation School prompts, stored word for word in `prompts/`. Booklet principles and frameworks: `docs/1-innovation-school/ai-prompt-library.md`.
 
 | Prompt | File | Use when |
 |---|---|---|
@@ -24,9 +24,9 @@ Official RBI Innovation School prompts, stored word for word in `prompts/`. Book
 **Evidence:** fill placeholders from [`../EVIDENCE.md`](../EVIDENCE.md), the shared map of current interviews (C1, C2, UX, experts), synthesis, decisions and research. Read it first. Customer evidence ranks above expert views, and both above desk research.
 
 1. Pick the prompt that matches the request and read its file.
-2. Fill the `[INSERT ...]` placeholders from the repo: the challenge and working goal in `AGENTS.md` and `docs/challenges/00-overview.md`; current Understand work in `docs/challenges/02-understand.md` and earlier outputs in `docs/challenges/01-understand-rbi/`; research in `docs/my-research/` and `docs/challenges/01-research.md`. If Empathize is done, also use the customer and expert interviews listed in `EVIDENCE.md` (e.g. for scope and stakeholders). Ask the user only for what is not there.
+2. Fill the `[INSERT ...]` placeholders from the repo: the challenge and working goal in `AGENTS.md` and `docs/2-challenge-wealth-advice/overview.md`; current Understand work in `docs/2-challenge-wealth-advice/stages/01-understand.md` and earlier outputs in `docs/2-challenge-wealth-advice/stages/01-understand-rbi/`; research in `docs/2-challenge-wealth-advice/research/` and `docs/2-challenge-wealth-advice/research/team-research-summary.md`. If Empathize is done, also use the customer and expert interviews listed in `EVIDENCE.md` (e.g. for scope and stakeholders). Ask the user only for what is not there.
 3. Either show the filled prompt for the user to paste into Claude, Copilot or ChatGPT, or run it here if they ask. Keep the prompt text unchanged apart from the placeholders, and replace generic examples with our mass-affluent advice context.
 4. Label every company, statistic and regulatory claim that has not been checked as "needs verification". Never call the strategy paper or the transcript RBI-verified fact.
-5. Save full outputs to `docs/challenges/01-understand-rbi/<prompt>.md` (filled prompt + output) and decisions to `docs/challenges/02-understand.md`. Add sources to `docs/my-research/05-sources-and-further-reading.md`.
+5. Save full outputs to `docs/2-challenge-wealth-advice/stages/01-understand-rbi/<prompt>.md` (filled prompt + output) and decisions to `docs/2-challenge-wealth-advice/stages/01-understand.md`. Add sources to `docs/2-challenge-wealth-advice/research/05-sources-and-further-reading.md`.
 
 Do not let AI define our specific problem; the booklet says that is the team's job. Stage 1.3 needs internal data we do not have yet, so treat any numbers the AI produces as assumptions.

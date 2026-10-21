@@ -100,4 +100,4 @@ function notes(sl,txt){sl.addNotes(txt)}
  notes(sl,'Ask for €350k to replace assumptions with RBI data. If evidence is weak, stop. If strong, prepare the scale business case.');
 }
 
-pptx.writeFile({fileName:'docs/presentation/my-wealth-5min-pitch-v3.pptx'});
+pptx.writeFile({fileName:'docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v3.pptx'});

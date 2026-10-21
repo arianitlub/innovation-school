@@ -4,50 +4,50 @@ Not an RBI file. Shared by all six skills so every RBI prompt is filled from the
 
 ## Read first (current state)
 
-1. `docs/challenges/00-overview.md`: one-page status, problem, hypotheses, HMW
-2. The team summary of the latest finished stage: `02-understand.md`, `03-empathize.md`, `04-ideate.md` (then `05-…`, `06-…` when they exist)
-3. `docs/challenges/team-log.md`: decisions, newest first
+1. `docs/2-challenge-wealth-advice/overview.md`: one-page status, problem, hypotheses, HMW
+2. The team summary of the latest finished stage: `01-understand.md`, `02-empathize.md`, `03-ideate.md`, `04-prototype-test.md`, `05-pitch.md` (all in `docs/2-challenge-wealth-advice/stages/`)
+3. `docs/2-challenge-wealth-advice/team-log.md`: decisions, newest first
 
 ## Customer evidence (strongest; use first)
 
 | ID | What | File |
 |---|---|---|
-| C1 | Street interview, English, self-directed investor (product push, cost, cancelled bank account, nephew + ChatGPT, digital + immediate support, wants life-context guidance) | `docs/team-research/street-interview-C1-neue-aufnahme-3.md` |
-| C2 | Street interview, Hungarian, long-time saver (no phone offers, trusts branch / self-initiated contact, doesn't research) | `docs/team-research/street-interview-C2-neue-aufnahme-2-hungarian.md` |
-| UX | Internal investment-education UX study: 8 Serbian interviews + 4-country synthesis; secondary, not confirmed mass affluent | `docs/team-research/ux-investment-education-platform-research-summary.md` |
+| C1 | Street interview, English, self-directed investor (product push, cost, cancelled bank account, nephew + ChatGPT, digital + immediate support, wants life-context guidance) | `docs/2-challenge-wealth-advice/evidence/street-interview-C1-neue-aufnahme-3.md` |
+| C2 | Street interview, Hungarian, long-time saver (no phone offers, trusts branch / self-initiated contact, doesn't research) | `docs/2-challenge-wealth-advice/evidence/street-interview-C2-neue-aufnahme-2-hungarian.md` |
+| UX | Internal investment-education UX study: 8 Serbian interviews + 4-country synthesis; secondary, not confirmed mass affluent | `docs/2-challenge-wealth-advice/evidence/ux-investment-education-platform-research-summary.md` |
 
 ## Prototype test evidence
 
 | ID | What | File |
 |---|---|---|
-| T1 | First feedback on the My Wealth prototype (15.10.2026): wants a notification button with 2 clickable notifications (investments up/down); Wealth Insights should be clearer about what to invest in and why, with less information. "Others are okay." Participant profile not recorded | `docs/team-research/prototype-feedback-T1.md` |
+| T1 | First feedback on the My Wealth prototype (15.10.2026): wants a notification button with 2 clickable notifications (investments up/down); Wealth Insights should be clearer about what to invest in and why, with less information. "Others are okay." Participant profile not recorded | `docs/2-challenge-wealth-advice/evidence/prototype-feedback-T1.md` |
 
-Prototype: `docs/prototype/my-wealth-prototype.html`. Stage 4 outputs: `docs/challenges/04-prototype-test-rbi/`.
+Prototype: `docs/2-challenge-wealth-advice/prototype/my-wealth-prototype.html`. Stage 4 outputs: `docs/2-challenge-wealth-advice/stages/04-prototype-test-rbi/`.
 
 ## Expert evidence (internal view, not customer proof)
 
 | ID | What | File |
 |---|---|---|
-| E-HU-1, E-RS-1 | Hungary and Serbia expert interviews (AI meeting summaries, anonymised) | `docs/challenges/02-empathize-rbi/2.3.0-expert-interview-evidence.md` (part 1) |
-| E-RS-0 | Earlier expert interview by Veljko (Serbian context, unreliable speaker labels, many gaps) | `docs/team-research/Innovation_School_English_Transcript-Veljko.txt` |
+| E-HU-1, E-RS-1 | Hungary and Serbia expert interviews (AI meeting summaries, anonymised) | `docs/2-challenge-wealth-advice/stages/02-empathize-rbi/2.3.0-expert-interview-evidence.md` (part 1) |
+| E-RS-0 | Earlier expert interview by Veljko (Serbian context, unreliable speaker labels, many gaps) | `docs/2-challenge-wealth-advice/evidence/Innovation_School_English_Transcript-Veljko.txt` |
 
 All interviews in one place, with cross-source signals: `2.3.0-expert-interview-evidence.md` (parts 1 and 2).
 
 ## Synthesis already done (build on it, don't redo it)
 
-- Patterns, hypothesis status, quotes: `docs/challenges/02-empathize-rbi/2.3.1-interview-pattern-analysis.md`
+- Patterns, hypothesis status, quotes: `docs/2-challenge-wealth-advice/stages/02-empathize-rbi/2.3.1-interview-pattern-analysis.md`
 - Personas (Self-Directed Comparer C1, Cautious Branch Saver C2, New Learner UX): `2.3.2-personas.md`
 - Journey map incl. exit stage: `2.3.3-journey-map.md`
 - HMW: `2.3.4-how-might-we.md`; Problem One-Pager: `2.4-problem-one-pager.md`
-- Ideas and scores: `docs/challenges/03-ideate-rbi/3.2.1-solution-ideation.md`, `3.3.1-idea-evaluation.md`
-- **Chosen concept "My Wealth"** (proposed by Arianit 14.10.2026, team confirmation pending): `docs/challenges/04-ideate.md`; deck `docs/presentation/my-wealth-proposed-solution.pdf`
+- Ideas and scores: `docs/2-challenge-wealth-advice/stages/03-ideate-rbi/3.2.1-solution-ideation.md`, `3.3.1-idea-evaluation.md`
+- **Chosen concept "My Wealth"** (proposed by Arianit 14.10.2026, team confirmation pending): `docs/2-challenge-wealth-advice/stages/03-ideate.md`; deck `docs/2-challenge-wealth-advice/presentations/my-wealth-proposed-solution.pdf`
 
 ## Market and desk research (public sources)
 
-- Mass affluent, Premium, Hungary thresholds, MNB data, competitors, technology, rules: `docs/challenges/01-understand-rbi/` (1.1.1, 1.1.2, 1.1.3, 1.2.1)
-- Earlier research: `docs/my-research/02-mass-affluent-customers-bank-services-and-retention.md`
-- Source links: `docs/my-research/05-sources-and-further-reading.md`
-- Old strategy-paper summary (generic, original absent): `docs/challenges/01-research.md`
+- Mass affluent, Premium, Hungary thresholds, MNB data, competitors, technology, rules: `docs/2-challenge-wealth-advice/stages/01-understand-rbi/` (1.1.1, 1.1.2, 1.1.3, 1.2.1)
+- Earlier research: `docs/2-challenge-wealth-advice/research/02-mass-affluent-customers-bank-services-and-retention.md`
+- Source links: `docs/2-challenge-wealth-advice/research/05-sources-and-further-reading.md`
+- Old strategy-paper summary (generic, original absent): `docs/2-challenge-wealth-advice/research/team-research-summary.md`
 
 ## Key facts in one view (check the files before quoting)
 
@@ -63,4 +63,4 @@ All interviews in one place, with cross-source signals: `2.3.0-expert-interview-
 - Customers > experts > desk research. Never present expert views as customer proof.
 - Small n: say "first signal", never "validated", unless pass marks are met.
 - Never invent participants, quotes, numbers or demographics. Mark unchecked facts "This requires verification" and invented examples "illustrative".
-- New interviews: save raw input unchanged in `docs/team-research/`, add them to `2.3.0` part 2 with a new ID, add them to this file, then re-run the affected RBI prompts.
+- New interviews: save raw input unchanged in `docs/2-challenge-wealth-advice/evidence/`, add them to `2.3.0` part 2 with a new ID, add them to this file, then re-run the affected RBI prompts.

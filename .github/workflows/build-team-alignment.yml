@@ -41,24 +41,24 @@ jobs:
           node tools/create_my_wealth_solution.js
           node tools/create_my_wealth_pitch_v3.js
           python tools/append_my_wealth_pitch_v4.py
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/innovation-challenge-team-alignment.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/design-thinking-journey-status.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/future-scenario-design-thinking.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/my-wealth-proposed-solution.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/my-wealth-5min-pitch-v3.pptx
-          libreoffice --headless --convert-to pdf --outdir docs/presentation docs/presentation/my-wealth-5min-pitch-v4-business-case.pptx
-          test -s docs/presentation/innovation-challenge-team-alignment.pdf
-          test -s docs/presentation/design-thinking-journey-status.pdf
-          test -s docs/presentation/future-scenario-design-thinking.pdf
-          test -s docs/presentation/my-wealth-proposed-solution.pdf
-          test -s docs/presentation/my-wealth-5min-pitch-v3.pdf
-          test -s docs/presentation/my-wealth-5min-pitch-v4-business-case.pdf
-          rm -f docs/presentation/*.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/innovation-challenge-team-alignment.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/design-thinking-journey-status.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/future-scenario-design-thinking.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/my-wealth-proposed-solution.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v3.pptx
+          libreoffice --headless --convert-to pdf --outdir docs/2-challenge-wealth-advice/presentations docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v4-business-case.pptx
+          test -s docs/2-challenge-wealth-advice/presentations/innovation-challenge-team-alignment.pdf
+          test -s docs/2-challenge-wealth-advice/presentations/design-thinking-journey-status.pdf
+          test -s docs/2-challenge-wealth-advice/presentations/future-scenario-design-thinking.pdf
+          test -s docs/2-challenge-wealth-advice/presentations/my-wealth-proposed-solution.pdf
+          test -s docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v3.pdf
+          test -s docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v4-business-case.pdf
+          rm -f docs/2-challenge-wealth-advice/presentations/*.pptx
       - name: Commit generated PDFs
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/presentation/innovation-challenge-team-alignment.pdf docs/presentation/design-thinking-journey-status.pdf docs/presentation/future-scenario-design-thinking.pdf docs/presentation/my-wealth-proposed-solution.pdf docs/presentation/my-wealth-5min-pitch-v3.pdf docs/presentation/my-wealth-5min-pitch-v4-business-case.pdf
+          git add docs/2-challenge-wealth-advice/presentations/innovation-challenge-team-alignment.pdf docs/2-challenge-wealth-advice/presentations/design-thinking-journey-status.pdf docs/2-challenge-wealth-advice/presentations/future-scenario-design-thinking.pdf docs/2-challenge-wealth-advice/presentations/my-wealth-proposed-solution.pdf docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v3.pdf docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v4-business-case.pdf
           git diff --cached --quiet && exit 0
           git commit -m 'Build Innovation School PDF presentations'
           git pull --rebase origin main

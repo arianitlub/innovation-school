@@ -7,8 +7,8 @@ from PIL import Image
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-src = ROOT / 'docs/presentation/my-wealth-5min-pitch-v3.pptx'
-out = ROOT / 'docs/presentation/my-wealth-5min-pitch-v4-business-case.pptx'
+src = ROOT / 'docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v3.pptx'
+out = ROOT / 'docs/2-challenge-wealth-advice/presentations/my-wealth-5min-pitch-v4-business-case.pptx'
 focus_img = ROOT / 'tools/assets/business-case-focus.jpg'
 ingredients_img = ROOT / 'tools/assets/business-case-ingredients.jpg'
 

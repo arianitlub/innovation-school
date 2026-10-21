@@ -27,7 +27,7 @@ Our working goal, selected by Arianit on 10.10.2026:
 
 Keep the official challenge and this preparation formulation together. Team scope and solution are still to agree.
 
-We work on it with Design Thinking (Understand → Empathize & Synthesize → Ideate → Prototype & Test → Business Case & Pitch), and we build it **step by step**. Each step has its own file in `docs/challenges/`, and `00-overview.md` is always the short, current common understanding.
+We work on it with Design Thinking (Understand → Empathize & Synthesize → Ideate → Prototype & Test → Business Case & Pitch), and we build it **step by step**. Each step has its own file in `docs/2-challenge-wealth-advice/`, and `00-overview.md` is always the short, current common understanding.
 
 ---
 
@@ -37,14 +37,14 @@ We work on it with Design Thinking (Understand → Empathize & Synthesize → Id
 
 | File | What it covers |
 |---|---|
-| [challenges/00-overview.md](docs/challenges/00-overview.md) | **Start here for the challenge.** One-page common understanding: who the customers are, the bottleneck, what we know, ideas, hypothesis, step status |
-| [challenges/01-research.md](docs/challenges/01-research.md) | Detailed reference: segment ladder, strategy-paper findings (gaps, 11-stage journey, concepts, roadmap, guardrails), expert-interview insights |
-| [challenges/02-understand.md](docs/challenges/02-understand.md) | Step 1, Understand (draft): problem statement, today's journey + pain points, stakeholders, facts needed |
-| `challenges/03-empathize.md` … `06-pitch.md` | Later steps, created when we get to them (Empathize, Ideate, Prototype & Test, Pitch) |
-| [challenges/team-log.md](docs/challenges/team-log.md) | Dated team decisions and who does what |
-| [guide.md](docs/training/guide.md) | eLearning course notes (Design Thinking, culture, failure culture) + program notes: timeline, deadlines, people, participation rules, kickoff deck summary |
-| [learning-transfer.md](docs/training/learning-transfer.md) | My personal Learning Transfer: the Expectation sent to Christine, the ideas pool for the Goal, and the checklist up to 15.12 |
-| [ai-prompt-library.md](docs/training/ai-prompt-library.md) | RBI's "AI Prompt Library" booklet: principles, hallucination warning, CO-STAR/RODES, and an index of the 31 prompts stored as skills |
+| [2-challenge-wealth-advice/overview.md](docs/2-challenge-wealth-advice/overview.md) | **Start here for the challenge.** One-page common understanding: who the customers are, the bottleneck, what we know, ideas, hypothesis, step status |
+| [2-challenge-wealth-advice/research/team-research-summary.md](docs/2-challenge-wealth-advice/research/team-research-summary.md) | Detailed reference: segment ladder, strategy-paper findings (gaps, 11-stage journey, concepts, roadmap, guardrails), expert-interview insights |
+| [2-challenge-wealth-advice/stages/01-understand.md](docs/2-challenge-wealth-advice/stages/01-understand.md) | Step 1, Understand (draft): problem statement, today's journey + pain points, stakeholders, facts needed |
+| `2-challenge-wealth-advice/stages/02-empathize.md` … `05-pitch.md` | Later steps, created when we get to them (Empathize, Ideate, Prototype & Test, Pitch) |
+| [2-challenge-wealth-advice/team-log.md](docs/2-challenge-wealth-advice/team-log.md) | Dated team decisions and who does what |
+| [guide.md](docs/1-innovation-school/guide.md) | eLearning course notes (Design Thinking, culture, failure culture) + program notes: timeline, deadlines, people, participation rules, kickoff deck summary |
+| [learning-transfer overview](docs/3-learning-transfer/00-overview.md) | My personal Learning Transfer: expectation, Goal v2, meeting preparation, practical workshop (homework), ideas pool and checklist up to 15.12 |
+| [ai-prompt-library.md](docs/1-innovation-school/ai-prompt-library.md) | RBI's "AI Prompt Library" booklet: principles, hallucination warning, CO-STAR/RODES, and an index of the 31 prompts stored as skills |
 
 ### Source material (`docs/`)
 
@@ -52,14 +52,14 @@ The source inventory below includes absent originals, identified under “Contin
 
 | File | What it is |
 |---|---|
-| `team-research/mass_affluent_wealth_advice_..._20260930_114409-Vejlko.pdf` | 19-page strategy paper (European/global assessment of mass-affluent advice), shared by Veljko. Summarised in `challenges/01-research.md`. Generic/external, **not** RBI-verified fact |
-| `team-research/Innovation_School_English_Transcript-Veljko.txt` | English translation of the meeting Veljko recorded with an internal investment-advice expert (Serbian-market context). Auto-transcribed with many gaps, and the speaker labels are unreliable. Summarised in `challenges/01-research.md` → "Expert Interview" |
-| `team-research/interview-questions.md` | Sabrina's 20 interview questions (customer-perspective guide) |
-| `training/RBI_InnovationSchool2026_OnlineDay1.pdf` | Kickoff deck from 30.09 (65 slides, image-based). Summarised in `guide.md` |
-| `training/online-day-preparation.pdf` | Tools (MS Teams, Miro) and ground rules for the online days |
-| `training/meet-the-team.pdf` | Innovation Management team (Jannik, Fanny, Chris, …) and their roles |
-| `training/meet-the-coaches.pdf` | The coaches and their home banks |
-| `training/participation-commitment.pdf` | Manager confirmation form: ≥70% attendance rule, EUR 1,900 no-show charge |
+| `2-challenge-wealth-advice/evidence/mass_affluent_wealth_advice_..._20260930_114409-Vejlko.pdf` | 19-page strategy paper (European/global assessment of mass-affluent advice), shared by Veljko. Summarised in `2-challenge-wealth-advice/research/team-research-summary.md`. Generic/external, **not** RBI-verified fact |
+| `2-challenge-wealth-advice/evidence/Innovation_School_English_Transcript-Veljko.txt` | English translation of the meeting Veljko recorded with an internal investment-advice expert (Serbian-market context). Auto-transcribed with many gaps, and the speaker labels are unreliable. Summarised in `2-challenge-wealth-advice/research/team-research-summary.md` → "Expert Interview" |
+| `2-challenge-wealth-advice/evidence/interview-questions.md` | Sabrina's 20 interview questions (customer-perspective guide) |
+| `1-innovation-school/RBI_InnovationSchool2026_OnlineDay1.pdf` | Kickoff deck from 30.09 (65 slides, image-based). Summarised in `guide.md` |
+| `1-innovation-school/online-day-preparation.pdf` | Tools (MS Teams, Miro) and ground rules for the online days |
+| `1-innovation-school/meet-the-team.pdf` | Innovation Management team (Jannik, Fanny, Chris, …) and their roles |
+| `1-innovation-school/meet-the-coaches.pdf` | The coaches and their home banks |
+| `1-innovation-school/participation-commitment.pdf` | Manager confirmation form: ≥70% attendance rule, EUR 1,900 no-show charge |
 
 ---
 
@@ -67,19 +67,20 @@ The source inventory below includes absent originals, identified under “Contin
 
 | Situation | Start here |
 |---|---|
-| Working on the challenge (next step, ideas, prototype, pitch) | `docs/challenges/00-overview.md` → then the current step file |
-| "What's due when?" / program schedule / who's who | `docs/training/guide.md` |
-| Learning Transfer Expectation / Goal / Line Manager meeting | `docs/training/learning-transfer.md` |
-| Design Thinking method reminder | `docs/training/guide.md` → "Design Thinking — RBI Innovation Box" |
+| Working on the challenge (next step, ideas, prototype, pitch) | `docs/2-challenge-wealth-advice/overview.md` → then the current step file |
+| "What's due when?" / program schedule / who's who | `docs/1-innovation-school/guide.md` |
+| Learning Transfer Expectation / Goal / homework workshop / Line Manager meeting | `docs/3-learning-transfer/00-overview.md` |
+| Team presentation for 04.11 ("Human-AI collaboration in Innovation") | `docs/1-innovation-school/team-presentation/README.md` |
+| Design Thinking method reminder | `docs/1-innovation-school/guide.md` → "Design Thinking — RBI Innovation Box" |
 | Checking a claim against the original material | `docs/` |
-| Using AI for a Design Thinking step (research, interviews, ideas, prototype, pitch) | `.claude/skills/innovation-*` → see `docs/training/ai-prompt-library.md` |
+| Using AI for a Design Thinking step (research, interviews, ideas, prototype, pitch) | `.claude/skills/innovation-*` → see `docs/1-innovation-school/ai-prompt-library.md` |
 
 ---
 
 ## Rules & Conventions
 
 - **Nothing goes outside this repo without explicit consent.** Don't send emails, post to Teams/Miro, or push to a remote unless I ask.
-- Preserve original team inputs in `docs/team-research/` and source PDFs. Update working notes in `docs/challenges/`, `docs/training/`, `docs/my-research/` and `docs/working-context.md`.
+- Preserve original team inputs in `docs/2-challenge-wealth-advice/evidence/` and source PDFs. Update working notes in `docs/2-challenge-wealth-advice/`, `docs/1-innovation-school/`, `docs/3-learning-transfer/` and `docs/working-context.md`.
 - When summarising the transcript or the paper, mark uncertain content as uncertain. The transcript has many `[unclear]` gaps, and the paper is generic and not RBI-verified.
 - Work step by step: finish a step's file before starting the next one, update `00-overview.md` when our understanding changes, and add decisions to `team-log.md`. Update `guide.md` after each program session.
 - Challenge docs are for the team: clear paragraphs in simple English, short, no jargon without explanation.
@@ -94,17 +95,17 @@ The source inventory below includes absent originals, identified under “Contin
 
 ## Budapest preparation pack
 
-For preparation for 13.10.2026, start with `docs/my-research/01-start-here-challenge-basics-and-school-preparation.md`. External research, sources and the proposed Design Thinking method are in `docs/my-research/`. These are preparation references; they do not complete later team stages. Public evidence confirms existing advice capabilities in some markets. Do not repeat earlier blanket claims that Premium is only perks or that RBI has no digital advice.
+For preparation for 13.10.2026, start with `docs/2-challenge-wealth-advice/research/01-start-here-challenge-basics-and-school-preparation.md`. External research, sources and the proposed Design Thinking method are in `docs/2-challenge-wealth-advice/research/`. These are preparation references; they do not complete later team stages. Public evidence confirms existing advice capabilities in some markets. Do not repeat earlier blanket claims that Premium is only perks or that RBI has no digital advice.
 
 ## Workspace layout
 
 The active workspace is `/Users/arianit/Desktop/innovation-school`. All Markdown and available source assets were moved from `innovation-school-ai` on 10.10.2026. Use the new workspace for subsequent work.
 
 - `README.md`: educational introduction and reading navigation.
-- `docs/challenges/`: team challenge understanding, stage files and team log.
-- `docs/training/`: programme guide, personal Learning Transfer and training material.
-- `docs/team-research/`: original material supplied by the team.
-- `docs/my-research/`: our desk research, Tuesday preparation, Design Thinking preparation, candidate suggestions and source register.
+- `docs/README.md`: index of the three areas.
+- `docs/1-innovation-school/`: the programme: guide and timeline, AI Prompt Library notes, online-day material and the team presentation for 04.11 ("Human-AI collaboration in Innovation", separate from the challenge).
+- `docs/2-challenge-wealth-advice/`: the team's Mass-Affluent challenge: `overview.md`, `team-log.md`, `stages/` (stage summaries 01–05 and the RBI prompt outputs), `evidence/` (original team material), `research/` (our desk research), `prototype/`, `presentations/`.
+- `docs/3-learning-transfer/`: my personal Learning Transfer: expectation, Goal, meeting preparation, practical workshop (homework), ideas pool and checklist.
 - `docs/working-context.md`: continuity, current status and user preferences.
 - `.claude/skills/`: the RBI AI Prompt Library as six project skills, one per stage (`innovation-understand`, `innovation-empathize`, `innovation-ideate`, `innovation-prototype-test`, `innovation-business-case-pitch`, `innovation-meeting-prep`). Prompt texts in `prompts/` are RBI source material: keep them word for word.
 - `.claude/skills/EVIDENCE.md`: shared evidence map for all skills (interviews C1, C2, UX, experts; synthesis; decisions; research). Update it whenever new interviews, data or decisions arrive.
