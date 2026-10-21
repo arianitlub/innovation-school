@@ -4,6 +4,11 @@ Short, dated entries: what we decided and who does what. Newest at the top.
 
 ---
 
+## 21.10.2026 — Organizers' mail after Budapest, plan agreed with Arianit
+- Due **03.11.2026, 12:00 CET:** Learning Transfer Goal (template) to Christine; Key Takeaway Presentation to the coach. Feedback form by 03.11 EOB. Individual Homework: no separate due date, before 04.11.
+- Plan: the homework is the Understand session of the AI maturity topic (by ~30.10), then the Goal continues until 15.12. Master plan: [../timeline-and-deadlines.md](../timeline-and-deadlines.md).
+- Docs restructured into `1-innovation-school/`, `2-challenge-wealth-advice/`, `3-learning-transfer/`.
+
 ## 21.10.2026 — Team presentation for the 04.11 online day (from coach)
 - **Topic:** "Human-AI collaboration in Innovation". Audience: line managers. **3–5 slides** (Slide Master provided), **5 min + 5 min Q&A**. **Deadline for preparation: 30.10.2026.**
 - Must answer: (1) what is the topic? (2) how to use these skills in daily work? (3) what should management understand, do or change? (4) how to move from business as usual to the new approach (habits, governance, review cadence)?

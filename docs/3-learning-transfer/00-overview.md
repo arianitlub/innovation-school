@@ -24,10 +24,14 @@ This is separate from the team Mass-Affluent Innovation Challenge. The challenge
 
 - **09.10.2026** — Learning Transfer Expectation sent.
 - **13–16.10.2026** — Budapest on-site.
-- **16.10 → 04.11** — practical workshop/homework, reflection and Key Takeaway preparation; revisit Expectation and draft the Goal.
+- **16.10 → ~30.10** — homework = the AI Maturity **Understand session** ([04-practical-workshop.md](04-practical-workshop.md)); it is the first step of the Goal.
+- **03.11, 12:00 CET** — send the Learning Transfer **Goal** (template) to Christine; the team presentation goes to the coach at the same time; feedback form by EOB.
 - **04.11** — online closing / Key Takeaway Presentation.
 - **05/06.11** — align Learning Transfer Goal with line manager.
+- **Nov → 15.12** — act on the findings: pick one barrier, one small experiment, buddy pairs/sessions.
 - **15.12** — follow-up and review progress.
+
+Full plan: [../timeline-and-deadlines.md](../timeline-and-deadlines.md).
 
 ## Files
 

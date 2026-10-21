@@ -6,15 +6,16 @@
 | [2-challenge-wealth-advice](2-challenge-wealth-advice/overview.md) | The team's Mass-Affluent Innovation Challenge: overview, stages 01–05, evidence, research, prototype, presentations. Separate from the team presentation. | [overview.md](2-challenge-wealth-advice/overview.md) |
 | [3-learning-transfer](3-learning-transfer/00-overview.md) | My personal Learning Transfer: expectation, Goal, homework workshop (AI maturity), meeting preparation. | [00-overview.md](3-learning-transfer/00-overview.md) |
 
-Also: [working-context.md](working-context.md) for continuity and evidence rules.
+Also: [timeline-and-deadlines.md](timeline-and-deadlines.md) for every date until the end of the year, and [working-context.md](working-context.md) for continuity and evidence rules.
 
-## Timeline across the areas
+## Timeline across the areas (short; full plan in timeline-and-deadlines.md)
 
 | Date | Area | What |
 |---|---|---|
 | 13.–16.10.2026 | 2 | Budapest: challenge work |
-| 16.10 → 04.11 | 3 | Homework: AI Maturity Discovery Workshop |
+| 16.10 → ~30.10 | 3 | Homework = Understand session (AI Maturity) |
 | until 30.10.2026 | 1 | Prepare the team presentation (3–5 slides, 5 min + 5 min Q&A) |
+| 03.11.2026, 12:00 | 1, 3 | Send Goal to Christine and presentation to the coach; feedback form by EOB |
 | 04.11.2026 | 1 | Online closing: team presentation to line managers |
 | 05./06.11.2026 | 3 | Align the Learning Transfer Goal with the line manager |
 | 06.11 → 15.12.2026 | 3 | Apply the Goal |
