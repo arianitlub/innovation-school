@@ -104,6 +104,14 @@ Still missing:
 
 If customer interviews are added, rerun 2.3.1 → 2.3.4 and allow the HMW to change.
 
+## Update 26.10.2026 — Learning Transfer and homework
+
+- Learning Transfer Goal = ongoing monthly process (session → buddy round → experiment → review); only the text is sent to Christine on 03.11 12:00.
+- Homework = facilitated AI Maturity Discovery session (Understand + Empathize + light Define) with 4–6 engineers who already use AI, skills and agents. Target 30.10 or 02.11.
+- Official RBI levels: Dictating, Commanding, Regulating, Orchestrating, Supervising (source: local `ai-playbooks/docs/ai/pdlc/guide.md` and `anth-rbi-sdlc/guide.md`). Teams are mostly assumed L2 (to be checked in the session).
+- Open: homework hand-in format; line manager alignment 05./06.11; AI/compliance rules for the session.
+- Files updated: `3-learning-transfer/00-overview.md`, `02-learning-transfer-goal.md`, `04-practical-workshop.md`, `timeline-and-deadlines.md`. Nothing committed or pushed.
+
 ## Evidence handling rules
 
 - Real interviews only; never simulate customer answers or quotes.

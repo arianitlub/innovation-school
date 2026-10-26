@@ -1,5 +1,14 @@
 # Learning Transfer Goal — Version 2 (draft)
 
+## Update 26.10.2026 — how to read and write this Goal
+
+- **The Goal is an ongoing process, not a task to finish.** It is a recurring change in how I work (monthly cycle: session → buddy round → experiment → review). On 03.11 I only *send the text*; the work runs to 15.12 and continues after.
+- **Write it in general terms**, one focus, recurring, with simple indicators. Do not write "I will run a workshop" as the Goal: the workshop is step 1 of the cycle and the *evidence* behind the Goal.
+- **Audience is engineers who already code with AI and use skills and agents.** The topic is moving up the official RBI levels, not learning AI basics.
+- **What is sent when:** 03.11 12:00 Goal (template) to Christine; Key Takeaway Presentation to the coach; feedback form by EOB. The homework has no confirmed separate hand-in **[check with Christine / Participant Guide]**; most likely it is used as evidence in the Goal and in the 04.11 closing.
+- Proposed one-sentence text for the template (v3 wording, to align with the line manager 05./06.11): *"Every month I run a short session and a buddy round in which the engineers most advanced with AI coach colleagues on real tickets, so the team moves step by step up the official RBI AI maturity levels."*
+- Evidence line for the Goal after the homework: "Month 1 done: workshop with N engineers, first baseline, top 3 barriers." Fill N and results after the session.
+
 *16.10.2026. Replaces the Innovation Hour direction from `01-expectation.md` as the main Goal. To be aligned with the line manager on 05./06.11.2026. Targets are proposals, not agreed.*
 
 ## Why the change
@@ -46,7 +55,7 @@ I do not promise "the whole team at level 4 by 15.12".
 
 ## Open points
 
-- Use the **official RBI AI maturity levels** and SDLC/PDLC wording word for word (the generic L0–L4 model used so far is not RBI's).
+- ~~Use the official RBI AI maturity levels~~ **Done 26.10.2026:** the official 5 levels are Dictating, Commanding, Regulating, Orchestrating, Supervising (source: `ai-playbooks/docs/ai/pdlc/guide.md` §2 and `anth-rbi-sdlc/guide.md` §7, from the RBI blueprint `maturity-levels.md`). Still worth checking the blueprint text word for word before sending.
 - Which advanced people are willing, and how much time can they give?
 - Time budget: 60–90 minutes a month for everyone, plus buddy time.
 - Whether the line manager sees the Goal as "team AI maturity" or "facilitation".

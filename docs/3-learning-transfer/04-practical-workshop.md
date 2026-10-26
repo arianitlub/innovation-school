@@ -1,5 +1,18 @@
 # AI Maturity Discovery Workshop — homework draft
 
+## Update 26.10.2026 — audience and levels (read first, overrides older text below)
+
+- **Audience:** software engineers who already code with AI and use skills and agents. Do **not** frame anything as "people don't know how to use AI". The question is: *where is each person on the official RBI levels, and what stops the next step?*
+- **Official levels (RBI blueprint, via `ai-playbooks/docs/ai`):** 1 Dictating (human gives step-by-step directions, review every action) · 2 Commanding (human writes execution plans, review after the order) · 3 Regulating (plans co-authored, workspace rules define *how*, review of implementation detail; spec-driven development starts) · 4 Orchestrating (agent proposes plans, review per phase/gate) · 5 Supervising (ticket in, review final evidence only). Not a score: it shows the next step. It depends on how work and shared context are organised, not on how long AI has been used. Levels can differ per module. Closes the earlier **[open]** on the 5-level text.
+- **Grid rows (practices):** plan before prompt · shared workspace rules · reusable skills/commands · agents and sub-agents · review · testing · orchestration/phases.
+- **Story question for L2→L3:** "Tell me about a correction you made to AI more than once. Did it become a shared rule?"
+- **Barrier prompts:** shared rules missing, no time, low trust in agents, bank security/compliance, no orchestrator, unclear next step.
+- **Known climb steps (from the guide):** 1→2 shared skills + short plan before invoking; 2→3 corrections become standing rules; 3→4 automate self-correction, codify phase sequence; 4→5 one evidence review at the end. Cheapest first experiment for month 2: every agent correction becomes a rule.
+- **Design Thinking scope:** Understand + Empathize + a light Define (HMW). No Ideate: solutions go to the parking lot and become the month-2 experiment.
+- **Homework is a facilitated session, not a presentation.** Target run: 30.10 or 02.11. Output: 1-page summary (section 7). Participants are real volunteers, no personas. Hand-in format **[check]**.
+- Remove or ignore older lines that assume beginners or a generic L0–L4 model.
+- Note: `pdlc/guide.md` describes a `/start` routing skill that `anth-rbi-sdlc/guide.md` says does not exist (retracted). Verify before mentioning it.
+
 Status: **DRAFT v0.1, 21.10.2026.** Not yet agreed with the Line Manager. Open points are marked **[open]**.
 
 Fit with the other notes: [02-learning-transfer-goal.md](02-learning-transfer-goal.md) (Goal v2, buddy sessions) and [03-meeting-preparation.md](03-meeting-preparation.md) (first practice session) are about *doing* AI practice sessions. This workshop is a **discovery step before them**: it only understands (Understand + Empathize), so the later sessions and the baseline start from real needs. Decide whether it replaces or comes before the first practice session. **[open]**

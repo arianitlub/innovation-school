@@ -27,7 +27,7 @@ B is the first step of C: the workshop gives the evidence the Goal is built on.
 | **05./06.11.2026** | — | Align the Goal with my line manager (book the meeting now) | C | Line manager |
 | **15.12.2026** | 09:00–11:00 | Follow-up: check-in, alumni session, reflection | C | Organizers |
 
-The homework has **no separate due date** in the mail. Only "before 04.11". **[check]** in the Participant Guide whether it must be handed in, and how long it should be.
+The homework has **no separate due date** in the mail. Only "before 04.11". **[check]** in the Participant Guide whether it must be handed in, and how long it should be. (26.10.2026: no hand-in is confirmed; most likely it is evidence for the Goal and the 04.11 discussion. Ask Christine before 03.11. The Goal is sent as text on 03.11 but is an ongoing monthly process.)
 
 ## Week-by-week plan
 

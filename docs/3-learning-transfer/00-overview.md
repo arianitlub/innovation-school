@@ -11,6 +11,12 @@ This is separate from the team Mass-Affluent Innovation Challenge. The challenge
 - Current initial direction: become more confident in workshop facilitation and Design Thinking, then apply it with my team through a recurring **Innovation Hour**.
 - After the Budapest on-site days, revisit the expectation and turn it into **one concrete recurring Goal**.
 
+## Update 26.10.2026
+
+- The Goal is an **ongoing monthly process**, not a one-off task. On 03.11 only the text is sent.
+- Homework = a facilitated AI Maturity Discovery session with 4–6 engineers (who already use AI, skills and agents), using the **official 5 RBI levels** (Dictating → Supervising). Details: [04-practical-workshop.md](04-practical-workshop.md), Goal wording: [02-learning-transfer-goal.md](02-learning-transfer-goal.md).
+- Open: whether the homework must be handed in (check Participant Guide / Christine).
+
 ## Working progression
 
 1. **Expectation** — what I want to learn and where I think it could be useful.
