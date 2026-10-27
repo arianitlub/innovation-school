@@ -107,7 +107,9 @@ If customer interviews are added, rerun 2.3.1 → 2.3.4 and allow the HMW to cha
 ## Update 26.10.2026 — Learning Transfer and homework
 
 - Learning Transfer Goal = ongoing monthly process (session → buddy round → experiment → review); only the text is sent to Christine on 03.11 12:00.
-- Homework = facilitated AI Maturity Discovery session (Understand + Empathize + light Define) with 4–6 engineers who already use AI, skills and agents. Target 30.10 or 02.11.
+- Homework = facilitated 2h AI Maturity Innovation Hour #1 (Empathize → Define → short Ideate) with 4–6 engineers who already use AI, skills and agents. Target 30.10 or 02.11. Mandatory per the Day 4 deck (no-show fee and no certificate otherwise); steps Learn → Prepare → Apply → Reflect → Present (~0.5h with line manager, probably 05./06.11, unconfirmed).
+- Learning Transfer Goal v3 follows the official template (My goal, Value for others, Signs of progress, Support needed, First step); the learning is Design Thinking and facilitation, the topic is AI maturity. Goal ≠ Homework.
+- **Official materials** are now in `docs/official-materials/` (Day 1–4 decks, kickoff, meet-the-team/coaches, Goal and Expectation templates, Key Takeaway Slide Master, photos). They replace "not present" notes for the kickoff deck, meet-the-team and meet-the-coaches PDFs.
 - Official RBI levels: Dictating, Commanding, Regulating, Orchestrating, Supervising (source: local `ai-playbooks/docs/ai/pdlc/guide.md` and `anth-rbi-sdlc/guide.md`). Teams are mostly assumed L2 (to be checked in the session).
 - Open: homework hand-in format; line manager alignment 05./06.11; AI/compliance rules for the session.
 - Files updated: `3-learning-transfer/00-overview.md`, `02-learning-transfer-goal.md`, `04-practical-workshop.md`, `timeline-and-deadlines.md`. Nothing committed or pushed.

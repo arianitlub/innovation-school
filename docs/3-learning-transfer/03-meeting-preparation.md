@@ -4,7 +4,7 @@
 
 ## Is the RBI skill enough?
 
-No. The skill only pressure-tests my preparation and lists methods. It never designs the session. So: canvas and feedback from the RBI skill (Part 1), design from me with the suggestions in Part 2, and the Goal v2 as the frame.
+No. The skill only pressure-tests my preparation and lists methods. It never designs the session. So: canvas and feedback from the RBI skill (Part 1), design from me with the suggestions in Part 2, and the Goal v3 as the frame. (Update 26.10.2026: the agenda in [04-practical-workshop.md](04-practical-workshop.md) is now the 2h plan; this file is the earlier canvas.)
 
 ## Part 1 — Canvas and RBI feedback
 

@@ -1,85 +1,89 @@
-# AI Maturity Discovery Workshop — homework draft
+# AI Maturity Innovation Hour — homework workshop (v0.2, 26.10.2026)
 
-## Update 26.10.2026 — audience and levels (read first, overrides older text below)
+## Official frame (Day 4 deck, `official-materials/`)
 
-- **Audience:** software engineers who already code with AI and use skills and agents. Do **not** frame anything as "people don't know how to use AI". The question is: *where is each person on the official RBI levels, and what stops the next step?*
-- **Official levels (RBI blueprint, via `ai-playbooks/docs/ai`):** 1 Dictating (human gives step-by-step directions, review every action) · 2 Commanding (human writes execution plans, review after the order) · 3 Regulating (plans co-authored, workspace rules define *how*, review of implementation detail; spec-driven development starts) · 4 Orchestrating (agent proposes plans, review per phase/gate) · 5 Supervising (ticket in, review final evidence only). Not a score: it shows the next step. It depends on how work and shared context are organised, not on how long AI has been used. Levels can differ per module. Closes the earlier **[open]** on the 5-level text.
+- **Homework is mandatory** (no-show fee and no certificate otherwise): apply one method in a real work context. Steps: Learn → **Prepare** (scope, purpose, method, agenda) → **Apply: facilitate a ~2h workshop with colleagues** → **Reflect** (what works in my business line, what does not) → **Present** (show and discuss traction with the line manager, ~0.5h; probably the 05./06.11 meeting **[unconfirmed]**). Hand-in format **[ask Christine]**.
+- **Ambassador criteria** to meet: real situation · method applied · **one concrete improvement** · **evidence artifact** · shown to at least one other person · own context · small and practical.
+- **Goal ≠ Homework.** The Goal ([02-learning-transfer-goal.md](02-learning-transfer-goal.md)) is the monthly recurring Innovation Hour. This workshop is **Innovation Hour #1** and the evidence behind the Goal.
+- Preparation uses the official **Meeting Preparation Guide**: Part 1 purpose and meta-process; Part 2 flow and coaching approach, methods and agenda, documentation, actions with owner and date. Run the AI feedback prompt (skill `innovation-meeting-prep`, 6.1.1) on the finished plan.
+
+## Audience and levels
+
+- **Audience:** software engineers who already code with AI and use skills and agents. Do **not** frame anything as "people don't know how to use AI". The question: *where is each person on the official RBI levels, and what stops the next step?*
+- **Official levels (RBI blueprint, via `ai-playbooks/docs/ai`):** 1 Dictating (human gives step-by-step directions, review every action) · 2 Commanding (human writes execution plans, review after the order) · 3 Regulating (plans co-authored, workspace rules define *how*, review of implementation detail; spec-driven development starts) · 4 Orchestrating (agent proposes plans, review per phase/gate) · 5 Supervising (ticket in, review final evidence only). Not a score: it shows the next step. It depends on how work and shared context are organised, not on how long AI has been used. Levels can differ per module.
 - **Grid rows (practices):** plan before prompt · shared workspace rules · reusable skills/commands · agents and sub-agents · review · testing · orchestration/phases.
 - **Story question for L2→L3:** "Tell me about a correction you made to AI more than once. Did it become a shared rule?"
 - **Barrier prompts:** shared rules missing, no time, low trust in agents, bank security/compliance, no orchestrator, unclear next step.
-- **Known climb steps (from the guide):** 1→2 shared skills + short plan before invoking; 2→3 corrections become standing rules; 3→4 automate self-correction, codify phase sequence; 4→5 one evidence review at the end. Cheapest first experiment for month 2: every agent correction becomes a rule.
-- **Design Thinking scope:** Understand + Empathize + a light Define (HMW). No Ideate: solutions go to the parking lot and become the month-2 experiment.
-- **Homework is a facilitated session, not a presentation.** Target run: 30.10 or 02.11. Output: 1-page summary (section 7). Participants are real volunteers, no personas. Hand-in format **[check]**.
-- Remove or ignore older lines that assume beginners or a generic L0–L4 model.
+- **Known climb steps (from the guide):** 1→2 shared skills + short plan before invoking; 2→3 corrections become standing rules; 3→4 automate self-correction, codify phase sequence; 4→5 one evidence review at the end.
+- **Design Thinking scope (decided 26.10):** **Empathize → Define → a short Ideate.** The levels already cover "Understand" (10–15 min). The new information is in the engineers' own barriers (Empathize). A short Ideate picks **one experiment** with owner and date, which gives the "one concrete improvement" the Ambassador criteria ask for. Cheapest candidate: every repeated AI correction becomes a shared rule.
+- Participants are real volunteers, no personas. Target run: **30.10 or 02.11.**
 - Note: `pdlc/guide.md` describes a `/start` routing skill that `anth-rbi-sdlc/guide.md` says does not exist (retracted). Verify before mentioning it.
 
-Status: **DRAFT v0.1, 21.10.2026.** Not yet agreed with the Line Manager. Open points are marked **[open]**.
-
-Fit with the other notes: [02-learning-transfer-goal.md](02-learning-transfer-goal.md) (Goal v2, buddy sessions) and [03-meeting-preparation.md](03-meeting-preparation.md) (first practice session) are about *doing* AI practice sessions. This workshop is a **discovery step before them**: it only understands (Understand + Empathize), so the later sessions and the baseline start from real needs. Decide whether it replaces or comes before the first practice session. **[open]**
+Status: **DRAFT v0.2.** Not yet agreed with the Line Manager. Open points are marked **[open]**.
 
 ## 1. Why this idea (honest check)
 
 **Strengths**
-- Real, shared bottleneck for engineers on different projects: uneven AI use and no common picture.
-- It uses Understand + Empathize on purpose: we learn first, we do not sell a solution.
+- Real, shared bottleneck for engineers on different projects: uneven use of skills and agents and no common picture of the level.
+- We learn first (Empathize), then choose one small experiment instead of selling a solution.
 - Small and doable: 4–6 people, one session.
-- It can become the first Innovation Hour, so it links to the recurring Goal.
+- It is the first Innovation Hour, so it links to the recurring Goal.
 
 **Risks and how we handle them**
 
 | Risk | Handling |
 |---|---|
-| The homework asks for a ~2h workshop; 60–90 min may be too short | Plan **90 min + 30 min buffer/break**, or two short parts (see agenda). **[open: confirm with Christine/Jannik]** |
+| The homework asks for a ~2h workshop | Plan the full **2h** (agenda below) |
 | The 5-level model looks like a test, people give "nice" answers | Self-placement is anonymous first; say clearly "this is not an assessment, no ranking, no names to management" |
 | One-off activity, but the Goal must be **recurring** | Goal = monthly Innovation Hour. This workshop is session 1 |
-| We jump to tools (Copilot, MCP, …) | Rule: no solutions until the "Barriers" block ends. Park ideas on a "Parking lot" |
+| We jump to tools (Copilot, MCP, …) | No solutions until the "Empathize" block ends. Park ideas on a "Parking lot" |
 | 4–6 people are not representative of 20 | State it as a limitation: findings are hypotheses, not facts |
 | Security/compliance in a bank | Do not share code, customer data or internal confidential prompts. Use only approved tools **[open: check the bank's AI policy]** |
 
-## 2. Learning-transfer goal and expected outcome
+## 2. Expected outcome
 
-**Goal (draft).** Use Design Thinking (Understand + Empathize) to build a shared, honest picture of how our engineers use AI today, so that the next improvement is chosen from real needs and not from assumptions.
+**Purpose.** Use Design Thinking (Empathize, Define, a short Ideate) to build a shared, honest picture of where our engineers are on the RBI levels and what blocks the next step, and leave with one small experiment.
 
-**Recurring part.** Monthly Innovation Hour. Month 1 = this workshop. Month 2 = one small experiment from the findings. Month 3 = review what changed.
+**Recurring part.** Monthly Innovation Hour. Month 1 = this workshop. Month 2 = run the experiment. Month 3 = review what changed.
 
 **Expected outcome (after the workshop)**
-1. An anonymous maturity map: where the 4–6 engineers see themselves in the 5 levels, per practice.
+1. An anonymous maturity map: where the 4–6 engineers see themselves on the 5 levels, per practice.
 2. A clustered list of barriers (voted top 3).
 3. A list of assumptions with "how we could check this".
-4. 2–3 opportunity areas, written as "How might we…", **without** chosen solutions.
-5. A 1-page summary for Innovation School and my management.
+4. 1–2 "How might we…" questions.
+5. **One experiment** with owner, date and success signal.
+6. A 1-page summary (evidence artifact) for Innovation School and my line manager.
 
-**Success check (realistic).** All participants say they saw something new; we have a top-3 barrier list; at least one participant volunteers for the next step. No big result is needed.
+**Success check (realistic).** All participants say they saw something new; we have a top-3 barrier list and one agreed experiment; at least one participant volunteers as buddy.
 
 ## 3. Preparation (step by step)
 
 | When | Step |
 |---|---|
-| Now | Fix the 5-level model text on one slide. **[open: paste the 5 levels here]** |
-| Now | Pick 4–6 engineers from **different projects**, mix of AI-enthusiastic and AI-sceptical, include one tester. Invite personally, explain it is voluntary |
+| Now | Put the 5 official levels on one slide (text above) |
+| Now | Fill the Meeting Preparation Guide Part 1 (purpose, meta-process) and Part 2 (flow, methods, documentation, actions); run the AI feedback prompt |
+| Now | Pick 4–6 engineers from **different projects**, mix of those further ahead and those less far, include one tester. Invite personally, explain it is voluntary |
 | Now | Agree compliance rules (no confidential code/data) |
-| −3 days | Send invitation: purpose, 90 min, "come as you are, no preparation needed", one optional question: *"Think of the last time AI helped you or let you down at work."* |
+| −3 days | Send invitation: purpose, 2h, "come as you are", one optional question: *"Think of a correction you made to AI more than once."* |
 | −1 day | Prepare room or Miro board: maturity grid, sticky colours, parking lot, timer. Ask a colleague to take notes (so I can facilitate) |
 | Day | Facilitator only facilitates: I do not defend, teach or recommend tools |
 
-**Materials:** maturity grid (practices as rows, 5 levels as columns), sticky notes in 3 colours (green = what works, red = barrier, yellow = wish/idea), dot stickers (3 per person), timer, Parking lot sheet.
+**Materials:** maturity grid (practices as rows, 5 levels as columns), sticky notes in 3 colours (green = what works, red = barrier, yellow = idea), dot stickers (3 per person), timer, Parking lot sheet.
 
-**Practices (rows of the grid):** Prompting · Reusable skills/instructions · MCP / tool connections · Planning & design · Testing · Code review · Orchestration / agents. **[open: adjust to your model's wording]**
-
-## 4. Agenda (90 min + buffer)
+## 4. Agenda (2h)
 
 | Min | Block | Method | Output |
 |---|---|---|---|
-| 0–10 | **Welcome & safety** | Purpose, rules ("no wrong answers, no assessment, Chatham House rule: stories stay, learnings leave"), check-in: *"One word for how you feel about AI at work."* | Safe start |
-| 10–20 | **Warm-up stories** | Pairs, 3 min each: *"Tell me about the last time AI really helped / really failed you."* Then 1 highlight per pair | Real stories, not opinions |
-| 20–40 | **Maturity mapping** | Each person silently places a dot per practice on the grid (own project colour not shown, or anonymous dots). Then look at the picture together | Maturity map |
-| 40–45 | Break | | |
-| 45–65 | **Barriers** | Silent writing (red stickers, 5 min) → read out → **cluster** on the wall (10 min) → name clusters | Barrier clusters |
-| 65–75 | **Voting** | Dot voting: 3 dots each on the barriers that hurt most | Top 3 barriers |
-| 75–85 | **Opportunities (no solutions)** | Turn the top 3 into "How might we…" with yellow stickers; Parking lot ideas are only read, not discussed | 2–3 HMW |
-| 85–90 | **Close & check-out** | *"One thing I learned. One thing I would try."* Ask who joins the next Innovation Hour | Commitment, feedback |
+| 0–10 | **Check-in and safety** | Purpose, rules ("no assessment, no ranking, stories stay, learnings leave"), check-in: *"One word for how you work with AI today."* | Safe start |
+| 10–25 | **Levels and self-placement (Understand)** | Present the 5 levels (5 min). Each person silently places an anonymous dot per practice on the grid. Look at the picture together | Maturity map |
+| 25–55 | **Empathize: stories** | Pairs, 10 min each way: *"Tell me about a correction you made to AI more than once. Did it become a shared rule? Where did you stop trusting the result?"* Then silent writing of barriers (red stickers, 5 min) and read out | Real stories, raw barriers |
+| 55–70 | **Cluster and vote** | Cluster on the wall, name clusters, 3 dots each | Top 3 barriers |
+| 70–80 | Break | | |
+| 80–90 | **Define** | Turn the top barrier into 1–2 "How might we…" | HMW |
+| 90–110 | **Ideate (short)** | Crazy 8 on "what is the smallest step that moves us one level up?", cluster, vote; **pick one experiment**: owner, date, success signal | One experiment |
+| 110–120 | **Check-out** | *"One thing I learned. One thing I will try."* Ask who joins as buddy in the next Innovation Hour | Commitment, feedback |
 
-If the group is fewer than 5 people or energy is high, take 15 extra min in "Barriers" (ask "why?" up to 3 times).
+If the group is fewer than 5 people, extend the Empathize block (ask "why?" up to 3 times) and shorten Ideate.
 
 ## 5. Facilitation techniques and exact questions
 
@@ -138,11 +142,11 @@ Also keep:
 Title: *AI Maturity Discovery — what we learned*
 
 1. **Why** (2 lines): the problem we wanted to understand.
-2. **How**: 90-min workshop, 4–6 engineers from different projects, Design Thinking (Understand + Empathize).
+2. **How**: 2h workshop, 4–6 engineers from different projects, Design Thinking (Empathize, Define, short Ideate).
 3. **What we found**: maturity map (small picture), top 3 barriers, 2–3 surprises.
 4. **What we do not know yet** (assumptions + limits: small sample, self-assessed).
-5. **How might we…** (2–3 questions, no solutions chosen).
-6. **Next step**: Innovation Hour #2: one small experiment, owner, date.
+5. **How might we…** (1–2 questions).
+6. **Next step**: Innovation Hour #2: the chosen experiment, owner, date.
 7. **Ask to management** (optional, 1 line), e.g. time slot, clarity on AI rules.
 
 Keep it to one page, no code, no names, simple English.

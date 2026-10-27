@@ -14,7 +14,7 @@ This is separate from the team Mass-Affluent Innovation Challenge. The challenge
 ## Update 26.10.2026
 
 - The Goal is an **ongoing monthly process**, not a one-off task. On 03.11 only the text is sent.
-- Homework = a facilitated AI Maturity Discovery session with 4–6 engineers (who already use AI, skills and agents), using the **official 5 RBI levels** (Dictating → Supervising). Details: [04-practical-workshop.md](04-practical-workshop.md), Goal wording: [02-learning-transfer-goal.md](02-learning-transfer-goal.md).
+- Homework = facilitated 2h AI Maturity Innovation Hour #1 (Empathize → Define → short Ideate, one experiment) with 4–6 engineers who already use AI, skills and agents, using the **official 5 RBI levels** (Dictating → Supervising). Details: [04-practical-workshop.md](04-practical-workshop.md). Goal in official template format (v3): [02-learning-transfer-goal.md](02-learning-transfer-goal.md). Goal ≠ Homework.
 - Open: whether the homework must be handed in (check Participant Guide / Christine).
 
 ## Working progression
@@ -42,8 +42,8 @@ Full plan: [../timeline-and-deadlines.md](../timeline-and-deadlines.md).
 ## Files
 
 - `01-expectation.md` — what I initially sent and what I thought before Budapest.
-- `02-learning-transfer-goal.md` — Goal v2 (draft).
+- `02-learning-transfer-goal.md` — Goal v3 (draft, official template format).
 - `03-meeting-preparation.md` — canvas and plan for the first session.
-- `04-practical-workshop.md` — AI Maturity Discovery Workshop (Understand + Empathize), the homework candidate, 21.10.2026.
+- `04-practical-workshop.md` — AI Maturity Innovation Hour #1 (Empathize → Define → short Ideate, 2h), the homework, target 30.10 or 02.11.
 - `ideas-pool-and-checklist.md` — earlier ideas pool and checklist up to 15.12 (older text, kept for reference).
 - Later: `05-reflection-and-key-takeaways.md`, `06-manager-alignment.md`, `07-progress-log.md`
