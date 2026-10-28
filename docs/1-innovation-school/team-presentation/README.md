@@ -1,6 +1,6 @@
 # Team presentation — "Human-AI collaboration in Innovation"
 
-Status: **brief received 21.10.2026, not started.** Separate from the Wealth Advice challenge pitch (an example from it may be used, but it is not the topic).
+Status: **brief received 21.10.2026; first draft in [draft-presentation.md](draft-presentation.md) (27.10.2026).** Separate from the Wealth Advice challenge pitch (an example from it may be used, but it is not the topic).
 
 - **Team:** Veljko, Arianit, Nikoletta, Maja, Sabrina (with the coach)
 - **Audience:** line managers, online day 04.11.2026
